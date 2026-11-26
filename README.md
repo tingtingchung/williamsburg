@@ -18,9 +18,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (11)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (14)
-- [🎄 Holiday & Winter](#holiday) (6)
-- [🚗 Day Trips](#day-trips) (16)
+- [🎢 Family Fun](#kids) (15)
+- [🎄 Holiday & Winter](#holiday) (7)
+- [🚗 Day Trips](#day-trips) (17)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
 
@@ -943,6 +943,16 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Day Trips](#day-trips), [Boats & Ferries](#boats)</sub>
 
+#### [WinterFest on the Wisconsin](https://www.visitnorfolk.com/?p=26593)
+
+📍 Nauticus, downtown Norfolk waterfront (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+Battleship+Wisconsin+1+Waterside+Dr+Norfolk+VA)
+
+- The historic Battleship Wisconsin gets decked out in holiday lights, with a walk-through light trail on deck, festive decorations below deck, music and Santa.
+- It won ABC's The Great Christmas Light Fight (Heavyweight Division) in 2025!
+- 2026 season: Nov 13 – Jan 1, evening times vary. Tickets about $22 adults, $18 children; buy ahead on the Nauticus website.
+
+<sub>Also in: [Holiday & Winter](#holiday), [Day Trips](#day-trips)</sub>
+
 #### [Chrysler Museum of Art](https://chrysler.org/)
 
 📍 Norfolk (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
@@ -1029,6 +1039,16 @@ Good to know if you're visiting in the cold months.
 - The Virginia Thanksgiving Festival has been celebrated here since 1958.
 
 <sub>Also in: [History within 2 hours](#history-2h), [Day Trips](#day-trips)</sub>
+
+#### [WinterFest on the Wisconsin](https://www.visitnorfolk.com/?p=26593)
+
+📍 Nauticus, downtown Norfolk waterfront (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+Battleship+Wisconsin+1+Waterside+Dr+Norfolk+VA)
+
+- The historic Battleship Wisconsin gets decked out in holiday lights, with a walk-through light trail on deck, festive decorations below deck, music and Santa.
+- It won ABC's The Great Christmas Light Fight (Heavyweight Division) in 2025!
+- 2026 season: Nov 13 – Jan 1, evening times vary. Tickets about $22 adults, $18 children; buy ahead on the Nauticus website.
+
+<sub>Also in: [Family Fun](#kids), [Day Trips](#day-trips)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -1134,6 +1154,16 @@ Easy drives from Williamsburg.
 - The biggest naval base in the world. A great place to see destroyers and other giant ships.
 
 <sub>Also in: [Family Fun](#kids), [Boats & Ferries](#boats)</sub>
+
+#### [WinterFest on the Wisconsin](https://www.visitnorfolk.com/?p=26593)
+
+📍 Nauticus, downtown Norfolk waterfront (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+Battleship+Wisconsin+1+Waterside+Dr+Norfolk+VA)
+
+- The historic Battleship Wisconsin gets decked out in holiday lights, with a walk-through light trail on deck, festive decorations below deck, music and Santa.
+- It won ABC's The Great Christmas Light Fight (Heavyweight Division) in 2025!
+- 2026 season: Nov 13 – Jan 1, evening times vary. Tickets about $22 adults, $18 children; buy ahead on the Nauticus website.
+
+<sub>Also in: [Holiday & Winter](#holiday), [Family Fun](#kids)</sub>
 
 #### [Chrysler Museum of Art](https://chrysler.org/)
 
@@ -1285,6 +1315,7 @@ Worth a stop on the drive down or back.
 | [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn) | [Romantic & Fancy](#romantic), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection) | [Romantic & Fancy](#romantic) |
 | [Williamsburg Premium Outlets](https://www.premiumoutlets.com/outlet/williamsburg) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Premium+Outlets) | [Shops & Groceries](#shopping) |
+| [WinterFest on the Wisconsin](https://www.visitnorfolk.com/?p=26593) | Nauticus, downtown Norfolk waterfront (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Nauticus+Battleship+Wisconsin+1+Waterside+Dr+Norfolk+VA) | [Holiday & Winter](#holiday), [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Yorktown](https://www.visityorktown.org/) | Yorktown (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA) | [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [Yorktown Beach & summer festivals](https://www.visityorktown.org/) | Riverwalk Landing, Yorktown (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Water+Street+Yorktown+VA) | [Beaches & Outdoors](#beaches), [Music](#music), [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Yorktown Sailing Charters](https://www.sailyorktown.com/) | Riverwalk Landing, Yorktown · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Sailing+Charters+425+Water+St+Yorktown+VA) | [Boats & Ferries](#boats), [Romantic & Fancy](#romantic) |
