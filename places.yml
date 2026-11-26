@@ -230,6 +230,31 @@ places:
     notes:
       - My favorite coffee place. A family-owned roaster.
 
+  - name: Anonymous Coffee
+    map: Anonymous Coffee 4808 Courthouse St Williamsburg VA
+    area: New Town
+    tags: [coffee]
+    notes:
+      - A cozy, lounge-style coffee shop with European-style coffees and signature drinks, whose mission is to support mental health.
+      - It moved to New Town in late 2025, so it's easy to pair with a walk around New Town.
+
+  - name: illy Caffè
+    url: https://merchantssquare.org/merchant/illy-cafe
+    map: illy Caffe 435 W Duke of Gloucester St Williamsburg VA
+    area: Merchants Square
+    tags: [coffee]
+    notes:
+      - A European-style café in Merchants Square serving illy coffee, breakfast and lunch, with aperitivo, cocktails and wine later in the day.
+      - Grab a coffee here before or after the Saturday Farmers Market.
+
+  - name: Hohl
+    map: Hohl 219 N Boundary St Williamsburg VA
+    area: N. Boundary St near Colonial Williamsburg (also in Toano)
+    tags: [coffee, restaurants]
+    notes:
+      - A café in a house, with specialty coffee and pastries, breakfast, brunch and lunch made from scratch.
+      - A short walk from Colonial Williamsburg and campus. The original shop is in Toano, west of town.
+
   - name: The Peanut Shop of Williamsburg
     url: https://www.merchantssquare.org/merchant/the-peanut-shop-of-williamsburg/
     map: The Peanut Shop of Williamsburg Merchants Square

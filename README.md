@@ -11,11 +11,11 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (5)
 - [🎶 Music](#music) (2)
-- [🍽️ Restaurants](#restaurants) (13)
+- [🍽️ Restaurants](#restaurants) (14)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (6)
 - [🛍️ Shops & Groceries](#shopping) (10)
-- [☕ Coffee](#coffee) (1)
+- [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (9)
 - [⛵ Boats & Ferries](#boats) (4)
 - [🎢 Family Fun](#kids) (10)
@@ -352,6 +352,15 @@ My favorite places to eat, from fancy to family-style.
 
 <sub>Also in: [Shops & Groceries](#shopping)</sub>
 
+#### Hohl
+
+📍 N. Boundary St near Colonial Williamsburg (also in Toano) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Hohl+219+N+Boundary+St+Williamsburg+VA)
+
+- A café in a house, with specialty coffee and pastries, breakfast, brunch and lunch made from scratch.
+- A short walk from Colonial Williamsburg and campus. The original shop is in Toano, west of town.
+
+<sub>Also in: [Coffee](#coffee)</sub>
+
 #### [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry)
 
 📍 Surry (across the James River) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA)
@@ -599,6 +608,29 @@ Where to pick up local treats, imported goodies and souvenirs.
 📍 Between Jamestown and Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA)
 
 - My favorite coffee place. A family-owned roaster.
+
+#### Anonymous Coffee
+
+📍 New Town · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Anonymous+Coffee+4808+Courthouse+St+Williamsburg+VA)
+
+- A cozy, lounge-style coffee shop with European-style coffees and signature drinks, whose mission is to support mental health.
+- It moved to New Town in late 2025, so it's easy to pair with a walk around New Town.
+
+#### [illy Caffè](https://merchantssquare.org/merchant/illy-cafe)
+
+📍 Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=illy+Caffe+435+W+Duke+of+Gloucester+St+Williamsburg+VA)
+
+- A European-style café in Merchants Square serving illy coffee, breakfast and lunch, with aperitivo, cocktails and wine later in the day.
+- Grab a coffee here before or after the Saturday Farmers Market.
+
+#### Hohl
+
+📍 N. Boundary St near Colonial Williamsburg (also in Toano) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Hohl+219+N+Boundary+St+Williamsburg+VA)
+
+- A café in a house, with specialty coffee and pastries, breakfast, brunch and lunch made from scratch.
+- A short walk from Colonial Williamsburg and campus. The original shop is in Toano, west of town.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -1025,6 +1057,7 @@ Worth a stop on the drive down or back.
 | Place | Where | Sections |
 |---|---|---|
 | [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium) | [Family Fun](#kids), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| Anonymous Coffee | New Town · [map](https://www.google.com/maps/search/?api=1&query=Anonymous+Coffee+4808+Courthouse+St+Williamsburg+VA) | [Coffee](#coffee) |
 | [Berkeley Plantation](https://www.berkeleyplantation.com/) | Charles City, on the James River (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA) | [Holiday & Winter](#holiday), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
 | [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
@@ -1038,7 +1071,9 @@ Worth a stop on the drive down or back.
 | [Fredericksburg](https://www.visitfred.com/) | On the way from DC (about 1 hour 45 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
 | Hagerstown, MD | Maryland · [map](https://www.google.com/maps/search/?api=1&query=Hagerstown+MD) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
 | [Hayashi Sushi & Grill](https://www.newport-news.org/visitors/where-to-dine/74/hayashi-sushi-and-grill) | City Center, Newport News · [map](https://www.google.com/maps/search/?api=1&query=Hayashi+Sushi+%26+Grill+11820+Merchants+Walk+Newport+News+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
+| Hohl | N. Boundary St near Colonial Williamsburg (also in Toano) · [map](https://www.google.com/maps/search/?api=1&query=Hohl+219+N+Boundary+St+Williamsburg+VA) | [Coffee](#coffee), [Restaurants](#restaurants) |
 | [Ichiban](http://ichibannewtown.com/) | New Town · [map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA) | [Restaurants](#restaurants) |
+| [illy Caffè](https://merchantssquare.org/merchant/illy-cafe) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=illy+Caffe+435+W+Duke+of+Gloucester+St+Williamsburg+VA) | [Coffee](#coffee) |
 | [Jamestown](https://historicjamestowne.org/) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne) | [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats), [Family Fun](#kids) |
 | [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement) | [History within 30 minutes](#history-30), [Family Fun](#kids) |
 | [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp) | Jamestown to Surry · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry) | [Boats & Ferries](#boats), [Day Trips](#day-trips), [Family Fun](#kids) |
