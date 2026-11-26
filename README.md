@@ -10,17 +10,17 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🏛️ History in Williamsburg](#history-williamsburg) (6)
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
-- [🎶 Music](#music) (2)
+- [🎶 Music](#music) (3)
 - [🍽️ Restaurants](#restaurants) (16)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (7)
 - [🛍️ Shops & Groceries](#shopping) (11)
 - [☕ Coffee](#coffee) (4)
-- [🏖️ Beaches & Outdoors](#beaches) (10)
+- [🏖️ Beaches & Outdoors](#beaches) (11)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (12)
+- [🎢 Family Fun](#kids) (13)
 - [🎄 Holiday & Winter](#holiday) (6)
-- [🚗 Day Trips](#day-trips) (14)
+- [🚗 Day Trips](#day-trips) (15)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
 
@@ -187,6 +187,7 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
 
 - Visit for the beach, sailboat tours and sushi on the beach at Umi.
+- Go in summer for the free concerts and festivals on Yorktown Beach (see below).
 
 <sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
 
@@ -284,6 +285,16 @@ Free music in historic places.
 - A perfect pair with the Farmers Market (9am–12pm), before or after the recital.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
+
+#### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
+
+📍 Riverwalk Landing, Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Water+Street+Yorktown+VA)
+
+- A sandy beach on the York River right in Historic Yorktown, next to the shops and restaurants of Riverwalk Landing.
+- In summer the waterfront is full of free events: the Sounds of Summer concerts on Thursday evenings (about late May through August), Yorktown Market Days on Saturday mornings, and a July 4th celebration with music on the beach and fireworks over the river.
+- In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Family Fun](#kids), [Day Trips](#day-trips)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -716,8 +727,19 @@ Where to pick up local treats, imported goodies and souvenirs.
 📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
 
 - Visit for the beach, sailboat tours and sushi on the beach at Umi.
+- Go in summer for the free concerts and festivals on Yorktown Beach (see below).
 
 <sub>Also in: [History within 30 minutes](#history-30), [Day Trips](#day-trips)</sub>
+
+#### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
+
+📍 Riverwalk Landing, Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Water+Street+Yorktown+VA)
+
+- A sandy beach on the York River right in Historic Yorktown, next to the shops and restaurants of Riverwalk Landing.
+- In summer the waterfront is full of free events: the Sounds of Summer concerts on Thursday evenings (about late May through August), Yorktown Market Days on Saturday mornings, and a July 4th celebration with music on the beach and fireworks over the river.
+- In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
+
+<sub>Also in: [Music](#music), [Family Fun](#kids), [Day Trips](#day-trips)</sub>
 
 #### Umi Sushi
 
@@ -894,6 +916,16 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips), [History within 2 hours](#history-2h)</sub>
 
+#### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
+
+📍 Riverwalk Landing, Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Water+Street+Yorktown+VA)
+
+- A sandy beach on the York River right in Historic Yorktown, next to the shops and restaurants of Riverwalk Landing.
+- In summer the waterfront is full of free events: the Sounds of Summer concerts on Thursday evenings (about late May through August), Yorktown Market Days on Saturday mornings, and a July 4th celebration with music on the beach and fireworks over the river.
+- In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Music](#music), [Day Trips](#day-trips)</sub>
+
 #### [Virginia Air & Space Science Center](https://vasc.org/)
 
 📍 Hampton (about 36 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA)
@@ -1046,8 +1078,19 @@ Easy drives from Williamsburg.
 📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
 
 - Visit for the beach, sailboat tours and sushi on the beach at Umi.
+- Go in summer for the free concerts and festivals on Yorktown Beach (see below).
 
 <sub>Also in: [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches)</sub>
+
+#### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
+
+📍 Riverwalk Landing, Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Water+Street+Yorktown+VA)
+
+- A sandy beach on the York River right in Historic Yorktown, next to the shops and restaurants of Riverwalk Landing.
+- In summer the waterfront is full of free events: the Sounds of Summer concerts on Thursday evenings (about late May through August), Yorktown Market Days on Saturday mornings, and a July 4th celebration with music on the beach and fireworks over the river.
+- In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Music](#music), [Family Fun](#kids)</sub>
 
 #### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
 
@@ -1221,6 +1264,7 @@ Worth a stop on the drive down or back.
 | [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection) | [Romantic & Fancy](#romantic) |
 | [Williamsburg Premium Outlets](https://www.premiumoutlets.com/outlet/williamsburg) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Premium+Outlets) | [Shops & Groceries](#shopping) |
 | [Yorktown](https://www.visityorktown.org/) | Yorktown (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA) | [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Yorktown Beach & summer festivals](https://www.visityorktown.org/) | Riverwalk Landing, Yorktown (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Water+Street+Yorktown+VA) | [Beaches & Outdoors](#beaches), [Music](#music), [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Yorktown Sailing Charters](https://www.sailyorktown.com/) | Riverwalk Landing, Yorktown · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Sailing+Charters+425+Water+St+Yorktown+VA) | [Boats & Ferries](#boats), [Romantic & Fancy](#romantic) |
 
 ---

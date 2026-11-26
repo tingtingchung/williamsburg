@@ -385,6 +385,17 @@ places:
     tags: [history-30, beaches, day-trips]
     notes:
       - Visit for the beach, sailboat tours and sushi on the beach at Umi.
+      - Go in summer for the free concerts and festivals on Yorktown Beach (see below).
+
+  - name: Yorktown Beach & summer festivals
+    url: https://www.visityorktown.org/
+    map: Yorktown Beach Water Street Yorktown VA
+    area: Riverwalk Landing, Yorktown (about 20 minutes)
+    tags: [beaches, music, kids, day-trips]
+    notes:
+      - A sandy beach on the York River right in Historic Yorktown, next to the shops and restaurants of Riverwalk Landing.
+      - "In summer the waterfront is full of free events: the Sounds of Summer concerts on Thursday evenings (about late May through August), Yorktown Market Days on Saturday mornings, and a July 4th celebration with music on the beach and fireworks over the river."
+      - In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
 
   - name: Yorktown Sailing Charters
     url: https://www.sailyorktown.com/
