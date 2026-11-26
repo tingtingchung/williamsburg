@@ -14,12 +14,12 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🍽️ Restaurants](#restaurants) (13)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (6)
-- [🛍️ Shops & Groceries](#shopping) (9)
+- [🛍️ Shops & Groceries](#shopping) (10)
 - [☕ Coffee](#coffee) (1)
 - [🏖️ Beaches & Outdoors](#beaches) (9)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (9)
-- [🎄 Holiday & Winter](#holiday) (4)
+- [🎢 Family Fun](#kids) (10)
+- [🎄 Holiday & Winter](#holiday) (5)
 - [🚗 Day Trips](#day-trips) (12)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
@@ -570,6 +570,16 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 - Tourists love this outlet mall.
 
+#### [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/)
+
+📍 Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA)
+
+- A European-style Christmas village with about 40 vendor chalets, Santa photos, a train ride, a petting zoo, fire pits, live music, glühwein (warm spiced wine) and market food.
+- 2026 dates: Nov 27–29, Dec 3–6, Dec 10–13 and Dec 17–20. Hours: Thu 11am–6pm, Fri 11am–7pm, Sat 10am–7pm, Sun 11am–6pm.
+- Free on Thursdays; a one-time $5 fee Friday–Sunday covers return visits. Free for 18 and under and students with ID.
+
+<sub>Also in: [Holiday & Winter](#holiday), [Family Fun](#kids)</sub>
+
 #### Korean restaurants & groceries in Newport News
 
 📍 Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA)
@@ -733,6 +743,16 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Holiday & Winter](#holiday)</sub>
 
+#### [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/)
+
+📍 Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA)
+
+- A European-style Christmas village with about 40 vendor chalets, Santa photos, a train ride, a petting zoo, fire pits, live music, glühwein (warm spiced wine) and market food.
+- 2026 dates: Nov 27–29, Dec 3–6, Dec 10–13 and Dec 17–20. Hours: Thu 11am–6pm, Fri 11am–7pm, Sat 10am–7pm, Sun 11am–6pm.
+- Free on Thursdays; a one-time $5 fee Friday–Sunday covers return visits. Free for 18 and under and students with ID.
+
+<sub>Also in: [Holiday & Winter](#holiday), [Shops & Groceries](#shopping)</sub>
+
 #### [Jamestown](https://historicjamestowne.org/)
 
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
@@ -823,6 +843,16 @@ Good to know if you're visiting in the cold months.
 - It will be decorated for Christmas!
 
 <sub>Also in: [Family Fun](#kids)</sub>
+
+#### [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/)
+
+📍 Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA)
+
+- A European-style Christmas village with about 40 vendor chalets, Santa photos, a train ride, a petting zoo, fire pits, live music, glühwein (warm spiced wine) and market food.
+- 2026 dates: Nov 27–29, Dec 3–6, Dec 10–13 and Dec 17–20. Hours: Thu 11am–6pm, Fri 11am–7pm, Sat 10am–7pm, Sun 11am–6pm.
+- Free on Thursdays; a one-time $5 fee Friday–Sunday covers return visits. Free for 18 and under and students with ID.
+
+<sub>Also in: [Shops & Groceries](#shopping), [Family Fun](#kids)</sub>
 
 #### [Berkeley Plantation](https://www.berkeleyplantation.com/)
 
@@ -1033,6 +1063,7 @@ Worth a stop on the drive down or back.
 | [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg) |
+| [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/) | Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA) | [Holiday & Winter](#holiday), [Shops & Groceries](#shopping), [Family Fun](#kids) |
 | [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See](#must-see), [Holiday & Winter](#holiday) |
 | [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn) | [Romantic & Fancy](#romantic), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection) | [Romantic & Fancy](#romantic) |
