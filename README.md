@@ -1198,11 +1198,12 @@ Worth a stop on the drive down or back.
 
 <sub>Also in: [History within 2 hours](#history-2h)</sub>
 
-#### Hagerstown, MD
+#### [Berkeley Springs State Park](https://wvstateparks.com/park/berkeley-springs-state-park/)
 
-📍 Maryland · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Hagerstown+MD)
+📍 Berkeley Springs, West Virginia (northwest of DC) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Berkeley+Springs+State+Park+Berkeley+Springs+WV)
 
-- So glad you stopped by Hagerstown as well! That restaurant looks amazing!
+- Home of the first public bath in the USA, known as "America's first spa." People have soaked in its warm mineral springs since colonial times, and George Washington bathed here.
+- Book a soak in the historic Roman Bath House, or splash in the warm spring pools outside, then explore the little spa town.
 
 [↑ Back to sections](#sections)
 
@@ -1215,6 +1216,7 @@ Worth a stop on the drive down or back.
 | [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium) | [Family Fun](#kids), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | Anonymous Coffee | New Town · [map](https://www.google.com/maps/search/?api=1&query=Anonymous+Coffee+4808+Courthouse+St+Williamsburg+VA) | [Coffee](#coffee) |
 | [Berkeley Plantation](https://www.berkeleyplantation.com/) | Charles City, on the James River (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA) | [Holiday & Winter](#holiday), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
+| [Berkeley Springs State Park](https://wvstateparks.com/park/berkeley-springs-state-park/) | Berkeley Springs, West Virginia (northwest of DC) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Springs+State+Park+Berkeley+Springs+WV) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
 | [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
@@ -1227,7 +1229,6 @@ Worth a stop on the drive down or back.
 | [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach (about 1 hour 10 minutes) · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
 | [Fort Monroe National Monument](https://www.nps.gov/fomr/) | Hampton (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument) | [History within 2 hours](#history-2h), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [Fredericksburg](https://www.visitfred.com/) | On the way from DC (about 1 hour 45 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
-| Hagerstown, MD | Maryland · [map](https://www.google.com/maps/search/?api=1&query=Hagerstown+MD) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
 | [Hayashi Sushi & Grill](https://www.newport-news.org/visitors/where-to-dine/74/hayashi-sushi-and-grill) | City Center, Newport News · [map](https://www.google.com/maps/search/?api=1&query=Hayashi+Sushi+%26+Grill+11820+Merchants+Walk+Newport+News+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | Hohl | N. Boundary St near Colonial Williamsburg (also in Toano) · [map](https://www.google.com/maps/search/?api=1&query=Hohl+219+N+Boundary+St+Williamsburg+VA) | [Coffee](#coffee), [Restaurants](#restaurants) |
 | [Ichiban](http://ichibannewtown.com/) | New Town · [map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA) | [Restaurants](#restaurants) |

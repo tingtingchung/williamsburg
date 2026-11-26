@@ -521,9 +521,11 @@ places:
     notes:
       - Stop for more historical sites.
 
-  - name: Hagerstown, MD
-    map: Hagerstown MD
-    area: Maryland
+  - name: Berkeley Springs State Park
+    url: https://wvstateparks.com/park/berkeley-springs-state-park/
+    map: Berkeley Springs State Park Berkeley Springs WV
+    area: Berkeley Springs, West Virginia (northwest of DC)
     tags: [road-trip]
     notes:
-      - So glad you stopped by Hagerstown as well! That restaurant looks amazing!
+      - Home of the first public bath in the USA, known as "America's first spa." People have soaked in its warm mineral springs since colonial times, and George Washington bathed here.
+      - Book a soak in the historic Roman Bath House, or splash in the warm spring pools outside, then explore the little spa town.
