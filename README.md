@@ -6,13 +6,13 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 ## Sections
 
-- [⭐ Must-See](#must-see) (7)
+- [⭐ Must-See](#must-see) (8)
 - [🏛️ History in Williamsburg](#history-williamsburg) (6)
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (4)
 - [🍽️ Restaurants](#restaurants) (16)
-- [🕯️ Romantic & Fancy](#romantic) (5)
+- [🕯️ Romantic & Fancy](#romantic) (6)
 - [🦪 Seafood & Oysters](#seafood) (7)
 - [🛍️ Shops & Groceries](#shopping) (11)
 - [☕ Coffee](#coffee) (4)
@@ -71,6 +71,16 @@ If you only have a couple of days, start here.
 - A perfect pair with the Saturday Farmers Market (9am–12pm) right outside, before or after the recital.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg), [Music](#music)</sub>
+
+#### [Crim Dell Bridge](https://www.wm.edu/about/visiting/campus-landmarks/crim-dell/index.php)
+
+📍 William & Mary, at the west end of the Sunken Garden · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Crim+Dell+Bridge+William+%26+Mary+Williamsburg+VA)
+
+- A picturesque wooden bridge over a pond in the woods, one of the prettiest spots on campus.
+- Campus legend says that if you kiss at the top of the bridge, you'll be together for life. But cross it alone and you might stay single forever!
+- Every spring, graduating seniors cross the bridge together on their way to Commencement.
+
+<sub>Also in: [Romantic & Fancy](#romantic)</sub>
 
 #### [Mason School of Business](https://mason.wm.edu/)
 
@@ -465,6 +475,16 @@ My favorite places to eat, from fancy to family-style.
 ## 🕯️ Romantic & Fancy
 
 For a special dinner or a fancy stay.
+
+#### [Crim Dell Bridge](https://www.wm.edu/about/visiting/campus-landmarks/crim-dell/index.php)
+
+📍 William & Mary, at the west end of the Sunken Garden · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Crim+Dell+Bridge+William+%26+Mary+Williamsburg+VA)
+
+- A picturesque wooden bridge over a pond in the woods, one of the prettiest spots on campus.
+- Campus legend says that if you kiss at the top of the bridge, you'll be together for life. But cross it alone and you might stay single forever!
+- Every spring, graduating seniors cross the bridge together on their way to Commencement.
+
+<sub>Also in: [Must-See](#must-see)</sub>
 
 #### [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/)
 
@@ -1302,6 +1322,7 @@ Worth a stop on the drive down or back.
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
 | [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Colonial Williamsburg Fifes & Drums](https://www.colonialwilliamsburg.org/events/music-fife-drum-march/) | Duke of Gloucester Street, Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Duke+of+Gloucester+Street+Colonial+Williamsburg) | [Music](#music), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids) |
+| [Crim Dell Bridge](https://www.wm.edu/about/visiting/campus-landmarks/crim-dell/index.php) | William & Mary, at the west end of the Sunken Garden · [map](https://www.google.com/maps/search/?api=1&query=Crim+Dell+Bridge+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [Romantic & Fancy](#romantic) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach (about 1 hour 10 minutes) · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
