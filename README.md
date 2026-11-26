@@ -7,7 +7,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 ## Sections
 
 - [⭐ Must-See](#must-see) (7)
-- [🏛️ History](#history) (14)
+- [🏛️ History in Williamsburg](#history-williamsburg) (6)
+- [🏛️ History within 30 minutes](#history-30) (4)
+- [🏛️ History within 2 hours](#history-2h) (4)
 - [🎶 Music](#music) (2)
 - [🍽️ Restaurants](#restaurants) (13)
 - [🕯️ Romantic & Fancy](#romantic) (5)
@@ -52,7 +54,7 @@ If you only have a couple of days, start here.
 
 - The campus is beautiful. You should definitely walk around for a visit.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
 #### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
 
@@ -62,7 +64,7 @@ If you only have a couple of days, start here.
 - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
 - The Saturday Farmers Market is right outside.
 
-<sub>Also in: [History](#history), [Music](#music)</sub>
+<sub>Also in: [History in Williamsburg](#history-williamsburg), [Music](#music)</sub>
 
 #### [Mason School of Business](https://mason.wm.edu/)
 
@@ -77,7 +79,7 @@ If you only have a couple of days, start here.
 
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
-<sub>Also in: [History](#history), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
+<sub>Also in: [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
 
 #### [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/)
 
@@ -92,11 +94,11 @@ If you only have a couple of days, start here.
 
 [↑ Back to sections](#sections)
 
-<a id="history"></a>
+<a id="history-williamsburg"></a>
 
-## 🏛️ History
+## 🏛️ History in Williamsburg
 
-Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triangle.
+Colonial Williamsburg and the William & Mary campus, all within walking distance.
 
 #### [William & Mary campus](https://www.wm.edu/)
 
@@ -149,9 +151,17 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 <sub>Also in: [Romantic & Fancy](#romantic)</sub>
 
+[↑ Back to sections](#sections)
+
+<a id="history-30"></a>
+
+## 🏛️ History within 30 minutes
+
+Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Triangle.
+
 #### [Jamestown](https://historicjamestowne.org/)
 
-📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
 
 - Visit for the beach, historical tours and sailboat trips.
 - Jamestown Settlement (the living-history museum) is next door; see below.
@@ -160,7 +170,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 #### [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement)
 
-📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
 
@@ -168,21 +178,29 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 #### [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/)
 
-📍 Historic Jamestowne (Jamestown Island) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne)
+📍 Historic Jamestowne, Jamestown Island (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne)
 
 - This area is Pocahontas country! Her bronze statue (1922) stands at Historic Jamestowne on Jamestown Island.
 
 #### [Yorktown](https://www.visityorktown.org/)
 
-📍 Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
+📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
 
 - Visit for the beach, sailboat tours and sushi on the beach at Umi.
 
 <sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
 
+[↑ Back to sections](#sections)
+
+<a id="history-2h"></a>
+
+## 🏛️ History within 2 hours
+
+Worth a day trip, or a stop on the drive to or from DC. Drive times are approximate, from Williamsburg.
+
 #### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
 
-📍 Hampton · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
+📍 Hampton (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
 
 - Beach plus historical sightseeing.
 
@@ -190,7 +208,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 #### [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing)
 
-📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
+📍 Virginia Beach (about 1 hour 10 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
 
 - Has a beach and is close to Virginia Beach.
 
@@ -198,7 +216,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 #### [Charlottesville](https://www.visitcharlottesville.org/)
 
-📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA)
+📍 On the way from DC (about 2 hours) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA)
 
 - Stop for more historical sites.
 
@@ -206,7 +224,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 #### [Fredericksburg](https://www.visitfred.com/)
 
-📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA)
+📍 On the way from DC (about 1 hour 45 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA)
 
 - Stop for more historical sites.
 
@@ -228,7 +246,7 @@ Free music in historic places.
 - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
 - The Saturday Farmers Market is right outside.
 
-<sub>Also in: [Must-See](#must-see), [History](#history)</sub>
+<sub>Also in: [Must-See](#must-see), [History in Williamsburg](#history-williamsburg)</sub>
 
 #### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
 
@@ -237,7 +255,7 @@ Free music in historic places.
 - Free, every Saturday at 10am, played on an 18th-century English chamber organ.
 - Pairs perfectly with the Farmers Market right after.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -262,7 +280,7 @@ My favorite places to eat, from fancy to family-style.
 
 - A colonial-themed restaurant with servers in period dress, right in the Historic Area.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
 #### [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg)
 
@@ -372,7 +390,7 @@ For a special dinner or a fancy stay.
 
 - Very fancy. Queen Elizabeth II stayed here on both of her visits to Williamsburg.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
 #### [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/)
 
@@ -571,20 +589,20 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 #### [Jamestown](https://historicjamestowne.org/)
 
-📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
 
 - Visit for the beach, historical tours and sailboat trips.
 - Jamestown Settlement (the living-history museum) is next door; see below.
 
-<sub>Also in: [History](#history), [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
+<sub>Also in: [History within 30 minutes](#history-30), [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
 
 #### [Yorktown](https://www.visityorktown.org/)
 
-📍 Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
+📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
 
 - Visit for the beach, sailboat tours and sushi on the beach at Umi.
 
-<sub>Also in: [History](#history), [Day Trips](#day-trips)</sub>
+<sub>Also in: [History within 30 minutes](#history-30), [Day Trips](#day-trips)</sub>
 
 #### Umi Sushi
 
@@ -596,11 +614,11 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 #### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
 
-📍 Hampton · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
+📍 Hampton (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
 
 - Beach plus historical sightseeing.
 
-<sub>Also in: [History](#history), [Day Trips](#day-trips)</sub>
+<sub>Also in: [History within 2 hours](#history-2h), [Day Trips](#day-trips)</sub>
 
 #### [Virginia Beach](https://www.visitvirginiabeach.com/)
 
@@ -620,11 +638,11 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 #### [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing)
 
-📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
+📍 Virginia Beach (about 1 hour 10 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
 
 - Has a beach and is close to Virginia Beach.
 
-<sub>Also in: [History](#history), [Day Trips](#day-trips)</sub>
+<sub>Also in: [History within 2 hours](#history-2h), [Day Trips](#day-trips)</sub>
 
 #### [Outer Banks](https://www.outerbanks.org/)
 
@@ -651,12 +669,12 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 #### [Jamestown](https://historicjamestowne.org/)
 
-📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
 
 - Visit for the beach, historical tours and sailboat trips.
 - Jamestown Settlement (the living-history museum) is next door; see below.
 
-<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches), [Family Fun](#kids)</sub>
+<sub>Also in: [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Family Fun](#kids)</sub>
 
 #### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
 
@@ -696,7 +714,7 @@ Kid-approved (Connor-approved!) things to do.
 
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
-<sub>Also in: [Must-See](#must-see), [History](#history), [Holiday & Winter](#holiday)</sub>
+<sub>Also in: [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Holiday & Winter](#holiday)</sub>
 
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
@@ -708,20 +726,20 @@ Kid-approved (Connor-approved!) things to do.
 
 #### [Jamestown](https://historicjamestowne.org/)
 
-📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
 
 - Visit for the beach, historical tours and sailboat trips.
 - Jamestown Settlement (the living-history museum) is next door; see below.
 
-<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats)</sub>
+<sub>Also in: [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats)</sub>
 
 #### [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement)
 
-📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History within 30 minutes](#history-30)</sub>
 
 #### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
 
@@ -787,7 +805,7 @@ Good to know if you're visiting in the cold months.
 
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
-<sub>Also in: [Must-See](#must-see), [History](#history), [Family Fun](#kids)</sub>
+<sub>Also in: [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids)</sub>
 
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
@@ -823,19 +841,19 @@ Easy drives from Williamsburg.
 
 #### [Yorktown](https://www.visityorktown.org/)
 
-📍 Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
+📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
 
 - Visit for the beach, sailboat tours and sushi on the beach at Umi.
 
-<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches)</sub>
+<sub>Also in: [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches)</sub>
 
 #### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
 
-📍 Hampton · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
+📍 Hampton (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
 
 - Beach plus historical sightseeing.
 
-<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches)</sub>
+<sub>Also in: [History within 2 hours](#history-2h), [Beaches & Outdoors](#beaches)</sub>
 
 #### [Virginia Air & Space Science Center](https://vasc.org/)
 
@@ -880,11 +898,11 @@ Easy drives from Williamsburg.
 
 #### [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing)
 
-📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
+📍 Virginia Beach (about 1 hour 10 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
 
 - Has a beach and is close to Virginia Beach.
 
-<sub>Also in: [Beaches & Outdoors](#beaches), [History](#history)</sub>
+<sub>Also in: [Beaches & Outdoors](#beaches), [History within 2 hours](#history-2h)</sub>
 
 #### [Outer Banks](https://www.outerbanks.org/)
 
@@ -921,19 +939,19 @@ Worth a stop on the drive down or back.
 
 #### [Charlottesville](https://www.visitcharlottesville.org/)
 
-📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA)
+📍 On the way from DC (about 2 hours) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA)
 
 - Stop for more historical sites.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History within 2 hours](#history-2h)</sub>
 
 #### [Fredericksburg](https://www.visitfred.com/)
 
-📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA)
+📍 On the way from DC (about 1 hour 45 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA)
 
 - Stop for more historical sites.
 
-<sub>Also in: [History](#history)</sub>
+<sub>Also in: [History within 2 hours](#history-2h)</sub>
 
 #### Hagerstown, MD
 
@@ -953,21 +971,21 @@ Worth a stop on the drive down or back.
 | [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
-| [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History](#history) |
+| [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC (about 2 hours) · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
-| [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History](#history), [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
-| [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History](#history), [Day Trips](#day-trips) |
-| [Fort Monroe National Monument](https://www.nps.gov/fomr/) | Hampton · [map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument) | [History](#history), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
-| [Fredericksburg](https://www.visitfred.com/) | On the way from DC · [map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History](#history) |
+| [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach (about 1 hour 10 minutes) · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
+| [Fort Monroe National Monument](https://www.nps.gov/fomr/) | Hampton (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument) | [History within 2 hours](#history-2h), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Fredericksburg](https://www.visitfred.com/) | On the way from DC (about 1 hour 45 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
 | Hagerstown, MD | Maryland · [map](https://www.google.com/maps/search/?api=1&query=Hagerstown+MD) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
 | [Hayashi Sushi & Grill](https://www.newport-news.org/visitors/where-to-dine/74/hayashi-sushi-and-grill) | City Center, Newport News · [map](https://www.google.com/maps/search/?api=1&query=Hayashi+Sushi+%26+Grill+11820+Merchants+Walk+Newport+News+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Ichiban](http://ichibannewtown.com/) | New Town · [map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA) | [Restaurants](#restaurants) |
-| [Jamestown](https://historicjamestowne.org/) | Jamestown · [map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne) | [History](#history), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats), [Family Fun](#kids) |
-| [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement) | Jamestown · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement) | [History](#history), [Family Fun](#kids) |
+| [Jamestown](https://historicjamestowne.org/) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne) | [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats), [Family Fun](#kids) |
+| [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement) | [History within 30 minutes](#history-30), [Family Fun](#kids) |
 | [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp) | Jamestown to Surry · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry) | [Boats & Ferries](#boats), [Day Trips](#day-trips), [Family Fun](#kids) |
 | [Kephi Greek Kitchen](https://kephigreek.kitchen/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
-| [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA) | [Restaurants](#restaurants), [History](#history) |
+| [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA) | [Restaurants](#restaurants), [History in Williamsburg](#history-williamsburg) |
 | Korean restaurants & groceries in Newport News | Newport News · [map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Day Trips](#day-trips) |
 | [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Luray Caverns](https://luraycaverns.com/) | Luray, near Skyline Drive · [map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Family Fun](#kids) |
@@ -977,21 +995,21 @@ Worth a stop on the drive down or back.
 | [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/) | Norfolk (about 40 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk) | [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats) |
 | [Outer Banks](https://www.outerbanks.org/) | North Carolina (about 1 hour past Virginia Beach) · [map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [The Peanut Shop of Williamsburg](https://www.merchantssquare.org/merchant/the-peanut-shop-of-williamsburg/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=The+Peanut+Shop+of+Williamsburg+Merchants+Square) | [Shops & Groceries](#shopping) |
-| [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/) | Historic Jamestowne (Jamestown Island) · [map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne) | [History](#history) |
+| [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/) | Historic Jamestowne, Jamestown Island (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne) | [History within 30 minutes](#history-30) |
 | [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Must-See](#must-see) |
-| [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary) | [Music](#music), [History](#history) |
-| [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See](#must-see), [History](#history), [Music](#music) |
+| [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary) | [Music](#music), [History in Williamsburg](#history-williamsburg) |
+| [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Music](#music) |
 | [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) | Shenandoah National Park · [map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Beaches & Outdoors](#beaches) |
 | [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry) | Surry (across the James River) · [map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Day Trips](#day-trips) |
 | Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
 | [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
-| [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History](#history) |
+| [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See](#must-see), [Holiday & Winter](#holiday) |
-| [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn) | [Romantic & Fancy](#romantic), [History](#history) |
+| [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn) | [Romantic & Fancy](#romantic), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection) | [Romantic & Fancy](#romantic) |
 | [Williamsburg Premium Outlets](https://www.premiumoutlets.com/outlet/williamsburg) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Premium+Outlets) | [Shops & Groceries](#shopping) |
-| [Yorktown](https://www.visityorktown.org/) | Yorktown · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA) | [History](#history), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Yorktown](https://www.visityorktown.org/) | Yorktown (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA) | [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [Yorktown Sailing Charters](https://www.sailyorktown.com/) | Riverwalk Landing, Yorktown · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Sailing+Charters+425+Water+St+Yorktown+VA) | [Boats & Ferries](#boats), [Romantic & Fancy](#romantic) |
 
 ---

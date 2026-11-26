@@ -17,9 +17,15 @@ sections:
   - key: must-see
     title: "⭐ Must-See"
     intro: "If you only have a couple of days, start here."
-  - key: history
-    title: "🏛️ History"
-    intro: "Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triangle."
+  - key: history-williamsburg
+    title: "🏛️ History in Williamsburg"
+    intro: "Colonial Williamsburg and the William & Mary campus, all within walking distance."
+  - key: history-30
+    title: "🏛️ History within 30 minutes"
+    intro: "Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Triangle."
+  - key: history-2h
+    title: "🏛️ History within 2 hours"
+    intro: "Worth a day trip, or a stop on the drive to or from DC. Drive times are approximate, from Williamsburg."
   - key: music
     title: "🎶 Music"
     intro: "Free music in historic places."
@@ -81,7 +87,7 @@ places:
     url: https://www.wm.edu/
     map: College of William & Mary Williamsburg VA
     area: Williamsburg
-    tags: [must-see, history]
+    tags: [must-see, history-williamsburg]
     notes:
       - The campus is beautiful. You should definitely walk around for a visit.
 
@@ -89,7 +95,7 @@ places:
     url: https://www.colonialwilliamsburg.org/locations/wren-building/
     map: Wren Building William & Mary
     area: William & Mary
-    tags: [must-see, history, music]
+    tags: [must-see, history-williamsburg, music]
     notes:
       - The oldest academic building still in use in the USA, so you should go see it.
       - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
@@ -99,7 +105,7 @@ places:
     url: https://www.wm.edu/sites/historiccampus/visiting/organrecitals/
     map: Wren Chapel William & Mary
     area: William & Mary
-    tags: [music, history]
+    tags: [music, history-williamsburg]
     notes:
       - Free, every Saturday at 10am, played on an 18th-century English chamber organ.
       - Pairs perfectly with the Farmers Market right after.
@@ -117,7 +123,7 @@ places:
     url: https://www.colonialwilliamsburg.org/
     map: Colonial Williamsburg Visitor Center
     area: Williamsburg
-    tags: [must-see, history, kids, holiday]
+    tags: [must-see, history-williamsburg, kids, holiday]
     notes:
       - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
@@ -125,7 +131,7 @@ places:
     url: https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/
     map: King's Arms Tavern Williamsburg VA
     area: Colonial Williamsburg
-    tags: [restaurants, history]
+    tags: [restaurants, history-williamsburg]
     notes:
       - A colonial-themed restaurant with servers in period dress, right in the Historic Area.
 
@@ -133,7 +139,7 @@ places:
     url: https://www.colonialwilliamsburg.org/stay-play/accommodations/
     map: Williamsburg Inn
     area: Colonial Williamsburg
-    tags: [romantic, history]
+    tags: [romantic, history-williamsburg]
     notes:
       - Very fancy. Queen Elizabeth II stayed here on both of her visits to Williamsburg.
 
@@ -252,8 +258,8 @@ places:
   - name: Jamestown
     url: https://historicjamestowne.org/
     map: Historic Jamestowne
-    area: Jamestown
-    tags: [history, beaches, boats, kids]
+    area: Jamestown (about 15 minutes)
+    tags: [history-30, beaches, boats, kids]
     notes:
       - Visit for the beach, historical tours and sailboat trips.
       - Jamestown Settlement (the living-history museum) is next door; see below.
@@ -261,16 +267,16 @@ places:
   - name: Jamestown Settlement
     url: https://www.jyfmuseums.org/visit/jamestown-settlement
     map: Jamestown Settlement
-    area: Jamestown
-    tags: [history, kids]
+    area: Jamestown (about 15 minutes)
+    tags: [history-30, kids]
     notes:
       - Living-history museum with replica ships, a Powhatan village and a fort.
 
   - name: Pocahontas statue
     url: https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/
     map: Pocahontas statue Historic Jamestowne
-    area: Historic Jamestowne (Jamestown Island)
-    tags: [history]
+    area: Historic Jamestowne, Jamestown Island (about 15 minutes)
+    tags: [history-30]
     notes:
       - This area is Pocahontas country! Her bronze statue (1922) stands at Historic Jamestowne on Jamestown Island.
 
@@ -294,8 +300,8 @@ places:
   - name: Yorktown
     url: https://www.visityorktown.org/
     map: Yorktown Beach Yorktown VA
-    area: Yorktown
-    tags: [history, beaches, day-trips]
+    area: Yorktown (about 20 minutes)
+    tags: [history-30, beaches, day-trips]
     notes:
       - Visit for the beach, sailboat tours and sushi on the beach at Umi.
 
@@ -318,8 +324,8 @@ places:
   - name: Fort Monroe National Monument
     url: https://www.nps.gov/fomr/
     map: Fort Monroe National Monument
-    area: Hampton
-    tags: [history, beaches, day-trips]
+    area: Hampton (about 40 minutes)
+    tags: [history-2h, beaches, day-trips]
     notes:
       - Beach plus historical sightseeing.
 
@@ -376,8 +382,8 @@ places:
   - name: First Landing State Park
     url: https://www.dcr.virginia.gov/state-parks/first-landing
     map: First Landing State Park
-    area: Virginia Beach
-    tags: [beaches, history, day-trips]
+    area: Virginia Beach (about 1 hour 10 minutes)
+    tags: [beaches, history-2h, day-trips]
     notes:
       - Has a beach and is close to Virginia Beach.
 
@@ -410,16 +416,16 @@ places:
   - name: Charlottesville
     url: https://www.visitcharlottesville.org/
     map: Charlottesville VA
-    area: On the way from DC
-    tags: [road-trip, history]
+    area: On the way from DC (about 2 hours)
+    tags: [road-trip, history-2h]
     notes:
       - Stop for more historical sites.
 
   - name: Fredericksburg
     url: https://www.visitfred.com/
     map: Fredericksburg VA
-    area: On the way from DC
-    tags: [road-trip, history]
+    area: On the way from DC (about 1 hour 45 minutes)
+    tags: [road-trip, history-2h]
     notes:
       - Stop for more historical sites.
 
