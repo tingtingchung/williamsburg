@@ -123,7 +123,7 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary)
 
 - Free, every Saturday at 10am, played on an 18th-century English chamber organ.
-- Pairs perfectly with the Farmers Market right after.
+- A perfect pair with the Farmers Market (9am–12pm), before or after the recital.
 
 <sub>Also in: [Music](#music)</sub>
 
@@ -253,7 +253,7 @@ Free music in historic places.
 📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary)
 
 - Free, every Saturday at 10am, played on an 18th-century English chamber organ.
-- Pairs perfectly with the Farmers Market right after.
+- A perfect pair with the Farmers Market (9am–12pm), before or after the recital.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
