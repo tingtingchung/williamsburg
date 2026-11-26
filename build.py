@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate README.md from places.yml.
+"""Generate README.md and index.html (from template.html) using places.yml.
 
 Every place lists the sections it belongs to under `tags`, so a place can
 appear in several sections. Edit places.yml, then run:
@@ -98,8 +98,18 @@ out.append("")
 out.append("---\n")
 out.append(
     "<sub>Hours, seasons and schedules change, so check each website before you go. "
-    "To add or edit a place, update `places.yml` and run `python3 build.py`.</sub>\n"
+    "To add or edit a place, update `places.yml` and run `python3 build.py` "
+    "(this rebuilds both this README and the web page, `index.html`).</sub>\n"
 )
 
 (ROOT / "README.md").write_text("\n".join(out), encoding="utf-8")
 print(f"Wrote README.md: {len(places)} places in {len(sections)} sections")
+
+# HTML page: inject the same data into template.html
+import json
+
+payload = json.dumps({"sections": sections, "places": places}, ensure_ascii=False)
+payload = payload.replace("</", "<\\/")  # never close the <script> early
+html = (ROOT / "template.html").read_text(encoding="utf-8").replace("__DATA__", payload)
+(ROOT / "index.html").write_text(html, encoding="utf-8")
+print("Wrote index.html")

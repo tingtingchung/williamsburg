@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rachel's Williamsburg Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* VOICE everyday travel guide, warm and personal, a friend's handwritten tips made tidy
+   IDEA a colonial-era town guide: Caslon lettering, Wren Building brick, Chesapeake water
+   PICTURE full-width skyline band: Blue Ridge, the Wren Building with cupola, a schooner on the bay
+   COLOUR white ground, brick red leads, bay blue supports, oyster gold accent for tips
+   TYPE Libre Caslon Display for titles + Work Sans for text
+   LAYOUT title across the top, scene beneath, sticky section chips + search, then card grids per section; phone stacks to one column */
+:root{color-scheme:light dark;
+--bg:light-dark(#ffffff,#14110f);--ink:light-dark(#1d1714,#f1ebe6);--soft:light-dark(#5d524c,#b9aea7);
+--brick:light-dark(#a3301c,#e0725c);--brickd:light-dark(#7d2414,#b4523e);--bay:light-dark(#0f4c6b,#7fb8d6);
+--gold:light-dark(#fdf0c9,#3a2f17);--goldink:light-dark(#6b4c00,#f3d58a);--line:light-dark(#eadfd8,#2f2824);
+--card:light-dark(#ffffff,#1c1714);--chip:light-dark(#f6ece7,#261f1b);
+--sky1:light-dark(#fbe9dc,#0c1726);--sky2:light-dark(#dcecf4,#1b2c44);--m1:light-dark(#b8cfdc,#25374f);--m2:light-dark(#8fb1c4,#30475f);
+--grass:light-dark(#c9c9a2,#2b2a1f);--water1:light-dark(#2f7aa0,#1e4c66);--water2:light-dark(#0f4c6b,#0e2a3b);--sun:light-dark(#f6c38b,#e9e3c9)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+html{scroll-padding-top:130px}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Work Sans",system-ui,sans-serif;overflow-x:clip}
+a{color:var(--bay)}
+.wrap{max-width:1240px;margin:0 auto}
+.band{padding-block:clamp(24px,4vw,56px);padding-inline:max(5vw,16px)}
+header.band{padding-bottom:12px}
+h1,h2,h3{font-family:"Libre Caslon Display",Georgia,serif;font-weight:400;letter-spacing:-.01em;line-height:1.05;text-wrap:balance;margin:0}
+h1{font-size:clamp(36px,6vw,58px);color:var(--brick)}
+.lede{font-size:17px;max-width:62ch;margin:14px 0 0;color:var(--soft)}
+.scene{display:block;width:100%;height:clamp(170px,26vw,300px)}
+.bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;padding:12px max(5vw,16px)}
+.chips{display:flex;gap:8px;overflow-x:auto;flex:1 1 520px;padding-bottom:2px;scrollbar-width:thin}
+.chips a{flex:none;text-decoration:none;color:var(--ink);background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:9px 14px;font-size:14px;white-space:nowrap;min-height:40px;display:inline-flex;align-items:center;gap:6px}
+.chips a b{font-weight:500;color:var(--soft);font-size:13px}
+.chips a:hover{border-color:var(--brick)}
+.chips a[aria-current=true]{background:var(--brick);border-color:var(--brick);color:#fff}
+.chips a[aria-current=true] b{color:#fff}
+.search{flex:0 1 260px;position:relative}
+.search input{width:100%;font:16px "Work Sans",sans-serif;padding:9px 12px;min-height:44px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
+:focus-visible{outline:3px solid var(--bay);outline-offset:2px}
+.sat{background:var(--bay);color:#fff}
+.sat .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px;align-items:start}
+.sat h2{font-size:clamp(28px,3.4vw,40px)}
+.sat p{margin:10px 0 0;opacity:.85;font-size:15px}
+.sat ol{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.sat li{display:grid;grid-template-columns:5.5em minmax(0,1fr);gap:12px;border-top:1px solid rgba(255,255,255,.25);padding-top:12px}
+.sat time{font-family:"Libre Caslon Display",Georgia,serif;font-size:24px;white-space:nowrap;line-height:1.1}
+.sat a{color:#fff}
+section.sec{padding-top:clamp(28px,4vw,48px)}
+.sec header{display:flex;flex-wrap:wrap;gap:4px 16px;align-items:baseline;border-bottom:2px solid var(--brick);padding-bottom:10px;margin-bottom:18px}
+.sec h2{font-size:clamp(28px,3.6vw,40px);color:var(--brick)}
+.sec header p{margin:0;color:var(--soft);font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 18px 14px;display:flex;flex-direction:column;gap:8px}
+.card h3{font-size:24px}
+.card h3 a{color:var(--ink);text-decoration-color:var(--brick);text-underline-offset:4px}
+.area{font-size:14px;color:var(--soft);margin:0}
+.card ul{margin:2px 0 0;padding-left:1.1em}
+.card li{margin:4px 0}
+.tip{background:var(--gold);color:var(--goldink);border-radius:10px;padding:8px 12px;margin:2px 0 0;font-size:15px}
+.tip strong{font-weight:600}
+.foot{margin-top:auto;padding-top:8px;display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;font-size:13px;color:var(--soft)}
+.foot a{text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 10px;color:var(--ink);background:var(--chip)}
+.foot a.map{background:transparent;border-color:var(--bay);color:var(--bay);font-weight:500}
+.empty{padding:40px 0;color:var(--soft);font-size:17px}
+footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);font-size:14px}
+@media(max-width:760px){.sat .wrap{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){.bar .wrap{gap:8px}.search{flex:1 1 100%}html{scroll-padding-top:150px}.sat li{grid-template-columns:4.5em minmax(0,1fr)}.sat time{font-size:20px}}
+@media(prefers-reduced-motion:no-preference){.sail{animation:bob 6s ease-in-out infinite;transform-origin:960px 250px}@keyframes bob{50%{transform:translateY(3px) rotate(-.6deg)}}}
+</style>
+</head>
+<body>
+<header class="band"><div class="wrap">
+<h1>Rachel's Guide to Williamsburg, Virginia</h1>
+<p class="lede">My personal tips for Williamsburg and the Historic Triangle: where to eat, what to see, and who to say hi to. Pick a section or search. Places that fit more than one section show up in each.</p>
+</div></header>
+
+<svg class="scene" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMax slice" role="img" aria-label="The Blue Ridge, the Wren Building and a schooner on the bay">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" style="stop-color:var(--sky2)"/><stop offset="1" style="stop-color:var(--sky1)"/></linearGradient>
+<linearGradient id="wat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" style="stop-color:var(--water1)"/><stop offset="1" style="stop-color:var(--water2)"/></linearGradient>
+<pattern id="win" width="26" height="34" patternUnits="userSpaceOnUse" x="338" y="160"><rect x="7" y="4" width="12" height="20" rx="1" fill="#f7efe6"/><rect x="7" y="13" width="12" height="1.5" fill="#c9b8a8"/><rect x="12.3" y="4" width="1.5" height="20" fill="#c9b8a8"/></pattern>
+<g id="tree"><rect x="-3" y="0" width="6" height="22" fill="#5b4334"/><circle cx="0" cy="-8" r="20" fill="#4f6b3a"/><circle cx="-7" cy="-14" r="11" fill="#6a8a4c"/></g>
+</defs>
+<rect width="1200" height="300" fill="url(#sky)"/>
+<circle cx="1080" cy="70" r="30" style="fill:var(--sun)"/>
+<path d="M0 190 C120 140 200 160 290 130 S470 150 560 135 760 120 880 150 1060 140 1200 160 V300 H0Z" style="fill:var(--m1)"/>
+<path d="M0 220 C90 190 180 200 260 178 S420 200 520 192 680 170 780 196 V300 H0Z" style="fill:var(--m2)"/>
+<rect y="248" width="1200" height="52" style="fill:var(--grass)"/>
+<path d="M760 252 C860 240 1000 238 1200 236 V300 H730Z" fill="url(#wat)"/>
+<g style="fill:#fff" opacity=".35"><rect x="820" y="262" width="60" height="2" rx="1"/><rect x="1010" y="275" width="80" height="2" rx="1"/><rect x="900" y="288" width="50" height="2" rx="1"/></g>
+<use href="#tree" x="270" y="228"/><use href="#tree" x="300" y="234" transform="translate(300 234) scale(.8) translate(-300 -234)"/><use href="#tree" x="730" y="230"/><use href="#tree" x="140" y="232" transform="translate(140 232) scale(.7) translate(-140 -232)"/>
+<g>
+<polygon points="322,152 698,152 664,108 356,108" style="fill:var(--brickd)"/>
+<polygon points="510,152 698,152 664,108 510,108" fill="#000" opacity=".18"/>
+<rect x="330" y="150" width="360" height="100" style="fill:var(--brick)"/>
+<rect x="510" y="150" width="180" height="100" fill="#000" opacity=".12"/>
+<rect x="330" y="150" width="360" height="100" fill="url(#win)"/>
+<polygon points="462,146 558,146 510,116" fill="#f3ead9"/>
+<rect x="468" y="144" width="84" height="106" style="fill:var(--brick)"/>
+<rect x="468" y="144" width="84" height="106" fill="url(#win)" opacity=".9"/>
+<rect x="497" y="208" width="26" height="42" rx="13" fill="#3a2a22"/>
+<rect x="496" y="76" width="28" height="34" fill="#f3ead9"/><rect x="510" y="76" width="14" height="34" fill="#000" opacity=".1"/>
+<rect x="503" y="84" width="14" height="18" rx="7" fill="#3a2a22"/>
+<path d="M492 78 Q510 56 528 78Z" fill="#e7dccb"/>
+<rect x="509" y="40" width="2" height="26" fill="#3a2a22"/><circle cx="510" cy="40" r="3" fill="#3a2a22"/>
+<rect x="400" y="92" width="10" height="20" fill="#6d2416"/><rect x="610" y="92" width="10" height="20" fill="#6d2416"/>
+</g>
+<g class="sail">
+<path d="M900 248 H1030 L1012 264 H914Z" fill="#3a2a22"/>
+<rect x="944" y="130" width="3" height="120" fill="#3a2a22"/><rect x="986" y="118" width="3" height="132" fill="#3a2a22"/>
+<polygon points="947,136 947,240 900,240" fill="#fbf7f0"/><polygon points="989,124 989,240 952,240" fill="#fbf7f0"/>
+<polygon points="989,124 989,240 972,240" fill="#000" opacity=".08"/>
+<polygon points="989,150 1030,240 991,240" fill="#efe6d8"/>
+<polygon points="986,118 986,108 1000,112" fill="#a3301c"/>
+</g>
+</svg>
+
+<nav class="bar" aria-label="Sections"><div class="wrap">
+<div class="chips" id="chips"></div>
+<div class="search"><label for="q" style="position:absolute;left:-9999px">Search places</label><input id="q" type="search" placeholder="Search: oysters, pizza, beach…" autocomplete="off"></div>
+</div></nav>
+
+<section class="sat band"><div class="wrap">
+<div><h2>A perfect Saturday morning</h2><p>A suggested plan built from Rachel's notes. Check winter hours for the market.</p></div>
+<ol>
+<li><time>9:00</time><div><a href="#shopping">Farmers Market</a> at Merchants Square (the square is closed to cars 9am–12pm).</div></li>
+<li><time>10:00</time><div>Free <a href="#music">organ recital</a> in the Wren Chapel, the oldest academic building in the USA.</div></li>
+<li><time>10:30</time><div>Walk the William &amp; Mary campus to the Mason School of Business, then around back to the lake and amphitheatre.</div></li>
+<li><time>Evening</time><div>A <a href="#romantic">romantic dinner</a> at Le Yaca or Fat Canary.</div></li>
+</ol>
+</div></section>
+
+<main class="band" style="padding-top:0"><div class="wrap" id="main"></div></main>
+
+<footer class="band"><div class="wrap">
+Hours, seasons and schedules change, so check each website before you go. Map links open a Google Maps search.
+</div></footer>
+
+<script>
+{
+const D = __DATA__;
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const strip = t => t.replace(/^\S+\s+/, '');
+const byKey = Object.fromEntries(D.sections.map(s => [s.key, s]));
+const mapUrl = p => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(p.map || p.name);
+const count = k => D.places.filter(p => p.tags.includes(k)).length;
+const chips = document.getElementById('chips');
+const main = document.getElementById('main');
+const q = document.getElementById('q');
+
+chips.innerHTML = '<a href="#all" data-k="all">All <b>' + D.places.length + '</b></a>' +
+  D.sections.map(s => '<a href="#' + esc(s.key) + '" data-k="' + esc(s.key) + '">' + esc(strip(s.title)) + ' <b>' + count(s.key) + '</b></a>').join('');
+
+const card = (p, cur) => {
+  const name = p.url ? '<a href="' + esc(p.url) + '">' + esc(p.name) + '</a>' : esc(p.name);
+  const also = p.tags.filter(t => t !== cur).map(t => '<a href="#' + esc(t) + '">' + esc(strip(byKey[t].title)) + '</a>').join('');
+  return '<article class="card" data-text="' + esc([p.name, p.area, ...p.notes, p.tip].join(' ').toLowerCase()) + '">' +
+    '<h3>' + name + '</h3>' +
+    (p.area ? '<p class="area">' + esc(p.area) + '</p>' : '') +
+    '<ul>' + p.notes.map(n => '<li>' + esc(n) + '</li>').join('') + '</ul>' +
+    (p.tip ? '<p class="tip"><strong>Tip:</strong> ' + esc(p.tip) + '</p>' : '') +
+    '<div class="foot"><a class="map" href="' + mapUrl(p) + '">Map</a>' + (also ? '<span>Also in</span>' + also : '') + '</div></article>';
+};
+
+main.innerHTML = D.sections.map(s => {
+  const ps = D.places.filter(p => p.tags.includes(s.key));
+  return '<section class="sec" id="' + esc(s.key) + '" data-k="' + esc(s.key) + '"><header><h2>' + esc(strip(s.title)) + '</h2>' +
+    (s.intro ? '<p>' + esc(s.intro) + '</p>' : '') + '</header><div class="grid">' + ps.map(p => card(p, s.key)).join('') + '</div></section>';
+}).join('') + '<p class="empty" id="empty" hidden>No places match that search.</p>';
+
+const apply = () => {
+  const h = location.hash.slice(1);
+  const k = byKey[h] ? h : 'all';
+  const term = q.value.trim().toLowerCase();
+  for (const a of chips.querySelectorAll('a')) a.setAttribute('aria-current', a.dataset.k === k ? 'true' : 'false');
+  let shown = 0;
+  for (const sec of main.querySelectorAll('.sec')) {
+    let n = 0;
+    for (const c of sec.querySelectorAll('.card')) {
+      const ok = !term || c.dataset.text.includes(term);
+      c.hidden = !ok; if (ok) n++;
+    }
+    const vis = (k === 'all' || sec.dataset.k === k) && n > 0;
+    sec.hidden = !vis; if (vis) shown++;
+  }
+  document.getElementById('empty').hidden = shown > 0;
+};
+const go = () => { apply(); const h = location.hash.slice(1); if (byKey[h]) document.getElementById('chips').querySelector('[data-k="' + h + '"]')?.scrollIntoView({block:'nearest', inline:'center'}); };
+window.addEventListener('hashchange', () => { go(); if (byKey[location.hash.slice(1)]) document.querySelector('.bar').scrollIntoView(); });
+q.addEventListener('input', apply);
+go();
+}
+</script>
+</body>
+</html>

@@ -996,4 +996,4 @@ Worth a stop on the drive down or back.
 
 ---
 
-<sub>Hours, seasons and schedules change, so check each website before you go. To add or edit a place, update `places.yml` and run `python3 build.py`.</sub>
+<sub>Hours, seasons and schedules change, so check each website before you go. To add or edit a place, update `places.yml` and run `python3 build.py` (this rebuilds both this README and the web page, `index.html`).</sub>
