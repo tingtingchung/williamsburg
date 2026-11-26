@@ -22,7 +22,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [⛵ Boats & Ferries](#boats) (5)
 - [🎢 Family Fun](#kids) (20)
 - [🎄 Holiday & Winter](#holiday) (7)
-- [☔ Rainy Day](#rainy-day) (9)
+- [☔ Rainy Day](#rainy-day) (10)
 - [🚗 Day Trips](#day-trips) (19)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
@@ -1092,7 +1092,7 @@ Kid-approved (Connor-approved!) things to do.
 - Part of NASA Langley, a little past Newport News.
 - Aircraft and spacecraft exhibits, an IMAX theater, and interactive exhibits for kids and adults.
 
-<sub>Also in: [Day Trips](#day-trips)</sub>
+<sub>Also in: [Day Trips](#day-trips), [Rainy Day](#rainy-day)</sub>
 
 #### [The Mariners' Museum and Park](https://www.marinersmuseum.org/)
 
@@ -1289,6 +1289,15 @@ Indoor ideas for a wet day.
 
 <sub>Also in: [History within 30 minutes](#history-30)</sub>
 
+#### [Virginia Air & Space Science Center](https://vasc.org/)
+
+📍 Hampton (about 36 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA)
+
+- Part of NASA Langley, a little past Newport News.
+- Aircraft and spacecraft exhibits, an IMAX theater, and interactive exhibits for kids and adults.
+
+<sub>Also in: [Family Fun](#kids), [Day Trips](#day-trips)</sub>
+
 #### [The Mariners' Museum and Park](https://www.marinersmuseum.org/)
 
 📍 Newport News (about 30 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Mariners%27+Museum+and+Park+100+Museum+Dr+Newport+News+VA)
@@ -1405,7 +1414,7 @@ Easy drives from Williamsburg.
 - Part of NASA Langley, a little past Newport News.
 - Aircraft and spacecraft exhibits, an IMAX theater, and interactive exhibits for kids and adults.
 
-<sub>Also in: [Family Fun](#kids)</sub>
+<sub>Also in: [Family Fun](#kids), [Rainy Day](#rainy-day)</sub>
 
 #### [The Mariners' Museum and Park](https://www.marinersmuseum.org/)
 
@@ -1603,7 +1612,7 @@ Worth a stop on the drive down or back.
 | [Smithfield](https://smithfieldva.gov/297/Visitors) | Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA) | [Day Trips](#day-trips), [History within 2 hours](#history-2h), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry) | Surry (across the James River) · [map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Day Trips](#day-trips) |
 | Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
-| [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
+| [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips), [Rainy Day](#rainy-day) |
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [Virginia Symphony at the Lake Matoaka Amphitheatre](https://news.wm.edu/2026/08/13/symphony-under-the-stars-and-by-the-lake/) | William & Mary, by Lake Matoaka (behind the Mason School of Business) · [map](https://www.google.com/maps/search/?api=1&query=Martha+Wren+Briggs+Amphitheatre+Lake+Matoaka+121+Ukrop+Way+Williamsburg+VA) | [Music](#music) |
 | [The Wagsters Magic Theatre](https://www.williamsburgmagic.com/) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Wagsters+Magic+Theatre+1430+High+St+Williamsburg+VA) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
