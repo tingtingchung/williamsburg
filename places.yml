@@ -197,6 +197,14 @@ places:
       - The best seafood restaurant. Oysters and tacos!
       - Their grilled whole fish is my favorite.
 
+  - name: Fat Tuna Grill & Oyster House
+    url: http://www.fattunagrill.com/
+    map: Fat Tuna Grill and Oyster House 1433 Richmond Rd Williamsburg VA
+    area: Richmond Road, Williamsburg
+    tags: [restaurants, seafood]
+    notes:
+      - A casual, family-friendly local oyster bar and grill with lots of fresh seafood.
+
   - name: Ichiban
     url: http://ichibannewtown.com/
     map: Ichiban 4905 Courthouse St Williamsburg VA

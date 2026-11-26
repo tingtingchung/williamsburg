@@ -11,9 +11,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (5)
 - [🎶 Music](#music) (2)
-- [🍽️ Restaurants](#restaurants) (14)
+- [🍽️ Restaurants](#restaurants) (15)
 - [🕯️ Romantic & Fancy](#romantic) (5)
-- [🦪 Seafood & Oysters](#seafood) (6)
+- [🦪 Seafood & Oysters](#seafood) (7)
 - [🛍️ Shops & Groceries](#shopping) (10)
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (9)
@@ -337,6 +337,14 @@ My favorite places to eat, from fancy to family-style.
 
 <sub>Also in: [Seafood & Oysters](#seafood)</sub>
 
+#### [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/)
+
+📍 Richmond Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA)
+
+- A casual, family-friendly local oyster bar and grill with lots of fresh seafood.
+
+<sub>Also in: [Seafood & Oysters](#seafood)</sub>
+
 #### [Ichiban](http://ichibannewtown.com/)
 
 📍 New Town · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA)
@@ -464,6 +472,14 @@ Virginia has the best oysters and crabs, and cold weather is the best time to ea
 
 - The best seafood restaurant. Oysters and tacos!
 - Their grilled whole fish is my favorite.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/)
+
+📍 Richmond Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA)
+
+- A casual, family-friendly local oyster bar and grill with lots of fresh seafood.
 
 <sub>Also in: [Restaurants](#restaurants)</sub>
 
@@ -1066,6 +1082,7 @@ Worth a stop on the drive down or back.
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
 | [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
+| [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach (about 1 hour 10 minutes) · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
 | [Fort Monroe National Monument](https://www.nps.gov/fomr/) | Hampton (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument) | [History within 2 hours](#history-2h), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [Fredericksburg](https://www.visitfred.com/) | On the way from DC (about 1 hour 45 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
