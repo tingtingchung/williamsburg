@@ -10,8 +10,8 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 - [⭐ Must-See](#must-see) (9)
 - [🏛️ History in Williamsburg](#history-williamsburg) (8)
-- [🏛️ History within 30 minutes](#history-30) (6)
-- [🏛️ History within 2 hours](#history-2h) (7)
+- [📜 History within 30 minutes](#history-30) (6)
+- [🧭 History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (4)
 - [🍽️ Restaurants](#restaurants) (18)
 - [🕯️ Romantic & Fancy](#romantic) (6)
@@ -204,7 +204,7 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 
 <a id="history-30"></a>
 
-## 🏛️ History within 30 minutes
+## 📜 History within 30 minutes
 
 Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Triangle.
 
@@ -264,7 +264,7 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 
 <a id="history-2h"></a>
 
-## 🏛️ History within 2 hours
+## 🧭 History within 2 hours
 
 Worth a day trip, or a stop on the drive to or from DC. Drive times are approximate, from Williamsburg.
 

@@ -173,8 +173,8 @@ const chips = document.getElementById('chips');
 const main = document.getElementById('main');
 const q = document.getElementById('q');
 
-chips.innerHTML = '<a href="#all" data-k="all">All <b>' + D.places.length + '</b></a>' +
-  D.sections.map(s => '<a href="#' + esc(s.key) + '" data-k="' + esc(s.key) + '">' + esc(strip(s.title)) + ' <b>' + count(s.key) + '</b></a>').join('');
+chips.innerHTML = '<a href="#all" data-k="all">🗺️ All <b>' + D.places.length + '</b></a>' +
+  D.sections.map(s => '<a href="#' + esc(s.key) + '" data-k="' + esc(s.key) + '">' + esc(s.title) + ' <b>' + count(s.key) + '</b></a>').join('');
 
 const card = (p, cur) => {
   const name = p.url ? '<a href="' + esc(p.url) + '">' + esc(p.name) + '</a>' : esc(p.name);
