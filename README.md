@@ -18,9 +18,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (11)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (13)
+- [🎢 Family Fun](#kids) (14)
 - [🎄 Holiday & Winter](#holiday) (6)
-- [🚗 Day Trips](#day-trips) (15)
+- [🚗 Day Trips](#day-trips) (16)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
 
@@ -943,6 +943,16 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Day Trips](#day-trips), [Boats & Ferries](#boats)</sub>
 
+#### [Chrysler Museum of Art](https://chrysler.org/)
+
+📍 Norfolk (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
+
+- See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
+- Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).
+- Closed Mondays and Tuesdays.
+
+<sub>Also in: [Day Trips](#day-trips)</sub>
+
 #### [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/)
 
 📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium)
@@ -1125,6 +1135,16 @@ Easy drives from Williamsburg.
 
 <sub>Also in: [Family Fun](#kids), [Boats & Ferries](#boats)</sub>
 
+#### [Chrysler Museum of Art](https://chrysler.org/)
+
+📍 Norfolk (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
+
+- See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
+- Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).
+- Closed Mondays and Tuesdays.
+
+<sub>Also in: [Family Fun](#kids)</sub>
+
 #### [Virginia Beach](https://www.visitvirginiabeach.com/)
 
 📍 About 1 hour 15 minutes away · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk)
@@ -1222,6 +1242,7 @@ Worth a stop on the drive down or back.
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC (about 2 hours) · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
 | [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes) | Surry, about 10 minutes from the Jamestown ferry landing · [map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips), [Family Fun](#kids), [History within 2 hours](#history-2h) |
+| [Chrysler Museum of Art](https://chrysler.org/) | Norfolk (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA) | [Day Trips](#day-trips), [Family Fun](#kids) |
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
 | [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |

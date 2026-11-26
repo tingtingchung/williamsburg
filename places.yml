@@ -454,6 +454,16 @@ places:
     notes:
       - The biggest naval base in the world. A great place to see destroyers and other giant ships.
 
+  - name: Chrysler Museum of Art
+    url: https://chrysler.org/
+    map: Chrysler Museum of Art Norfolk VA
+    area: Norfolk (about 40 minutes)
+    tags: [day-trips, kids]
+    notes:
+      - See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
+      - Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).
+      - Closed Mondays and Tuesdays.
+
   # ---------- Virginia Beach & beyond ----------
   - name: Virginia Beach
     url: https://www.visitvirginiabeach.com/
