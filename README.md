@@ -2,6 +2,8 @@
 
 My personal tips for visiting Williamsburg and Virginia's Historic Triangle: where to eat, what to see, and who to say hi to. Many places appear in more than one section, so jump to whatever you're in the mood for.
 
+🌐 **Web version:** https://tingtingchung.github.io/williamsburg/
+
 > 💬 Look for the **Tip** lines. Some of my friends will take extra good care of you if you tell them you're my student!
 
 ## Sections
