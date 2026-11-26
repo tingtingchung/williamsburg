@@ -30,6 +30,12 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 If you only have a couple of days, start here.
 
+> **A perfect Saturday morning** (a suggested plan built from my notes; check winter hours for the market)
+> - **9:00** Farmers Market at Merchants Square (the square is closed to cars 9am–12pm)
+> - **10:00** Free organ recital in the Wren Chapel, the oldest academic building in the USA
+> - **10:30** Walk the William & Mary campus to the Mason School of Business, then around back to the lake and amphitheatre
+> - **Evening** A romantic dinner at Le Yaca or Fat Canary
+
 #### [Merchants Square](https://www.merchantssquare.org/)
 
 📍 Downtown Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA)

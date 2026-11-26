@@ -48,7 +48,7 @@ h1{font-size:clamp(36px,6vw,58px);color:var(--brick)}
 .search{flex:0 1 260px;position:relative}
 .search input{width:100%;font:16px "Work Sans",sans-serif;padding:9px 12px;min-height:44px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
 :focus-visible{outline:3px solid var(--bay);outline-offset:2px}
-.sat{background:var(--band);color:#fff;margin-top:clamp(28px,4vw,48px)}
+.sat{background:var(--band);color:#fff;border-radius:14px;padding:clamp(20px,3vw,32px);margin:0 0 18px}
 .sat .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px;align-items:start}
 .sat h2{font-size:clamp(28px,3.4vw,40px)}
 .sat p{margin:10px 0 0;opacity:.85;font-size:15px}
@@ -136,7 +136,7 @@ footer.band{margin-top:0;border-top:1px solid var(--line);color:var(--soft);font
 
 <main class="band" style="padding-top:0"><div class="wrap" id="main"></div></main>
 
-<section class="sat band" id="saturday"><div class="wrap">
+<section class="sat" id="saturday"><div class="wrap">
 <div><h2>A perfect Saturday morning</h2><p>A suggested plan built from Rachel's notes. Check winter hours for the market.</p></div>
 <ol>
 <li><time>9:00</time><div><a href="#shopping">Farmers Market</a> at Merchants Square (the square is closed to cars 9am–12pm).</div></li>
@@ -182,6 +182,9 @@ main.innerHTML = D.sections.map(s => {
     (s.intro ? '<p>' + esc(s.intro) + '</p>' : '') + '</header><div class="grid">' + ps.map(p => card(p, s.key)).join('') + '</div></section>';
 }).join('') + '<p class="empty" id="empty" hidden>No places match that search.</p>';
 
+const sat = document.getElementById('saturday');
+main.querySelector('#must-see header')?.after(sat);
+
 const apply = () => {
   const h = location.hash.slice(1);
   const k = byKey[h] ? h : 'all';
@@ -198,7 +201,7 @@ const apply = () => {
     sec.hidden = !vis; if (vis) shown++;
   }
   document.getElementById('empty').hidden = shown > 0;
-  document.getElementById('saturday').hidden = !(k === 'all' && !term);
+  sat.hidden = !!term;
 };
 const go = () => { apply(); const h = location.hash.slice(1); if (byKey[h]) document.getElementById('chips').querySelector('[data-k="' + h + '"]')?.scrollIntoView({block:'nearest', inline:'center'}); };
 window.addEventListener('hashchange', () => { go(); if (byKey[location.hash.slice(1)]) document.querySelector('.bar').scrollIntoView(); });

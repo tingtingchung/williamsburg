@@ -81,6 +81,12 @@ for s in sections:
     out.append(f"## {s['title']}\n")
     if s.get("intro"):
         out.append(f"{s['intro']}\n")
+    if s["key"] == "must-see":
+        out.append("> **A perfect Saturday morning** (a suggested plan built from my notes; check winter hours for the market)")
+        out.append("> - **9:00** Farmers Market at Merchants Square (the square is closed to cars 9am–12pm)")
+        out.append("> - **10:00** Free organ recital in the Wren Chapel, the oldest academic building in the USA")
+        out.append("> - **10:30** Walk the William & Mary campus to the Mason School of Business, then around back to the lake and amphitheatre")
+        out.append("> - **Evening** A romantic dinner at Le Yaca or Fat Canary\n")
     for p in members:
         out.append(render_place(p, s["key"]))
     out.append("[↑ Back to sections](#sections)\n")
