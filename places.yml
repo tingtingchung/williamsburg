@@ -228,6 +228,23 @@ places:
       - The best seafood restaurant. Oysters and tacos!
       - Their grilled whole fish is my favorite.
 
+  - name: Blue Talon Bistro
+    url: https://bluetalonbistro.com/
+    map: Blue Talon Bistro 420 Prince George St Williamsburg VA
+    area: Prince George St, next to Merchants Square
+    tags: [restaurants]
+    notes:
+      - French treats! A cozy French bistro with French comfort food, crêpes and lovely desserts, just off Duke of Gloucester Street.
+      - Open for breakfast, lunch and dinner, so it's great for a French breakfast or brunch too.
+
+  - name: Berret's Seafood Restaurant & Taphouse Grill
+    url: https://www.merchantssquare.org/dine/
+    map: Berret's Seafood Restaurant 199 S Boundary St Williamsburg VA
+    area: Merchants Square
+    tags: [restaurants, seafood]
+    notes:
+      - A longtime Merchants Square favorite for local seafood. Try the oysters, crab cakes, Oysters Rockefeller or cioppino (seafood stew).
+
   - name: Fat Tuna Grill & Oyster House
     url: http://www.fattunagrill.com/
     map: Fat Tuna Grill and Oyster House 1433 Richmond Rd Williamsburg VA

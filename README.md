@@ -11,9 +11,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (4)
-- [🍽️ Restaurants](#restaurants) (16)
+- [🍽️ Restaurants](#restaurants) (18)
 - [🕯️ Romantic & Fancy](#romantic) (6)
-- [🦪 Seafood & Oysters](#seafood) (7)
+- [🦪 Seafood & Oysters](#seafood) (8)
 - [🛍️ Shops & Groceries](#shopping) (11)
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (12)
@@ -403,6 +403,21 @@ My favorite places to eat, from fancy to family-style.
 
 <sub>Also in: [Seafood & Oysters](#seafood)</sub>
 
+#### [Blue Talon Bistro](https://bluetalonbistro.com/)
+
+📍 Prince George St, next to Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Blue+Talon+Bistro+420+Prince+George+St+Williamsburg+VA)
+
+- French treats! A cozy French bistro with French comfort food, crêpes and lovely desserts, just off Duke of Gloucester Street.
+- Open for breakfast, lunch and dinner, so it's great for a French breakfast or brunch too.
+
+#### [Berret's Seafood Restaurant & Taphouse Grill](https://www.merchantssquare.org/dine/)
+
+📍 Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Berret%27s+Seafood+Restaurant+199+S+Boundary+St+Williamsburg+VA)
+
+- A longtime Merchants Square favorite for local seafood. Try the oysters, crab cakes, Oysters Rockefeller or cioppino (seafood stew).
+
+<sub>Also in: [Seafood & Oysters](#seafood)</sub>
+
 #### [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/)
 
 📍 Richmond Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA)
@@ -558,6 +573,14 @@ Virginia has the best oysters and crabs, and cold weather is the best time to ea
 
 - The best seafood restaurant. Oysters and tacos!
 - Their grilled whole fish is my favorite.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### [Berret's Seafood Restaurant & Taphouse Grill](https://www.merchantssquare.org/dine/)
+
+📍 Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Berret%27s+Seafood+Restaurant+199+S+Boundary+St+Williamsburg+VA)
+
+- A longtime Merchants Square favorite for local seafood. Try the oysters, crab cakes, Oysters Rockefeller or cioppino (seafood stew).
 
 <sub>Also in: [Restaurants](#restaurants)</sub>
 
@@ -1333,6 +1356,8 @@ Worth a stop on the drive down or back.
 | Anonymous Coffee | New Town · [map](https://www.google.com/maps/search/?api=1&query=Anonymous+Coffee+4808+Courthouse+St+Williamsburg+VA) | [Coffee](#coffee) |
 | [Berkeley Plantation](https://www.berkeleyplantation.com/) | Charles City, on the James River (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA) | [Holiday & Winter](#holiday), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
 | [Berkeley Springs State Park](https://wvstateparks.com/park/berkeley-springs-state-park/) | Berkeley Springs, West Virginia (northwest of DC) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Springs+State+Park+Berkeley+Springs+WV) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
+| [Berret's Seafood Restaurant & Taphouse Grill](https://www.merchantssquare.org/dine/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Berret%27s+Seafood+Restaurant+199+S+Boundary+St+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
+| [Blue Talon Bistro](https://bluetalonbistro.com/) | Prince George St, next to Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Blue+Talon+Bistro+420+Prince+George+St+Williamsburg+VA) | [Restaurants](#restaurants) |
 | [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
