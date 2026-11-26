@@ -98,7 +98,7 @@ If you only have a couple of days, start here.
 
 📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg)
 
-- The fanciest building on campus and definitely worth a visit.
+- My old office and definitely worth a visit.
 - Walk behind the building to reach the lake and the amphitheatre by the lake.
 - The Virginia Symphony plays a free concert at that amphitheatre every year (see Music).
 
