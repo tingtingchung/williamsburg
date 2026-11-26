@@ -109,6 +109,16 @@ places:
     notes:
       - The fanciest building on campus and definitely worth a visit.
       - Walk behind the building to reach the lake and the amphitheatre by the lake.
+      - The Virginia Symphony plays a free concert at that amphitheatre every year (see Music).
+
+  - name: Virginia Symphony at the Lake Matoaka Amphitheatre
+    url: https://news.wm.edu/2026/08/13/symphony-under-the-stars-and-by-the-lake/
+    map: Martha Wren Briggs Amphitheatre Lake Matoaka 121 Ukrop Way Williamsburg VA
+    area: William & Mary, by Lake Matoaka (behind the Mason School of Business)
+    tags: [music]
+    notes:
+      - Every year the Virginia Symphony Orchestra plays a free "Symphony Under the Stars" concert at William & Mary's outdoor amphitheatre by the lake, usually in late summer or early September.
+      - Free, but you need a wristband, handed out at the gate before the concert. Go early, because once the wristbands run out the concert is full.
 
   - name: Colonial Williamsburg
     url: https://www.colonialwilliamsburg.org/

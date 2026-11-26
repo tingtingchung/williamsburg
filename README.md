@@ -10,7 +10,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🏛️ History in Williamsburg](#history-williamsburg) (5)
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
-- [🎶 Music](#music) (2)
+- [🎶 Music](#music) (3)
 - [🍽️ Restaurants](#restaurants) (16)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (7)
@@ -72,6 +72,7 @@ If you only have a couple of days, start here.
 
 - The fanciest building on campus and definitely worth a visit.
 - Walk behind the building to reach the lake and the amphitheatre by the lake.
+- The Virginia Symphony plays a free concert at that amphitheatre every year (see Music).
 
 #### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
 
@@ -267,6 +268,13 @@ Free music in historic places.
 - A perfect pair with the Saturday Farmers Market (9am–12pm) right outside, before or after the recital.
 
 <sub>Also in: [Must-See](#must-see), [History in Williamsburg](#history-williamsburg)</sub>
+
+#### [Virginia Symphony at the Lake Matoaka Amphitheatre](https://news.wm.edu/2026/08/13/symphony-under-the-stars-and-by-the-lake/)
+
+📍 William & Mary, by Lake Matoaka (behind the Mason School of Business) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Martha+Wren+Briggs+Amphitheatre+Lake+Matoaka+121+Ukrop+Way+Williamsburg+VA)
+
+- Every year the Virginia Symphony Orchestra plays a free "Symphony Under the Stars" concert at William & Mary's outdoor amphitheatre by the lake, usually in late summer or early September.
+- Free, but you need a wristband, handed out at the gate before the concert. Go early, because once the wristbands run out the concert is full.
 
 #### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
 
@@ -1289,6 +1297,7 @@ Worth a stop on the drive down or back.
 | Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
 | [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Virginia Symphony at the Lake Matoaka Amphitheatre](https://news.wm.edu/2026/08/13/symphony-under-the-stars-and-by-the-lake/) | William & Mary, by Lake Matoaka (behind the Mason School of Business) · [map](https://www.google.com/maps/search/?api=1&query=Martha+Wren+Briggs+Amphitheatre+Lake+Matoaka+121+Ukrop+Way+Williamsburg+VA) | [Music](#music) |
 | [The Wagsters Magic Theatre](https://www.williamsburgmagic.com/) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Wagsters+Magic+Theatre+1430+High+St+Williamsburg+VA) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/) | Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA) | [Holiday & Winter](#holiday), [Shops & Groceries](#shopping), [Family Fun](#kids) |
