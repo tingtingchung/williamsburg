@@ -254,6 +254,15 @@ places:
     notes:
       - It will be decorated for Christmas!
 
+  - name: Berkeley Plantation
+    url: https://www.berkeleyplantation.com/
+    map: Berkeley Plantation Charles City VA
+    area: Charles City, on the James River (about 40 minutes)
+    tags: [holiday, history-2h, day-trips]
+    notes:
+      - Did you know that the first Thanksgiving in America took place at Berkeley Plantation? Settlers landed here on December 4, 1619, two years before the Pilgrims' feast at Plymouth, and held a thanksgiving to celebrate their safe arrival.
+      - The Virginia Thanksgiving Festival has been celebrated here since 1958.
+
   # ---------- Jamestown & Surry ----------
   - name: Jamestown
     url: https://historicjamestowne.org/

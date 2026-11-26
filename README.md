@@ -9,7 +9,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [⭐ Must-See](#must-see) (7)
 - [🏛️ History in Williamsburg](#history-williamsburg) (6)
 - [🏛️ History within 30 minutes](#history-30) (4)
-- [🏛️ History within 2 hours](#history-2h) (4)
+- [🏛️ History within 2 hours](#history-2h) (5)
 - [🎶 Music](#music) (2)
 - [🍽️ Restaurants](#restaurants) (13)
 - [🕯️ Romantic & Fancy](#romantic) (5)
@@ -19,8 +19,8 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🏖️ Beaches & Outdoors](#beaches) (9)
 - [⛵ Boats & Ferries](#boats) (4)
 - [🎢 Family Fun](#kids) (9)
-- [🎄 Holiday & Winter](#holiday) (3)
-- [🚗 Day Trips](#day-trips) (11)
+- [🎄 Holiday & Winter](#holiday) (4)
+- [🚗 Day Trips](#day-trips) (12)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
 
@@ -197,6 +197,15 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 ## 🏛️ History within 2 hours
 
 Worth a day trip, or a stop on the drive to or from DC. Drive times are approximate, from Williamsburg.
+
+#### [Berkeley Plantation](https://www.berkeleyplantation.com/)
+
+📍 Charles City, on the James River (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA)
+
+- Did you know that the first Thanksgiving in America took place at Berkeley Plantation? Settlers landed here on December 4, 1619, two years before the Pilgrims' feast at Plymouth, and held a thanksgiving to celebrate their safe arrival.
+- The Virginia Thanksgiving Festival has been celebrated here since 1958.
+
+<sub>Also in: [Holiday & Winter](#holiday), [Day Trips](#day-trips)</sub>
 
 #### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
 
@@ -815,6 +824,15 @@ Good to know if you're visiting in the cold months.
 
 <sub>Also in: [Family Fun](#kids)</sub>
 
+#### [Berkeley Plantation](https://www.berkeleyplantation.com/)
+
+📍 Charles City, on the James River (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA)
+
+- Did you know that the first Thanksgiving in America took place at Berkeley Plantation? Settlers landed here on December 4, 1619, two years before the Pilgrims' feast at Plymouth, and held a thanksgiving to celebrate their safe arrival.
+- The Virginia Thanksgiving Festival has been celebrated here since 1958.
+
+<sub>Also in: [History within 2 hours](#history-2h), [Day Trips](#day-trips)</sub>
+
 [↑ Back to sections](#sections)
 
 <a id="day-trips"></a>
@@ -822,6 +840,15 @@ Good to know if you're visiting in the cold months.
 ## 🚗 Day Trips
 
 Easy drives from Williamsburg.
+
+#### [Berkeley Plantation](https://www.berkeleyplantation.com/)
+
+📍 Charles City, on the James River (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA)
+
+- Did you know that the first Thanksgiving in America took place at Berkeley Plantation? Settlers landed here on December 4, 1619, two years before the Pilgrims' feast at Plymouth, and held a thanksgiving to celebrate their safe arrival.
+- The Virginia Thanksgiving Festival has been celebrated here since 1958.
+
+<sub>Also in: [Holiday & Winter](#holiday), [History within 2 hours](#history-2h)</sub>
 
 #### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
 
@@ -968,6 +995,7 @@ Worth a stop on the drive down or back.
 | Place | Where | Sections |
 |---|---|---|
 | [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium) | [Family Fun](#kids), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Berkeley Plantation](https://www.berkeleyplantation.com/) | Charles City, on the James River (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA) | [Holiday & Winter](#holiday), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
 | [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
