@@ -11,16 +11,20 @@
 /* VOICE everyday travel guide, warm and personal, a friend's handwritten tips made tidy
    IDEA a colonial-era town guide: Caslon lettering, Wren Building brick, Chesapeake water
    PICTURE full-width skyline band: Blue Ridge, the Wren Building with cupola, a schooner on the bay
-   COLOUR white ground, brick red leads, bay blue supports, oyster gold accent for tips
+   COLOUR William & Mary green leads, W&M gold supports (rules, tips, times), white ground; Wren keeps its real brick
    TYPE Libre Caslon Display for titles + Work Sans for text
    LAYOUT title across the top, scene beneath, sticky section chips + search, then card grids per section; phone stacks to one column */
 :root{color-scheme:light dark;
---bg:light-dark(#ffffff,#14110f);--ink:light-dark(#1d1714,#f1ebe6);--soft:light-dark(#5d524c,#b9aea7);
---brick:light-dark(#a3301c,#e0725c);--brickd:light-dark(#7d2414,#b4523e);--bay:light-dark(#0f4c6b,#7fb8d6);
---gold:light-dark(#fdf0c9,#3a2f17);--goldink:light-dark(#6b4c00,#f3d58a);--line:light-dark(#eadfd8,#2f2824);
---card:light-dark(#ffffff,#1c1714);--chip:light-dark(#f6ece7,#261f1b);
---sky1:light-dark(#fbe9dc,#0c1726);--sky2:light-dark(#dcecf4,#1b2c44);--m1:light-dark(#b8cfdc,#25374f);--m2:light-dark(#8fb1c4,#30475f);
---grass:light-dark(#c9c9a2,#2b2a1f);--water1:light-dark(#2f7aa0,#1e4c66);--water2:light-dark(#0f4c6b,#0e2a3b);--sun:light-dark(#f6c38b,#e9e3c9)}
+/* William & Mary web palette: W&M Green #004E38, Dark Green #183028, Griffin Green #28463D, Patina #76A190,
+   Dark Gold #846838 (links on light), Web Gold #B08F5A (on dark green), Gold #B9975B, Lightest Gold #F8F4EE, Lightest Green #E5EDEB */
+--bg:light-dark(#ffffff,#101b17);--ink:light-dark(#14201c,#eef2ef);--soft:light-dark(#4f5d57,#aab8b2);
+--brick:light-dark(#004E38,#9cc4b3);--brickd:light-dark(#183028,#28463D);--bay:light-dark(#846838,#d2b480);
+--band:light-dark(#183028,#0b1411);--bandlink:#d2b480;
+--gold:light-dark(#F8F4EE,#2a2416);--goldink:light-dark(#5e4a26,#e8cf9c);--line:light-dark(#dfe7e3,#24342e);
+--card:light-dark(#ffffff,#15231e);--chip:light-dark(#E5EDEB,#1c2c26);
+--sky1:light-dark(#F8F4EE,#16281f);--sky2:light-dark(#E5EDEB,#0b1612);--m1:light-dark(#a9c4b8,#28463D);--m2:light-dark(#76A190,#1f382f);
+--grass:light-dark(#c8cf9e,#1b2a1c);--water1:light-dark(#3f7f74,#1d4a40);--water2:light-dark(#004E38,#0c2a22);--sun:light-dark(#B9975B,#d9c08f);
+--wren:#9b3a24;--wrend:#6f2615}
 :root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
 *{box-sizing:border-box;min-width:0}
 html{scroll-padding-top:130px}
@@ -39,21 +43,22 @@ h1{font-size:clamp(36px,6vw,58px);color:var(--brick)}
 .chips a{flex:none;text-decoration:none;color:var(--ink);background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:9px 14px;font-size:14px;white-space:nowrap;min-height:40px;display:inline-flex;align-items:center;gap:6px}
 .chips a b{font-weight:500;color:var(--soft);font-size:13px}
 .chips a:hover{border-color:var(--brick)}
-.chips a[aria-current=true]{background:var(--brick);border-color:var(--brick);color:#fff}
-.chips a[aria-current=true] b{color:#fff}
+.chips a[aria-current=true]{background:var(--brick);border-color:var(--brick);color:var(--bg)}
+.chips a[aria-current=true] b{color:var(--bg);opacity:.8}
 .search{flex:0 1 260px;position:relative}
 .search input{width:100%;font:16px "Work Sans",sans-serif;padding:9px 12px;min-height:44px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
 :focus-visible{outline:3px solid var(--bay);outline-offset:2px}
-.sat{background:var(--bay);color:#fff}
+.sat{background:var(--band);color:#fff}
 .sat .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px;align-items:start}
 .sat h2{font-size:clamp(28px,3.4vw,40px)}
 .sat p{margin:10px 0 0;opacity:.85;font-size:15px}
 .sat ol{list-style:none;margin:0;padding:0;display:grid;gap:12px}
 .sat li{display:grid;grid-template-columns:5.5em minmax(0,1fr);gap:12px;border-top:1px solid rgba(255,255,255,.25);padding-top:12px}
 .sat time{font-family:"Libre Caslon Display",Georgia,serif;font-size:24px;white-space:nowrap;line-height:1.1}
-.sat a{color:#fff}
+.sat a{color:var(--bandlink)}
+.sat time{color:var(--bandlink)}
 section.sec{padding-top:clamp(28px,4vw,48px)}
-.sec header{display:flex;flex-wrap:wrap;gap:4px 16px;align-items:baseline;border-bottom:2px solid var(--brick);padding-bottom:10px;margin-bottom:18px}
+.sec header{display:flex;flex-wrap:wrap;gap:4px 16px;align-items:baseline;border-bottom:3px solid #B9975B;padding-bottom:10px;margin-bottom:18px}
 .sec h2{font-size:clamp(28px,3.6vw,40px);color:var(--brick)}
 .sec header p{margin:0;color:var(--soft);font-size:15px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr));gap:16px}
@@ -67,7 +72,7 @@ section.sec{padding-top:clamp(28px,4vw,48px)}
 .tip strong{font-weight:600}
 .foot{margin-top:auto;padding-top:8px;display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;font-size:13px;color:var(--soft)}
 .foot a{text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 10px;color:var(--ink);background:var(--chip)}
-.foot a.map{background:transparent;border-color:var(--bay);color:var(--bay);font-weight:500}
+.foot a.map{background:transparent;border-color:var(--brick);color:var(--brick);font-weight:500}
 .empty{padding:40px 0;color:var(--soft);font-size:17px}
 footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);font-size:14px}
 @media(max-width:760px){.sat .wrap{grid-template-columns:minmax(0,1fr)}}
@@ -97,13 +102,13 @@ footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);f
 <g style="fill:#fff" opacity=".35"><rect x="820" y="262" width="60" height="2" rx="1"/><rect x="1010" y="275" width="80" height="2" rx="1"/><rect x="900" y="288" width="50" height="2" rx="1"/></g>
 <use href="#tree" x="270" y="228"/><use href="#tree" x="300" y="234" transform="translate(300 234) scale(.8) translate(-300 -234)"/><use href="#tree" x="730" y="230"/><use href="#tree" x="140" y="232" transform="translate(140 232) scale(.7) translate(-140 -232)"/>
 <g>
-<polygon points="322,152 698,152 664,108 356,108" style="fill:var(--brickd)"/>
+<polygon points="322,152 698,152 664,108 356,108" style="fill:var(--wrend)"/>
 <polygon points="510,152 698,152 664,108 510,108" fill="#000" opacity=".18"/>
-<rect x="330" y="150" width="360" height="100" style="fill:var(--brick)"/>
+<rect x="330" y="150" width="360" height="100" style="fill:var(--wren)"/>
 <rect x="510" y="150" width="180" height="100" fill="#000" opacity=".12"/>
 <rect x="330" y="150" width="360" height="100" fill="url(#win)"/>
 <polygon points="462,146 558,146 510,116" fill="#f3ead9"/>
-<rect x="468" y="144" width="84" height="106" style="fill:var(--brick)"/>
+<rect x="468" y="144" width="84" height="106" style="fill:var(--wren)"/>
 <rect x="468" y="144" width="84" height="106" fill="url(#win)" opacity=".9"/>
 <rect x="497" y="208" width="26" height="42" rx="13" fill="#3a2a22"/>
 <rect x="496" y="76" width="28" height="34" fill="#f3ead9"/><rect x="510" y="76" width="14" height="34" fill="#000" opacity=".1"/>
@@ -118,7 +123,7 @@ footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);f
 <polygon points="947,136 947,240 900,240" fill="#fbf7f0"/><polygon points="989,124 989,240 952,240" fill="#fbf7f0"/>
 <polygon points="989,124 989,240 972,240" fill="#000" opacity=".08"/>
 <polygon points="989,150 1030,240 991,240" fill="#efe6d8"/>
-<polygon points="986,118 986,108 1000,112" fill="#a3301c"/>
+<polygon points="986,118 986,108 1000,112" fill="#B9975B"/>
 </g>
 </svg>
 
