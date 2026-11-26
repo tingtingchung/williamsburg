@@ -56,6 +56,9 @@ sections:
   - key: holiday
     title: "🎄 Holiday & Winter"
     intro: "Good to know if you're visiting in the cold months."
+  - key: rainy-day
+    title: "☔ Rainy Day"
+    intro: "Indoor ideas for a wet day."
   - key: day-trips
     title: "🚗 Day Trips"
     intro: "Easy drives from Williamsburg."
@@ -121,6 +124,15 @@ places:
       - The lake was made by English colonists in the early 1700s as a mill pond, and is named Matoaka after Pocahontas (Matoaka was her Powhatan name).
       - The amphitheatre where the Virginia Symphony plays every year sits on the lake. Swimming isn't allowed, but it's lovely for a walk or a birdwatching stroll.
 
+  - name: Muscarelle Museum of Art
+    url: https://muscarelle.wm.edu/
+    map: Muscarelle Museum of Art William & Mary Williamsburg VA
+    area: William & Mary
+    tags: [rainy-day]
+    notes:
+      - William & Mary's art museum, with a collection that began in 1732 and now has nearly 8,000 works.
+      - Not free (check the website for admission), but it offers free docent-led tours of the exhibitions.
+
   - name: Mason School of Business
     url: https://mason.wm.edu/
     map: Alan B. Miller Hall Mason School of Business Williamsburg
@@ -157,6 +169,24 @@ places:
       - Hear Revolutionary War field music as the Fifes & Drums march down Duke of Gloucester Street. It's a must on any Colonial Williamsburg day!
       - They perform in the Historic Area from mid-February through December. March times change day to day, so check the schedule link (or the Colonial Williamsburg events calendar) for today's march.
       - In May, Drummer's Call weekend brings fife and drum corps from around the country for a Grand March and a torch-lit evening Military Tattoo.
+
+  - name: Art Museums of Colonial Williamsburg
+    url: https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/
+    map: Art Museums of Colonial Williamsburg 301 S Nassau St Williamsburg VA
+    area: 301 S. Nassau St, Colonial Williamsburg
+    tags: [rainy-day, history-williamsburg, kids]
+    notes:
+      - Free admission, every day of the year!
+      - Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
+
+  - name: Colonial Williamsburg Visitor Center
+    url: https://www.colonialwilliamsburg.org/visit/know-before-you-go/
+    map: Colonial Williamsburg Visitor Center 101 Visitor Center Dr Williamsburg VA
+    area: 101 Visitor Center Dr, Williamsburg
+    tags: [rainy-day, history-williamsburg]
+    notes:
+      - A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg: The Story of a Patriot."
+      - It's also where you buy Colonial Williamsburg tickets and catch the shuttle into the Historic Area.
 
   - name: King's Arms Tavern
     url: https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/
@@ -377,9 +407,10 @@ places:
     url: https://www.jyfmuseums.org/visit/jamestown-settlement
     map: Jamestown Settlement
     area: Jamestown (about 15 minutes)
-    tags: [history-30, kids]
+    tags: [history-30, kids, rainy-day]
     notes:
       - Living-history museum with replica ships, a Powhatan village and a fort.
+      - Good on a rainy day: there are indoor gallery exhibits as well as the outdoor ships, village and fort.
 
   - name: Pocahontas statue
     url: https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/
@@ -444,6 +475,15 @@ places:
       - A sandy beach on the York River right in Historic Yorktown, next to the shops and restaurants of Riverwalk Landing.
       - "In summer the waterfront is full of free events: the Sounds of Summer concerts on Thursday evenings (about late May through August), Yorktown Market Days on Saturday mornings, and a July 4th celebration with music on the beach and fireworks over the river."
       - In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
+
+  - name: American Revolution Museum at Yorktown
+    url: https://www.jyfmuseums.org/visit/american-revolution-museum-at-yorktown
+    map: American Revolution Museum at Yorktown 200 Water St Yorktown VA
+    area: Yorktown (about 20 minutes)
+    tags: [rainy-day, history-30, kids]
+    notes:
+      - Indoor galleries with more than 1,300 Revolutionary-era artifacts, an introductory film, and "The Siege of Yorktown" 4D theater experience.
+      - When the weather clears, step outside to the re-created Continental Army encampment and Revolution-era farm.
 
   - name: Yorktown Sailing Charters
     url: https://www.sailyorktown.com/
@@ -515,8 +555,8 @@ places:
   - name: Chrysler Museum of Art
     url: https://chrysler.org/
     map: Chrysler Museum of Art Norfolk VA
-    area: Norfolk (about 40 minutes)
-    tags: [day-trips, kids]
+    area: Norfolk (about an hour)
+    tags: [day-trips, kids, rainy-day]
     notes:
       - See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
       - Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).

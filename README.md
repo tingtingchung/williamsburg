@@ -9,8 +9,8 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 ## Sections
 
 - [⭐ Must-See](#must-see) (9)
-- [🏛️ History in Williamsburg](#history-williamsburg) (6)
-- [🏛️ History within 30 minutes](#history-30) (4)
+- [🏛️ History in Williamsburg](#history-williamsburg) (8)
+- [🏛️ History within 30 minutes](#history-30) (5)
 - [🏛️ History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (4)
 - [🍽️ Restaurants](#restaurants) (18)
@@ -20,8 +20,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (12)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (16)
+- [🎢 Family Fun](#kids) (18)
 - [🎄 Holiday & Winter](#holiday) (7)
+- [☔ Rainy Day](#rainy-day) (6)
 - [🚗 Day Trips](#day-trips) (17)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
@@ -165,6 +166,24 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 
 <sub>Also in: [Music](#music), [Family Fun](#kids)</sub>
 
+#### [Art Museums of Colonial Williamsburg](https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/)
+
+📍 301 S. Nassau St, Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Art+Museums+of+Colonial+Williamsburg+301+S+Nassau+St+Williamsburg+VA)
+
+- Free admission, every day of the year!
+- Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids)</sub>
+
+#### [Colonial Williamsburg Visitor Center](https://www.colonialwilliamsburg.org/visit/know-before-you-go/)
+
+📍 101 Visitor Center Dr, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center+101+Visitor+Center+Dr+Williamsburg+VA)
+
+- {'A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg': 'The Story of a Patriot."'}
+- It's also where you buy Colonial Williamsburg tickets and catch the shuttle into the Historic Area.
+
+<sub>Also in: [Rainy Day](#rainy-day)</sub>
+
 #### [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/)
 
 📍 Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA)
@@ -203,8 +222,9 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
+- {'Good on a rainy day': 'there are indoor gallery exhibits as well as the outdoor ships, village and fort.'}
 
-<sub>Also in: [Family Fun](#kids)</sub>
+<sub>Also in: [Family Fun](#kids), [Rainy Day](#rainy-day)</sub>
 
 #### [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/)
 
@@ -220,6 +240,15 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 - Go in summer for the free concerts and festivals on Yorktown Beach (see below).
 
 <sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
+
+#### [American Revolution Museum at Yorktown](https://www.jyfmuseums.org/visit/american-revolution-museum-at-yorktown)
+
+📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=American+Revolution+Museum+at+Yorktown+200+Water+St+Yorktown+VA)
+
+- Indoor galleries with more than 1,300 Revolutionary-era artifacts, an introductory film, and "The Siege of Yorktown" 4D theater experience.
+- When the weather clears, step outside to the re-created Continental Army encampment and Revolution-era farm.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -945,6 +974,15 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Music](#music), [History in Williamsburg](#history-williamsburg)</sub>
 
+#### [Art Museums of Colonial Williamsburg](https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/)
+
+📍 301 S. Nassau St, Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Art+Museums+of+Colonial+Williamsburg+301+S+Nassau+St+Williamsburg+VA)
+
+- Free admission, every day of the year!
+- Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
+
+<sub>Also in: [Rainy Day](#rainy-day), [History in Williamsburg](#history-williamsburg)</sub>
+
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
 📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg)
@@ -986,8 +1024,9 @@ Kid-approved (Connor-approved!) things to do.
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
+- {'Good on a rainy day': 'there are indoor gallery exhibits as well as the outdoor ships, village and fort.'}
 
-<sub>Also in: [History within 30 minutes](#history-30)</sub>
+<sub>Also in: [History within 30 minutes](#history-30), [Rainy Day](#rainy-day)</sub>
 
 #### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
 
@@ -1016,6 +1055,15 @@ Kid-approved (Connor-approved!) things to do.
 - In early fall, the free Rhythms on the Riverwalk concerts continue on Thursday evenings. Check the Visit Yorktown calendar for this year's dates.
 
 <sub>Also in: [Beaches & Outdoors](#beaches), [Music](#music), [Day Trips](#day-trips)</sub>
+
+#### [American Revolution Museum at Yorktown](https://www.jyfmuseums.org/visit/american-revolution-museum-at-yorktown)
+
+📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=American+Revolution+Museum+at+Yorktown+200+Water+St+Yorktown+VA)
+
+- Indoor galleries with more than 1,300 Revolutionary-era artifacts, an introductory film, and "The Siege of Yorktown" 4D theater experience.
+- When the weather clears, step outside to the re-created Continental Army encampment and Revolution-era farm.
+
+<sub>Also in: [Rainy Day](#rainy-day), [History within 30 minutes](#history-30)</sub>
 
 #### [Virginia Air & Space Science Center](https://vasc.org/)
 
@@ -1046,13 +1094,13 @@ Kid-approved (Connor-approved!) things to do.
 
 #### [Chrysler Museum of Art](https://chrysler.org/)
 
-📍 Norfolk (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
+📍 Norfolk (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
 
 - See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
 - Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).
 - Closed Mondays and Tuesdays.
 
-<sub>Also in: [Day Trips](#day-trips)</sub>
+<sub>Also in: [Day Trips](#day-trips), [Rainy Day](#rainy-day)</sub>
 
 #### [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/)
 
@@ -1140,6 +1188,67 @@ Good to know if you're visiting in the cold months.
 - 2026 season: Nov 13 – Jan 1, evening times vary. Tickets about $22 adults, $18 children; buy ahead on the Nauticus website.
 
 <sub>Also in: [Family Fun](#kids), [Day Trips](#day-trips)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="rainy-day"></a>
+
+## ☔ Rainy Day
+
+Indoor ideas for a wet day.
+
+#### [Muscarelle Museum of Art](https://muscarelle.wm.edu/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Muscarelle+Museum+of+Art+William+%26+Mary+Williamsburg+VA)
+
+- William & Mary's art museum, with a collection that began in 1732 and now has nearly 8,000 works.
+- Not free (check the website for admission), but it offers free docent-led tours of the exhibitions.
+
+#### [Art Museums of Colonial Williamsburg](https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/)
+
+📍 301 S. Nassau St, Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Art+Museums+of+Colonial+Williamsburg+301+S+Nassau+St+Williamsburg+VA)
+
+- Free admission, every day of the year!
+- Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
+
+<sub>Also in: [History in Williamsburg](#history-williamsburg), [Family Fun](#kids)</sub>
+
+#### [Colonial Williamsburg Visitor Center](https://www.colonialwilliamsburg.org/visit/know-before-you-go/)
+
+📍 101 Visitor Center Dr, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center+101+Visitor+Center+Dr+Williamsburg+VA)
+
+- {'A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg': 'The Story of a Patriot."'}
+- It's also where you buy Colonial Williamsburg tickets and catch the shuttle into the Historic Area.
+
+<sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
+
+#### [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement)
+
+📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
+
+- Living-history museum with replica ships, a Powhatan village and a fort.
+- {'Good on a rainy day': 'there are indoor gallery exhibits as well as the outdoor ships, village and fort.'}
+
+<sub>Also in: [History within 30 minutes](#history-30), [Family Fun](#kids)</sub>
+
+#### [American Revolution Museum at Yorktown](https://www.jyfmuseums.org/visit/american-revolution-museum-at-yorktown)
+
+📍 Yorktown (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=American+Revolution+Museum+at+Yorktown+200+Water+St+Yorktown+VA)
+
+- Indoor galleries with more than 1,300 Revolutionary-era artifacts, an introductory film, and "The Siege of Yorktown" 4D theater experience.
+- When the weather clears, step outside to the re-created Continental Army encampment and Revolution-era farm.
+
+<sub>Also in: [History within 30 minutes](#history-30), [Family Fun](#kids)</sub>
+
+#### [Chrysler Museum of Art](https://chrysler.org/)
+
+📍 Norfolk (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
+
+- See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
+- Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).
+- Closed Mondays and Tuesdays.
+
+<sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -1258,13 +1367,13 @@ Easy drives from Williamsburg.
 
 #### [Chrysler Museum of Art](https://chrysler.org/)
 
-📍 Norfolk (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
+📍 Norfolk (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
 
 - See beautiful Tiffany glass! The museum has one of the largest glass collections in America, with a whole Tiffany gallery of lamps and glass.
 - Admission is always free, and the Perry Glass Studio next door has free glassblowing demonstrations (check the schedule).
 - Closed Mondays and Tuesdays.
 
-<sub>Also in: [Family Fun](#kids)</sub>
+<sub>Also in: [Family Fun](#kids), [Rainy Day](#rainy-day)</sub>
 
 #### [Virginia Beach](https://www.visitvirginiabeach.com/)
 
@@ -1355,7 +1464,9 @@ Worth a stop on the drive down or back.
 | Place | Where | Sections |
 |---|---|---|
 | [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium) | [Family Fun](#kids), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [American Revolution Museum at Yorktown](https://www.jyfmuseums.org/visit/american-revolution-museum-at-yorktown) | Yorktown (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=American+Revolution+Museum+at+Yorktown+200+Water+St+Yorktown+VA) | [Rainy Day](#rainy-day), [History within 30 minutes](#history-30), [Family Fun](#kids) |
 | Anonymous Coffee | New Town · [map](https://www.google.com/maps/search/?api=1&query=Anonymous+Coffee+4808+Courthouse+St+Williamsburg+VA) | [Coffee](#coffee) |
+| [Art Museums of Colonial Williamsburg](https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/) | 301 S. Nassau St, Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Art+Museums+of+Colonial+Williamsburg+301+S+Nassau+St+Williamsburg+VA) | [Rainy Day](#rainy-day), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids) |
 | [Berkeley Plantation](https://www.berkeleyplantation.com/) | Charles City, on the James River (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Plantation+Charles+City+VA) | [Holiday & Winter](#holiday), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
 | [Berkeley Springs State Park](https://wvstateparks.com/park/berkeley-springs-state-park/) | Berkeley Springs, West Virginia (northwest of DC) · [map](https://www.google.com/maps/search/?api=1&query=Berkeley+Springs+State+Park+Berkeley+Springs+WV) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
 | [Berret's Seafood Restaurant & Taphouse Grill](https://www.merchantssquare.org/dine/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Berret%27s+Seafood+Restaurant+199+S+Boundary+St+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
@@ -1365,10 +1476,11 @@ Worth a stop on the drive down or back.
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC (about 2 hours) · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
 | [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes) | Surry, about 10 minutes from the Jamestown ferry landing · [map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips), [Family Fun](#kids), [History within 2 hours](#history-2h) |
-| [Chrysler Museum of Art](https://chrysler.org/) | Norfolk (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA) | [Day Trips](#day-trips), [Family Fun](#kids) |
+| [Chrysler Museum of Art](https://chrysler.org/) | Norfolk (about an hour) · [map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA) | [Day Trips](#day-trips), [Family Fun](#kids), [Rainy Day](#rainy-day) |
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
 | [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Colonial Williamsburg Fifes & Drums](https://www.colonialwilliamsburg.org/events/music-fife-drum-march/) | Duke of Gloucester Street, Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Duke+of+Gloucester+Street+Colonial+Williamsburg) | [Music](#music), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids) |
+| [Colonial Williamsburg Visitor Center](https://www.colonialwilliamsburg.org/visit/know-before-you-go/) | 101 Visitor Center Dr, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center+101+Visitor+Center+Dr+Williamsburg+VA) | [Rainy Day](#rainy-day), [History in Williamsburg](#history-williamsburg) |
 | [Crim Dell Bridge](https://www.wm.edu/about/visiting/campus-landmarks/crim-dell/index.php) | William & Mary, at the west end of the Sunken Garden · [map](https://www.google.com/maps/search/?api=1&query=Crim+Dell+Bridge+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [Romantic & Fancy](#romantic) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
@@ -1380,7 +1492,7 @@ Worth a stop on the drive down or back.
 | [Ichiban](http://ichibannewtown.com/) | New Town · [map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA) | [Restaurants](#restaurants) |
 | [illy Caffè](https://merchantssquare.org/merchant/illy-cafe) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=illy+Caffe+435+W+Duke+of+Gloucester+St+Williamsburg+VA) | [Coffee](#coffee) |
 | [Jamestown](https://historicjamestowne.org/) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne) | [History within 30 minutes](#history-30), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats), [Family Fun](#kids) |
-| [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement) | [History within 30 minutes](#history-30), [Family Fun](#kids) |
+| [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement) | Jamestown (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement) | [History within 30 minutes](#history-30), [Family Fun](#kids), [Rainy Day](#rainy-day) |
 | [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp) | Jamestown to Surry · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry) | [Boats & Ferries](#boats), [Day Trips](#day-trips), [Family Fun](#kids) |
 | [Kephi Greek Kitchen](https://kephigreek.kitchen/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA) | [Restaurants](#restaurants), [History in Williamsburg](#history-williamsburg) |
@@ -1390,6 +1502,7 @@ Worth a stop on the drive down or back.
 | [Luray Caverns](https://luraycaverns.com/) | Luray, near Skyline Drive · [map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Family Fun](#kids) |
 | [Mason School of Business](https://mason.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg) | [Must-See](#must-see) |
 | [Merchants Square](https://www.merchantssquare.org/) | Downtown Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA) | [Must-See](#must-see), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
+| [Muscarelle Museum of Art](https://muscarelle.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Muscarelle+Museum+of+Art+William+%26+Mary+Williamsburg+VA) | [Rainy Day](#rainy-day) |
 | [New Town](https://www.newtownwilliamsburg.com/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=New+Town+Williamsburg+VA) | [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/) | Norfolk (about 40 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk) | [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats) |
 | [Outer Banks](https://www.outerbanks.org/) | North Carolina (about 1 hour past Virginia Beach) · [map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
