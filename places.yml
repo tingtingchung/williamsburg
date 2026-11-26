@@ -485,6 +485,16 @@ places:
       - Indoor galleries with more than 1,300 Revolutionary-era artifacts, an introductory film, and "The Siege of Yorktown" 4D theater experience.
       - When the weather clears, step outside to the re-created Continental Army encampment and Revolution-era farm.
 
+  - name: Watermen's Museum
+    url: https://watermens.org/
+    map: Watermen's Museum 309 Water St Yorktown VA
+    area: 309 Water St, on the Yorktown waterfront (about 20 minutes)
+    tags: [rainy-day, history-30]
+    notes:
+      - A small museum about the Chesapeake Bay watermen, the people who make their living harvesting oysters, crabs and fish, from pre-colonial times to today.
+      - Indoor galleries plus boats and equipment outside, just upriver from Riverwalk Landing.
+      - Seasonal, open from early April until just before Christmas.
+
   - name: Yorktown Sailing Charters
     url: https://www.sailyorktown.com/
     map: Yorktown Sailing Charters 425 Water St Yorktown VA
@@ -518,6 +528,15 @@ places:
       - Part of NASA Langley, a little past Newport News.
       - Aircraft and spacecraft exhibits, an IMAX theater, and interactive exhibits for kids and adults.
 
+  - name: The Mariners' Museum and Park
+    url: https://www.marinersmuseum.org/
+    map: The Mariners' Museum and Park 100 Museum Dr Newport News VA
+    area: Newport News (about 30 minutes)
+    tags: [rainy-day, day-trips, kids]
+    notes:
+      - A big maritime museum, home of the USS Monitor Center about the famous Civil War ironclad.
+      - Museum open daily 9am–5pm. The surrounding park and the Noland Trail around Mariners' Lake are free, nice for a walk once the rain stops.
+
   - name: Korean restaurants & groceries in Newport News
     map: Korean restaurants Newport News VA
     area: Newport News
@@ -541,6 +560,16 @@ places:
     tags: [day-trips, kids, boats]
     notes:
       - The biggest naval base in the world. A great place to see destroyers and other giant ships.
+
+  - name: Nauticus & the Battleship Wisconsin
+    url: https://nauticus.org/
+    map: Nauticus 1 Waterside Dr Norfolk VA
+    area: Downtown Norfolk waterfront (about an hour)
+    tags: [rainy-day, day-trips, kids, boats]
+    notes:
+      - If you go to Norfolk, you must go see Nauticus!
+      - A maritime discovery center with hands-on exhibits, plus tours of the Battleship Wisconsin, the last battleship the U.S. Navy built.
+      - Open Tuesday–Sunday 10am–4pm, closed Mondays.
 
   - name: WinterFest on the Wisconsin
     url: https://www.visitnorfolk.com/?p=26593

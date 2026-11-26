@@ -10,7 +10,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 - [⭐ Must-See](#must-see) (9)
 - [🏛️ History in Williamsburg](#history-williamsburg) (8)
-- [🏛️ History within 30 minutes](#history-30) (5)
+- [🏛️ History within 30 minutes](#history-30) (6)
 - [🏛️ History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (4)
 - [🍽️ Restaurants](#restaurants) (18)
@@ -19,11 +19,11 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🛍️ Shops & Groceries](#shopping) (11)
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (12)
-- [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (18)
+- [⛵ Boats & Ferries](#boats) (5)
+- [🎢 Family Fun](#kids) (20)
 - [🎄 Holiday & Winter](#holiday) (7)
-- [☔ Rainy Day](#rainy-day) (6)
-- [🚗 Day Trips](#day-trips) (17)
+- [☔ Rainy Day](#rainy-day) (9)
+- [🚗 Day Trips](#day-trips) (19)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
 
@@ -249,6 +249,16 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 - When the weather clears, step outside to the re-created Continental Army encampment and Revolution-era farm.
 
 <sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids)</sub>
+
+#### [Watermen's Museum](https://watermens.org/)
+
+📍 309 Water St, on the Yorktown waterfront (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Watermen%27s+Museum+309+Water+St+Yorktown+VA)
+
+- A small museum about the Chesapeake Bay watermen, the people who make their living harvesting oysters, crabs and fish, from pre-colonial times to today.
+- Indoor galleries plus boats and equipment outside, just upriver from Riverwalk Landing.
+- Seasonal, open from early April until just before Christmas.
+
+<sub>Also in: [Rainy Day](#rainy-day)</sub>
 
 [↑ Back to sections](#sections)
 
@@ -948,6 +958,16 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 <sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids)</sub>
 
+#### [Nauticus & the Battleship Wisconsin](https://nauticus.org/)
+
+📍 Downtown Norfolk waterfront (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+1+Waterside+Dr+Norfolk+VA)
+
+- If you go to Norfolk, you must go see Nauticus!
+- A maritime discovery center with hands-on exhibits, plus tours of the Battleship Wisconsin, the last battleship the U.S. Navy built.
+- Open Tuesday–Sunday 10am–4pm, closed Mondays.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Day Trips](#day-trips), [Family Fun](#kids)</sub>
+
 [↑ Back to sections](#sections)
 
 <a id="kids"></a>
@@ -1074,6 +1094,15 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Day Trips](#day-trips)</sub>
 
+#### [The Mariners' Museum and Park](https://www.marinersmuseum.org/)
+
+📍 Newport News (about 30 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Mariners%27+Museum+and+Park+100+Museum+Dr+Newport+News+VA)
+
+- A big maritime museum, home of the USS Monitor Center about the famous Civil War ironclad.
+- Museum open daily 9am–5pm. The surrounding park and the Noland Trail around Mariners' Lake are free, nice for a walk once the rain stops.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Day Trips](#day-trips)</sub>
+
 #### [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/)
 
 📍 Norfolk (about 40 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk)
@@ -1081,6 +1110,16 @@ Kid-approved (Connor-approved!) things to do.
 - The biggest naval base in the world. A great place to see destroyers and other giant ships.
 
 <sub>Also in: [Day Trips](#day-trips), [Boats & Ferries](#boats)</sub>
+
+#### [Nauticus & the Battleship Wisconsin](https://nauticus.org/)
+
+📍 Downtown Norfolk waterfront (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+1+Waterside+Dr+Norfolk+VA)
+
+- If you go to Norfolk, you must go see Nauticus!
+- A maritime discovery center with hands-on exhibits, plus tours of the Battleship Wisconsin, the last battleship the U.S. Navy built.
+- Open Tuesday–Sunday 10am–4pm, closed Mondays.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Day Trips](#day-trips), [Boats & Ferries](#boats)</sub>
 
 #### [WinterFest on the Wisconsin](https://www.visitnorfolk.com/?p=26593)
 
@@ -1240,6 +1279,35 @@ Indoor ideas for a wet day.
 
 <sub>Also in: [History within 30 minutes](#history-30), [Family Fun](#kids)</sub>
 
+#### [Watermen's Museum](https://watermens.org/)
+
+📍 309 Water St, on the Yorktown waterfront (about 20 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Watermen%27s+Museum+309+Water+St+Yorktown+VA)
+
+- A small museum about the Chesapeake Bay watermen, the people who make their living harvesting oysters, crabs and fish, from pre-colonial times to today.
+- Indoor galleries plus boats and equipment outside, just upriver from Riverwalk Landing.
+- Seasonal, open from early April until just before Christmas.
+
+<sub>Also in: [History within 30 minutes](#history-30)</sub>
+
+#### [The Mariners' Museum and Park](https://www.marinersmuseum.org/)
+
+📍 Newport News (about 30 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Mariners%27+Museum+and+Park+100+Museum+Dr+Newport+News+VA)
+
+- A big maritime museum, home of the USS Monitor Center about the famous Civil War ironclad.
+- Museum open daily 9am–5pm. The surrounding park and the Noland Trail around Mariners' Lake are free, nice for a walk once the rain stops.
+
+<sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids)</sub>
+
+#### [Nauticus & the Battleship Wisconsin](https://nauticus.org/)
+
+📍 Downtown Norfolk waterfront (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+1+Waterside+Dr+Norfolk+VA)
+
+- If you go to Norfolk, you must go see Nauticus!
+- A maritime discovery center with hands-on exhibits, plus tours of the Battleship Wisconsin, the last battleship the U.S. Navy built.
+- Open Tuesday–Sunday 10am–4pm, closed Mondays.
+
+<sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats)</sub>
+
 #### [Chrysler Museum of Art](https://chrysler.org/)
 
 📍 Norfolk (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA)
@@ -1339,6 +1407,15 @@ Easy drives from Williamsburg.
 
 <sub>Also in: [Family Fun](#kids)</sub>
 
+#### [The Mariners' Museum and Park](https://www.marinersmuseum.org/)
+
+📍 Newport News (about 30 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Mariners%27+Museum+and+Park+100+Museum+Dr+Newport+News+VA)
+
+- A big maritime museum, home of the USS Monitor Center about the famous Civil War ironclad.
+- Museum open daily 9am–5pm. The surrounding park and the Noland Trail around Mariners' Lake are free, nice for a walk once the rain stops.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids)</sub>
+
 #### Korean restaurants & groceries in Newport News
 
 📍 Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA)
@@ -1354,6 +1431,16 @@ Easy drives from Williamsburg.
 - The biggest naval base in the world. A great place to see destroyers and other giant ships.
 
 <sub>Also in: [Family Fun](#kids), [Boats & Ferries](#boats)</sub>
+
+#### [Nauticus & the Battleship Wisconsin](https://nauticus.org/)
+
+📍 Downtown Norfolk waterfront (about an hour) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Nauticus+1+Waterside+Dr+Norfolk+VA)
+
+- If you go to Norfolk, you must go see Nauticus!
+- A maritime discovery center with hands-on exhibits, plus tours of the Battleship Wisconsin, the last battleship the U.S. Navy built.
+- Open Tuesday–Sunday 10am–4pm, closed Mondays.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids), [Boats & Ferries](#boats)</sub>
 
 #### [WinterFest on the Wisconsin](https://www.visitnorfolk.com/?p=26593)
 
@@ -1500,9 +1587,11 @@ Worth a stop on the drive down or back.
 | [Lake Matoaka & the College Woods](https://www.wm.edu/about/visiting/campus-landmarks/lake-matoaka/) | William & Mary, western edge of campus (behind the Mason School of Business) · [map](https://www.google.com/maps/search/?api=1&query=Lake+Matoaka+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [Beaches & Outdoors](#beaches) |
 | [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Luray Caverns](https://luraycaverns.com/) | Luray, near Skyline Drive · [map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Family Fun](#kids) |
+| [The Mariners' Museum and Park](https://www.marinersmuseum.org/) | Newport News (about 30 minutes) · [map](https://www.google.com/maps/search/?api=1&query=The+Mariners%27+Museum+and+Park+100+Museum+Dr+Newport+News+VA) | [Rainy Day](#rainy-day), [Day Trips](#day-trips), [Family Fun](#kids) |
 | [Mason School of Business](https://mason.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg) | [Must-See](#must-see) |
 | [Merchants Square](https://www.merchantssquare.org/) | Downtown Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA) | [Must-See](#must-see), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [Muscarelle Museum of Art](https://muscarelle.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Muscarelle+Museum+of+Art+William+%26+Mary+Williamsburg+VA) | [Rainy Day](#rainy-day) |
+| [Nauticus & the Battleship Wisconsin](https://nauticus.org/) | Downtown Norfolk waterfront (about an hour) · [map](https://www.google.com/maps/search/?api=1&query=Nauticus+1+Waterside+Dr+Norfolk+VA) | [Rainy Day](#rainy-day), [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats) |
 | [New Town](https://www.newtownwilliamsburg.com/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=New+Town+Williamsburg+VA) | [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/) | Norfolk (about 40 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk) | [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats) |
 | [Outer Banks](https://www.outerbanks.org/) | North Carolina (about 1 hour past Virginia Beach) · [map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
@@ -1518,6 +1607,7 @@ Worth a stop on the drive down or back.
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [Virginia Symphony at the Lake Matoaka Amphitheatre](https://news.wm.edu/2026/08/13/symphony-under-the-stars-and-by-the-lake/) | William & Mary, by Lake Matoaka (behind the Mason School of Business) · [map](https://www.google.com/maps/search/?api=1&query=Martha+Wren+Briggs+Amphitheatre+Lake+Matoaka+121+Ukrop+Way+Williamsburg+VA) | [Music](#music) |
 | [The Wagsters Magic Theatre](https://www.williamsburgmagic.com/) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Wagsters+Magic+Theatre+1430+High+St+Williamsburg+VA) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| [Watermen's Museum](https://watermens.org/) | 309 Water St, on the Yorktown waterfront (about 20 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Watermen%27s+Museum+309+Water+St+Yorktown+VA) | [Rainy Day](#rainy-day), [History within 30 minutes](#history-30) |
 | [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/) | Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA) | [Holiday & Winter](#holiday), [Shops & Groceries](#shopping), [Family Fun](#kids) |
 | [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See](#must-see), [Holiday & Winter](#holiday) |
