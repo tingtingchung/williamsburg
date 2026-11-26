@@ -9,18 +9,18 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [⭐ Must-See](#must-see) (7)
 - [🏛️ History in Williamsburg](#history-williamsburg) (6)
 - [🏛️ History within 30 minutes](#history-30) (4)
-- [🏛️ History within 2 hours](#history-2h) (5)
+- [🏛️ History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (2)
-- [🍽️ Restaurants](#restaurants) (15)
+- [🍽️ Restaurants](#restaurants) (16)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (7)
-- [🛍️ Shops & Groceries](#shopping) (10)
+- [🛍️ Shops & Groceries](#shopping) (11)
 - [☕ Coffee](#coffee) (4)
-- [🏖️ Beaches & Outdoors](#beaches) (9)
+- [🏖️ Beaches & Outdoors](#beaches) (10)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (10)
+- [🎢 Family Fun](#kids) (11)
 - [🎄 Holiday & Winter](#holiday) (5)
-- [🚗 Day Trips](#day-trips) (12)
+- [🚗 Day Trips](#day-trips) (14)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
 
@@ -207,6 +207,25 @@ Worth a day trip, or a stop on the drive to or from DC. Drive times are approxim
 
 <sub>Also in: [Holiday & Winter](#holiday), [Day Trips](#day-trips)</sub>
 
+#### [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes)
+
+📍 Surry, about 10 minutes from the Jamestown ferry landing · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA)
+
+- A state park with a sandy beach on the James River, just across from Jamestown. Take the free ferry over!
+- Hunt for fossils on the beach (you can keep shark teeth). It's also one of the oldest continually farmed plantations in the country, farmed since 1619.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips), [Family Fun](#kids)</sub>
+
+#### [Smithfield](https://smithfieldva.gov/297/Visitors)
+
+📍 Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA)
+
+- Home of the famous Smithfield ham! It's known as the "Ham Capital of the World."
+- A charming historic river town with a walkable downtown, colorful pig statues to find around town, and restaurants serving Smithfield ham.
+- The Isle of Wight County Museum on Main Street is home to the world's oldest ham.
+
+<sub>Also in: [Day Trips](#day-trips), [Shops & Groceries](#shopping), [Restaurants](#restaurants)</sub>
+
 #### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
 
 📍 Hampton (about 40 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
@@ -376,6 +395,16 @@ My favorite places to eat, from fancy to family-style.
 - Waterfront lunch after the free Jamestown ferry ride.
 
 <sub>Also in: [Seafood & Oysters](#seafood), [Day Trips](#day-trips)</sub>
+
+#### [Smithfield](https://smithfieldva.gov/297/Visitors)
+
+📍 Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA)
+
+- Home of the famous Smithfield ham! It's known as the "Ham Capital of the World."
+- A charming historic river town with a walkable downtown, colorful pig statues to find around town, and restaurants serving Smithfield ham.
+- The Isle of Wight County Museum on Main Street is home to the world's oldest ham.
+
+<sub>Also in: [Day Trips](#day-trips), [History within 2 hours](#history-2h), [Shops & Groceries](#shopping)</sub>
 
 #### Umi Sushi
 
@@ -605,6 +634,16 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 <sub>Also in: [Holiday & Winter](#holiday), [Family Fun](#kids)</sub>
 
+#### [Smithfield](https://smithfieldva.gov/297/Visitors)
+
+📍 Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA)
+
+- Home of the famous Smithfield ham! It's known as the "Ham Capital of the World."
+- A charming historic river town with a walkable downtown, colorful pig statues to find around town, and restaurants serving Smithfield ham.
+- The Isle of Wight County Museum on Main Street is home to the world's oldest ham.
+
+<sub>Also in: [Day Trips](#day-trips), [History within 2 hours](#history-2h), [Restaurants](#restaurants)</sub>
+
 #### Korean restaurants & groceries in Newport News
 
 📍 Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA)
@@ -662,6 +701,15 @@ Where to pick up local treats, imported goodies and souvenirs.
 - Jamestown Settlement (the living-history museum) is next door; see below.
 
 <sub>Also in: [History within 30 minutes](#history-30), [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
+
+#### [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes)
+
+📍 Surry, about 10 minutes from the Jamestown ferry landing · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA)
+
+- A state park with a sandy beach on the James River, just across from Jamestown. Take the free ferry over!
+- Hunt for fossils on the beach (you can keep shark teeth). It's also one of the oldest continually farmed plantations in the country, farmed since 1619.
+
+<sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids), [History within 2 hours](#history-2h)</sub>
 
 #### [Yorktown](https://www.visityorktown.org/)
 
@@ -748,6 +796,7 @@ Where to pick up local treats, imported goodies and souvenirs.
 📍 Jamestown to Surry · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry)
 
 - Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+- On the other side, spend time at the beach at Chippokes State Park, or drive on to Smithfield for its famous ham.
 
 <sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids)</sub>
 
@@ -823,8 +872,18 @@ Kid-approved (Connor-approved!) things to do.
 📍 Jamestown to Surry · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry)
 
 - Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+- On the other side, spend time at the beach at Chippokes State Park, or drive on to Smithfield for its famous ham.
 
 <sub>Also in: [Boats & Ferries](#boats), [Day Trips](#day-trips)</sub>
+
+#### [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes)
+
+📍 Surry, about 10 minutes from the Jamestown ferry landing · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA)
+
+- A state park with a sandy beach on the James River, just across from Jamestown. Take the free ferry over!
+- Hunt for fossils on the beach (you can keep shark teeth). It's also one of the oldest continually farmed plantations in the country, farmed since 1619.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips), [History within 2 hours](#history-2h)</sub>
 
 #### [Virginia Air & Space Science Center](https://vasc.org/)
 
@@ -933,6 +992,7 @@ Easy drives from Williamsburg.
 📍 Jamestown to Surry · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry)
 
 - Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+- On the other side, spend time at the beach at Chippokes State Park, or drive on to Smithfield for its famous ham.
 
 <sub>Also in: [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
 
@@ -943,6 +1003,25 @@ Easy drives from Williamsburg.
 - Waterfront lunch after the free Jamestown ferry ride.
 
 <sub>Also in: [Restaurants](#restaurants), [Seafood & Oysters](#seafood)</sub>
+
+#### [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes)
+
+📍 Surry, about 10 minutes from the Jamestown ferry landing · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA)
+
+- A state park with a sandy beach on the James River, just across from Jamestown. Take the free ferry over!
+- Hunt for fossils on the beach (you can keep shark teeth). It's also one of the oldest continually farmed plantations in the country, farmed since 1619.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Family Fun](#kids), [History within 2 hours](#history-2h)</sub>
+
+#### [Smithfield](https://smithfieldva.gov/297/Visitors)
+
+📍 Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA)
+
+- Home of the famous Smithfield ham! It's known as the "Ham Capital of the World."
+- A charming historic river town with a walkable downtown, colorful pig statues to find around town, and restaurants serving Smithfield ham.
+- The Isle of Wight County Museum on Main Street is home to the world's oldest ham.
+
+<sub>Also in: [History within 2 hours](#history-2h), [Shops & Groceries](#shopping), [Restaurants](#restaurants)</sub>
 
 #### [Yorktown](https://www.visityorktown.org/)
 
@@ -1079,6 +1158,7 @@ Worth a stop on the drive down or back.
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC (about 2 hours) · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
+| [Chippokes State Park](https://www.dcr.virginia.gov/state-parks/chippokes) | Surry, about 10 minutes from the Jamestown ferry landing · [map](https://www.google.com/maps/search/?api=1&query=Chippokes+State+Park+695+Chippokes+Park+Rd+Surry+VA) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips), [Family Fun](#kids), [History within 2 hours](#history-2h) |
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
 | [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
@@ -1110,6 +1190,7 @@ Worth a stop on the drive down or back.
 | [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary) | [Music](#music), [History in Williamsburg](#history-williamsburg) |
 | [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Music](#music) |
 | [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) | Shenandoah National Park · [map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Beaches & Outdoors](#beaches) |
+| [Smithfield](https://smithfieldva.gov/297/Visitors) | Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA) | [Day Trips](#day-trips), [History within 2 hours](#history-2h), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry) | Surry (across the James River) · [map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Day Trips](#day-trips) |
 | Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
 | [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |

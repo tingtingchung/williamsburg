@@ -339,6 +339,7 @@ places:
     tags: [boats, day-trips, kids]
     notes:
       - Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+      - On the other side, spend time at the beach at Chippokes State Park, or drive on to Smithfield for its famous ham.
 
   - name: The Surry Seafood Co.
     url: https://www.opentable.com/r/the-surry-seafood-co-surry
@@ -347,6 +348,25 @@ places:
     tags: [restaurants, seafood, day-trips]
     notes:
       - Waterfront lunch after the free Jamestown ferry ride.
+
+  - name: Chippokes State Park
+    url: https://www.dcr.virginia.gov/state-parks/chippokes
+    map: Chippokes State Park 695 Chippokes Park Rd Surry VA
+    area: Surry, about 10 minutes from the Jamestown ferry landing
+    tags: [beaches, day-trips, kids, history-2h]
+    notes:
+      - A state park with a sandy beach on the James River, just across from Jamestown. Take the free ferry over!
+      - Hunt for fossils on the beach (you can keep shark teeth). It's also one of the oldest continually farmed plantations in the country, farmed since 1619.
+
+  - name: Smithfield
+    url: https://smithfieldva.gov/297/Visitors
+    map: Historic Downtown Smithfield VA
+    area: Isle of Wight County, across the James River (via the ferry or the James River Bridge)
+    tags: [day-trips, history-2h, shopping, restaurants]
+    notes:
+      - Home of the famous Smithfield ham! It's known as the "Ham Capital of the World."
+      - A charming historic river town with a walkable downtown, colorful pig statues to find around town, and restaurants serving Smithfield ham.
+      - The Isle of Wight County Museum on Main Street is home to the world's oldest ham.
 
   # ---------- Yorktown ----------
   - name: Yorktown
