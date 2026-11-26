@@ -6,7 +6,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 ## Sections
 
-- [⭐ Must-See in Williamsburg](#must-see) (7)
+- [⭐ Must-See](#must-see) (7)
 - [🏛️ History](#history) (14)
 - [🎶 Music](#music) (2)
 - [🍽️ Restaurants](#restaurants) (13)
@@ -24,7 +24,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 <a id="must-see"></a>
 
-## ⭐ Must-See in Williamsburg
+## ⭐ Must-See
 
 If you only have a couple of days, start here.
 
@@ -104,7 +104,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 - The campus is beautiful. You should definitely walk around for a visit.
 
-<sub>Also in: [Must-See in Williamsburg](#must-see)</sub>
+<sub>Also in: [Must-See](#must-see)</sub>
 
 #### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
 
@@ -114,7 +114,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
 - The Saturday Farmers Market is right outside.
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [Music](#music)</sub>
+<sub>Also in: [Must-See](#must-see), [Music](#music)</sub>
 
 #### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
 
@@ -131,7 +131,7 @@ Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triang
 
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
+<sub>Also in: [Must-See](#must-see), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
 
 #### [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/)
 
@@ -228,7 +228,7 @@ Free music in historic places.
 - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
 - The Saturday Farmers Market is right outside.
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [History](#history)</sub>
+<sub>Also in: [Must-See](#must-see), [History](#history)</sub>
 
 #### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
 
@@ -254,7 +254,7 @@ My favorite places to eat, from fancy to family-style.
 - Adorable, with elegant shops and cafes. Many of the fancy restaurants are here. You have to visit at least once!
 - The square is blocked off for the Farmers Market 9am–12pm on Saturdays.
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [Shops & Groceries](#shopping)</sub>
+<sub>Also in: [Must-See](#must-see), [Shops & Groceries](#shopping)</sub>
 
 #### [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/)
 
@@ -289,7 +289,7 @@ My favorite places to eat, from fancy to family-style.
 - They make their own pasta, and their Sicilian pizza is the best!
 - 💬 **Tip:** Tell them you are my student and they will take good care of you 😉
 
-<sub>Also in: [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see)</sub>
+<sub>Also in: [Shops & Groceries](#shopping), [Must-See](#must-see)</sub>
 
 #### [Kephi Greek Kitchen](https://kephigreek.kitchen/)
 
@@ -481,7 +481,7 @@ Where to pick up local treats, imported goodies and souvenirs.
 - Adorable, with elegant shops and cafes. Many of the fancy restaurants are here. You have to visit at least once!
 - The square is blocked off for the Farmers Market 9am–12pm on Saturdays.
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [Restaurants](#restaurants)</sub>
+<sub>Also in: [Must-See](#must-see), [Restaurants](#restaurants)</sub>
 
 #### [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/)
 
@@ -490,7 +490,7 @@ Where to pick up local treats, imported goodies and souvenirs.
 - Every Saturday morning, 9am–12pm, at Merchants Square, just outside the Wren Building end of campus.
 - Check the winter schedule online before you go.
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [Holiday & Winter](#holiday)</sub>
+<sub>Also in: [Must-See](#must-see), [Holiday & Winter](#holiday)</sub>
 
 #### [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/)
 
@@ -501,7 +501,7 @@ Where to pick up local treats, imported goodies and souvenirs.
 - They make their own pasta, and their Sicilian pizza is the best!
 - 💬 **Tip:** Tell them you are my student and they will take good care of you 😉
 
-<sub>Also in: [Restaurants](#restaurants), [Must-See in Williamsburg](#must-see)</sub>
+<sub>Also in: [Restaurants](#restaurants), [Must-See](#must-see)</sub>
 
 #### [Kephi Greek Kitchen](https://kephigreek.kitchen/)
 
@@ -696,7 +696,7 @@ Kid-approved (Connor-approved!) things to do.
 
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [History](#history), [Holiday & Winter](#holiday)</sub>
+<sub>Also in: [Must-See](#must-see), [History](#history), [Holiday & Winter](#holiday)</sub>
 
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
@@ -779,7 +779,7 @@ Good to know if you're visiting in the cold months.
 - Every Saturday morning, 9am–12pm, at Merchants Square, just outside the Wren Building end of campus.
 - Check the winter schedule online before you go.
 
-<sub>Also in: [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see)</sub>
+<sub>Also in: [Shops & Groceries](#shopping), [Must-See](#must-see)</sub>
 
 #### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
 
@@ -787,7 +787,7 @@ Good to know if you're visiting in the cold months.
 
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
-<sub>Also in: [Must-See in Williamsburg](#must-see), [History](#history), [Family Fun](#kids)</sub>
+<sub>Also in: [Must-See](#must-see), [History](#history), [Family Fun](#kids)</sub>
 
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
@@ -955,7 +955,7 @@ Worth a stop on the drive down or back.
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History](#history) |
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
-| [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See in Williamsburg](#must-see), [History](#history), [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History](#history), [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History](#history), [Day Trips](#day-trips) |
 | [Fort Monroe National Monument](https://www.nps.gov/fomr/) | Hampton · [map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument) | [History](#history), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
@@ -971,23 +971,23 @@ Worth a stop on the drive down or back.
 | Korean restaurants & groceries in Newport News | Newport News · [map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Day Trips](#day-trips) |
 | [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Luray Caverns](https://luraycaverns.com/) | Luray, near Skyline Drive · [map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Family Fun](#kids) |
-| [Mason School of Business](https://mason.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg) | [Must-See in Williamsburg](#must-see) |
-| [Merchants Square](https://www.merchantssquare.org/) | Downtown Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA) | [Must-See in Williamsburg](#must-see), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
+| [Mason School of Business](https://mason.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg) | [Must-See](#must-see) |
+| [Merchants Square](https://www.merchantssquare.org/) | Downtown Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA) | [Must-See](#must-see), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [New Town](https://www.newtownwilliamsburg.com/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=New+Town+Williamsburg+VA) | [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/) | Norfolk (about 40 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk) | [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats) |
 | [Outer Banks](https://www.outerbanks.org/) | North Carolina (about 1 hour past Virginia Beach) · [map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
 | [The Peanut Shop of Williamsburg](https://www.merchantssquare.org/merchant/the-peanut-shop-of-williamsburg/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=The+Peanut+Shop+of+Williamsburg+Merchants+Square) | [Shops & Groceries](#shopping) |
 | [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/) | Historic Jamestowne (Jamestown Island) · [map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne) | [History](#history) |
-| [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see) |
+| [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Must-See](#must-see) |
 | [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary) | [Music](#music), [History](#history) |
-| [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See in Williamsburg](#must-see), [History](#history), [Music](#music) |
+| [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See](#must-see), [History](#history), [Music](#music) |
 | [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) | Shenandoah National Park · [map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Beaches & Outdoors](#beaches) |
 | [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry) | Surry (across the James River) · [map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Day Trips](#day-trips) |
 | Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
 | [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
-| [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See in Williamsburg](#must-see), [History](#history) |
-| [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see), [Holiday & Winter](#holiday) |
+| [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History](#history) |
+| [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See](#must-see), [Holiday & Winter](#holiday) |
 | [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn) | [Romantic & Fancy](#romantic), [History](#history) |
 | [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection) | [Romantic & Fancy](#romantic) |
 | [Williamsburg Premium Outlets](https://www.premiumoutlets.com/outlet/williamsburg) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Premium+Outlets) | [Shops & Groceries](#shopping) |
