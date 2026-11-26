@@ -18,8 +18,8 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (10)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (11)
-- [🎄 Holiday & Winter](#holiday) (5)
+- [🎢 Family Fun](#kids) (12)
+- [🎄 Holiday & Winter](#holiday) (6)
 - [🚗 Day Trips](#day-trips) (14)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
@@ -850,6 +850,15 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Holiday & Winter](#holiday), [Shops & Groceries](#shopping)</sub>
 
+#### [The Wagsters Magic Theatre](https://www.williamsburgmagic.com/)
+
+📍 High Street, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Wagsters+Magic+Theatre+1430+High+St+Williamsburg+VA)
+
+- A family-friendly magic show by husband-and-wife magicians Brandon and Hannah Wagster, in Virginia's only theatre dedicated just to magic.
+- Big Vegas-style illusions and escapes up close in an intimate theatre. Around the holidays they put on a special Christmas show (check the website for dates).
+
+<sub>Also in: [Holiday & Winter](#holiday)</sub>
+
 #### [Jamestown](https://historicjamestowne.org/)
 
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
@@ -960,6 +969,15 @@ Good to know if you're visiting in the cold months.
 - Free on Thursdays; a one-time $5 fee Friday–Sunday covers return visits. Free for 18 and under and students with ID.
 
 <sub>Also in: [Shops & Groceries](#shopping), [Family Fun](#kids)</sub>
+
+#### [The Wagsters Magic Theatre](https://www.williamsburgmagic.com/)
+
+📍 High Street, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Wagsters+Magic+Theatre+1430+High+St+Williamsburg+VA)
+
+- A family-friendly magic show by husband-and-wife magicians Brandon and Hannah Wagster, in Virginia's only theatre dedicated just to magic.
+- Big Vegas-style illusions and escapes up close in an intimate theatre. Around the holidays they put on a special Christmas show (check the website for dates).
+
+<sub>Also in: [Family Fun](#kids)</sub>
 
 #### [Berkeley Plantation](https://www.berkeleyplantation.com/)
 
@@ -1195,6 +1213,7 @@ Worth a stop on the drive down or back.
 | Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
 | [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
 | [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [The Wagsters Magic Theatre](https://www.williamsburgmagic.com/) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Wagsters+Magic+Theatre+1430+High+St+Williamsburg+VA) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
 | [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg) |
 | [Williamsburg Christmas Market](https://marketspread.com/market/32365/williamsburg-christmas-market/) | Court Street at Bicentennial Park, behind the Art Museums of Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Bicentennial+Park+320+W+Court+St+Williamsburg+VA) | [Holiday & Winter](#holiday), [Shops & Groceries](#shopping), [Family Fun](#kids) |
 | [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See](#must-see), [Holiday & Winter](#holiday) |
