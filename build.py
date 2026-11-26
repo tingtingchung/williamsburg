@@ -17,8 +17,12 @@ sections = data["sections"]
 places = data["places"]
 by_key = {s["key"]: s for s in sections}
 
-# Sanity check: every tag must be a known section.
+# Sanity check: every tag must be a known section, and notes must be plain text
+# (a note containing ": " needs quotes in places.yml or YAML reads it as a label).
 for p in places:
+    for n in p["notes"] + ([p["tip"]] if p.get("tip") else []):
+        if not isinstance(n, str):
+            raise SystemExit(f"Note on {p['name']} isn't plain text (wrap it in quotes): {n}")
     for t in p["tags"]:
         if t not in by_key:
             raise SystemExit(f"Unknown tag '{t}' on {p['name']}")

@@ -179,7 +179,7 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 
 📍 101 Visitor Center Dr, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center+101+Visitor+Center+Dr+Williamsburg+VA)
 
-- {'A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg': 'The Story of a Patriot."'}
+- A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg: The Story of a Patriot."
 - It's also where you buy Colonial Williamsburg tickets and catch the shuttle into the Historic Area.
 
 <sub>Also in: [Rainy Day](#rainy-day)</sub>
@@ -222,7 +222,7 @@ Jamestown and Yorktown, which with Williamsburg make up Virginia's Historic Tria
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
-- {'Good on a rainy day': 'there are indoor gallery exhibits as well as the outdoor ships, village and fort.'}
+- Good on a rainy day: there are indoor gallery exhibits as well as the outdoor ships, village and fort.
 
 <sub>Also in: [Family Fun](#kids), [Rainy Day](#rainy-day)</sub>
 
@@ -1044,7 +1044,7 @@ Kid-approved (Connor-approved!) things to do.
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
-- {'Good on a rainy day': 'there are indoor gallery exhibits as well as the outdoor ships, village and fort.'}
+- Good on a rainy day: there are indoor gallery exhibits as well as the outdoor ships, village and fort.
 
 <sub>Also in: [History within 30 minutes](#history-30), [Rainy Day](#rainy-day)</sub>
 
@@ -1256,7 +1256,7 @@ Indoor ideas for a wet day.
 
 📍 101 Visitor Center Dr, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center+101+Visitor+Center+Dr+Williamsburg+VA)
 
-- {'A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg': 'The Story of a Patriot."'}
+- A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg: The Story of a Patriot."
 - It's also where you buy Colonial Williamsburg tickets and catch the shuttle into the Historic Area.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
@@ -1266,7 +1266,7 @@ Indoor ideas for a wet day.
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
 
 - Living-history museum with replica ships, a Powhatan village and a fort.
-- {'Good on a rainy day': 'there are indoor gallery exhibits as well as the outdoor ships, village and fort.'}
+- Good on a rainy day: there are indoor gallery exhibits as well as the outdoor ships, village and fort.
 
 <sub>Also in: [History within 30 minutes](#history-30), [Family Fun](#kids)</sub>
 

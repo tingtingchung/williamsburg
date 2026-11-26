@@ -185,7 +185,7 @@ places:
     area: 101 Visitor Center Dr, Williamsburg
     tags: [rainy-day, history-williamsburg]
     notes:
-      - A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg: The Story of a Patriot."
+      - 'A huge building where you can spend quite some time, with exhibits, shops and the classic orientation film "Williamsburg: The Story of a Patriot."'
       - It's also where you buy Colonial Williamsburg tickets and catch the shuttle into the Historic Area.
 
   - name: King's Arms Tavern
@@ -410,7 +410,7 @@ places:
     tags: [history-30, kids, rainy-day]
     notes:
       - Living-history museum with replica ships, a Powhatan village and a fort.
-      - Good on a rainy day: there are indoor gallery exhibits as well as the outdoor ships, village and fort.
+      - "Good on a rainy day: there are indoor gallery exhibits as well as the outdoor ships, village and fort."
 
   - name: Pocahontas statue
     url: https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/
