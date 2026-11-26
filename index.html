@@ -48,7 +48,7 @@ h1{font-size:clamp(36px,6vw,58px);color:var(--brick)}
 .search{flex:0 1 260px;position:relative}
 .search input{width:100%;font:16px "Work Sans",sans-serif;padding:9px 12px;min-height:44px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
 :focus-visible{outline:3px solid var(--bay);outline-offset:2px}
-.sat{background:var(--band);color:#fff}
+.sat{background:var(--band);color:#fff;margin-top:clamp(28px,4vw,48px)}
 .sat .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px;align-items:start}
 .sat h2{font-size:clamp(28px,3.4vw,40px)}
 .sat p{margin:10px 0 0;opacity:.85;font-size:15px}
@@ -74,7 +74,7 @@ section.sec{padding-top:clamp(28px,4vw,48px)}
 .foot a{text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 10px;color:var(--ink);background:var(--chip)}
 .foot a.map{background:transparent;border-color:var(--brick);color:var(--brick);font-weight:500}
 .empty{padding:40px 0;color:var(--soft);font-size:17px}
-footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);font-size:14px}
+footer.band{margin-top:0;border-top:1px solid var(--line);color:var(--soft);font-size:14px}
 @media(max-width:760px){.sat .wrap{grid-template-columns:minmax(0,1fr)}}
 @media(max-width:600px){.bar .wrap{gap:8px}.search{flex:1 1 100%}html{scroll-padding-top:150px}.sat li{grid-template-columns:4.5em minmax(0,1fr)}.sat time{font-size:20px}}
 @media(prefers-reduced-motion:no-preference){.sail{animation:bob 6s ease-in-out infinite;transform-origin:960px 250px}@keyframes bob{50%{transform:translateY(3px) rotate(-.6deg)}}}
@@ -132,7 +132,11 @@ footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);f
 <div class="search"><label for="q" style="position:absolute;left:-9999px">Search places</label><input id="q" type="search" placeholder="Search: oysters, pizza, beach…" autocomplete="off"></div>
 </div></nav>
 
-<section class="sat band"><div class="wrap">
+
+
+<main class="band" style="padding-top:0"><div class="wrap" id="main"></div></main>
+
+<section class="sat band" id="saturday"><div class="wrap">
 <div><h2>A perfect Saturday morning</h2><p>A suggested plan built from Rachel's notes. Check winter hours for the market.</p></div>
 <ol>
 <li><time>9:00</time><div><a href="#shopping">Farmers Market</a> at Merchants Square (the square is closed to cars 9am–12pm).</div></li>
@@ -141,8 +145,6 @@ footer.band{margin-top:40px;border-top:1px solid var(--line);color:var(--soft);f
 <li><time>Evening</time><div>A <a href="#romantic">romantic dinner</a> at Le Yaca or Fat Canary.</div></li>
 </ol>
 </div></section>
-
-<main class="band" style="padding-top:0"><div class="wrap" id="main"></div></main>
 
 <footer class="band"><div class="wrap">
 Hours, seasons and schedules change, so check each website before you go. Map links open a Google Maps search.
@@ -196,6 +198,7 @@ const apply = () => {
     sec.hidden = !vis; if (vis) shown++;
   }
   document.getElementById('empty').hidden = shown > 0;
+  document.getElementById('saturday').hidden = !(k === 'all' && !term);
 };
 const go = () => { apply(); const h = location.hash.slice(1); if (byKey[h]) document.getElementById('chips').querySelector('[data-k="' + h + '"]')?.scrollIntoView({block:'nearest', inline:'center'}); };
 window.addEventListener('hashchange', () => { go(); if (byKey[location.hash.slice(1)]) document.querySelector('.bar').scrollIntoView(); });
