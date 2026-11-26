@@ -6,7 +6,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 
 ## Sections
 
-- [⭐ Must-See](#must-see) (8)
+- [⭐ Must-See](#must-see) (9)
 - [🏛️ History in Williamsburg](#history-williamsburg) (6)
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
@@ -16,7 +16,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [🦪 Seafood & Oysters](#seafood) (7)
 - [🛍️ Shops & Groceries](#shopping) (11)
 - [☕ Coffee](#coffee) (4)
-- [🏖️ Beaches & Outdoors](#beaches) (11)
+- [🏖️ Beaches & Outdoors](#beaches) (12)
 - [⛵ Boats & Ferries](#boats) (4)
 - [🎢 Family Fun](#kids) (16)
 - [🎄 Holiday & Winter](#holiday) (7)
@@ -81,6 +81,16 @@ If you only have a couple of days, start here.
 - Every spring, graduating seniors cross the bridge together on their way to Commencement.
 
 <sub>Also in: [Romantic & Fancy](#romantic)</sub>
+
+#### [Lake Matoaka & the College Woods](https://www.wm.edu/about/visiting/campus-landmarks/lake-matoaka/)
+
+📍 William & Mary, western edge of campus (behind the Mason School of Business) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Lake+Matoaka+William+%26+Mary+Williamsburg+VA)
+
+- A peaceful lake surrounded by the College Woods, with more than 10 miles of walking trails. The woods are the largest remaining forest in the city of Williamsburg.
+- The lake was made by English colonists in the early 1700s as a mill pond, and is named Matoaka after Pocahontas (Matoaka was her Powhatan name).
+- The amphitheatre where the Virginia Symphony plays every year sits on the lake. Swimming isn't allowed, but it's lovely for a walk or a birdwatching stroll.
+
+<sub>Also in: [Beaches & Outdoors](#beaches)</sub>
 
 #### [Mason School of Business](https://mason.wm.edu/)
 
@@ -740,6 +750,16 @@ Where to pick up local treats, imported goodies and souvenirs.
 
 ## 🏖️ Beaches & Outdoors
 
+#### [Lake Matoaka & the College Woods](https://www.wm.edu/about/visiting/campus-landmarks/lake-matoaka/)
+
+📍 William & Mary, western edge of campus (behind the Mason School of Business) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Lake+Matoaka+William+%26+Mary+Williamsburg+VA)
+
+- A peaceful lake surrounded by the College Woods, with more than 10 miles of walking trails. The woods are the largest remaining forest in the city of Williamsburg.
+- The lake was made by English colonists in the early 1700s as a mill pond, and is named Matoaka after Pocahontas (Matoaka was her Powhatan name).
+- The amphitheatre where the Virginia Symphony plays every year sits on the lake. Swimming isn't allowed, but it's lovely for a walk or a birdwatching stroll.
+
+<sub>Also in: [Must-See](#must-see)</sub>
+
 #### [Jamestown](https://historicjamestowne.org/)
 
 📍 Jamestown (about 15 minutes) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
@@ -1338,6 +1358,7 @@ Worth a stop on the drive down or back.
 | [Kephi Greek Kitchen](https://kephigreek.kitchen/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA) | [Restaurants](#restaurants), [History in Williamsburg](#history-williamsburg) |
 | Korean restaurants & groceries in Newport News | Newport News · [map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Day Trips](#day-trips) |
+| [Lake Matoaka & the College Woods](https://www.wm.edu/about/visiting/campus-landmarks/lake-matoaka/) | William & Mary, western edge of campus (behind the Mason School of Business) · [map](https://www.google.com/maps/search/?api=1&query=Lake+Matoaka+William+%26+Mary+Williamsburg+VA) | [Must-See](#must-see), [Beaches & Outdoors](#beaches) |
 | [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Luray Caverns](https://luraycaverns.com/) | Luray, near Skyline Drive · [map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Family Fun](#kids) |
 | [Mason School of Business](https://mason.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg) | [Must-See](#must-see) |
