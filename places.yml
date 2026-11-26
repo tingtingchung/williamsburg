@@ -91,24 +91,15 @@ places:
     notes:
       - The campus is beautiful. You should definitely walk around for a visit.
 
-  - name: Sir Christopher Wren Building
+  - name: Sir Christopher Wren Building & Wren Chapel
     url: https://www.colonialwilliamsburg.org/locations/wren-building/
     map: Wren Building William & Mary
     area: William & Mary
     tags: [must-see, history-williamsburg, music]
     notes:
       - The oldest academic building still in use in the USA, so you should go see it.
-      - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
-      - The Saturday Farmers Market is right outside.
-
-  - name: Saturday organ recital in the Wren Chapel
-    url: https://www.wm.edu/sites/historiccampus/visiting/organrecitals/
-    map: Wren Chapel William & Mary
-    area: William & Mary
-    tags: [music, history-williamsburg]
-    notes:
-      - Free, every Saturday at 10am, played on an 18th-century English chamber organ.
-      - A perfect pair with the Farmers Market (9am–12pm), before or after the recital.
+      - Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes), played on an 18th-century English chamber organ.
+      - A perfect pair with the Saturday Farmers Market (9am–12pm) right outside, before or after the recital.
 
   - name: Mason School of Business
     url: https://mason.wm.edu/

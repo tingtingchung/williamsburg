@@ -7,10 +7,10 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 ## Sections
 
 - [⭐ Must-See](#must-see) (7)
-- [🏛️ History in Williamsburg](#history-williamsburg) (6)
+- [🏛️ History in Williamsburg](#history-williamsburg) (5)
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
-- [🎶 Music](#music) (3)
+- [🎶 Music](#music) (2)
 - [🍽️ Restaurants](#restaurants) (16)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (7)
@@ -56,13 +56,13 @@ If you only have a couple of days, start here.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
-#### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
+#### [Sir Christopher Wren Building & Wren Chapel](https://www.colonialwilliamsburg.org/locations/wren-building/)
 
 📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary)
 
 - The oldest academic building still in use in the USA, so you should go see it.
-- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
-- The Saturday Farmers Market is right outside.
+- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes), played on an 18th-century English chamber organ.
+- A perfect pair with the Saturday Farmers Market (9am–12pm) right outside, before or after the recital.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg), [Music](#music)</sub>
 
@@ -108,24 +108,15 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 
 <sub>Also in: [Must-See](#must-see)</sub>
 
-#### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
+#### [Sir Christopher Wren Building & Wren Chapel](https://www.colonialwilliamsburg.org/locations/wren-building/)
 
 📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary)
 
 - The oldest academic building still in use in the USA, so you should go see it.
-- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
-- The Saturday Farmers Market is right outside.
+- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes), played on an 18th-century English chamber organ.
+- A perfect pair with the Saturday Farmers Market (9am–12pm) right outside, before or after the recital.
 
 <sub>Also in: [Must-See](#must-see), [Music](#music)</sub>
-
-#### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
-
-📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary)
-
-- Free, every Saturday at 10am, played on an 18th-century English chamber organ.
-- A perfect pair with the Farmers Market (9am–12pm), before or after the recital.
-
-<sub>Also in: [Music](#music)</sub>
 
 #### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
 
@@ -267,24 +258,15 @@ Worth a day trip, or a stop on the drive to or from DC. Drive times are approxim
 
 Free music in historic places.
 
-#### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
+#### [Sir Christopher Wren Building & Wren Chapel](https://www.colonialwilliamsburg.org/locations/wren-building/)
 
 📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary)
 
 - The oldest academic building still in use in the USA, so you should go see it.
-- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
-- The Saturday Farmers Market is right outside.
+- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes), played on an 18th-century English chamber organ.
+- A perfect pair with the Saturday Farmers Market (9am–12pm) right outside, before or after the recital.
 
 <sub>Also in: [Must-See](#must-see), [History in Williamsburg](#history-williamsburg)</sub>
-
-#### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
-
-📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary)
-
-- Free, every Saturday at 10am, played on an 18th-century English chamber organ.
-- A perfect pair with the Farmers Market (9am–12pm), before or after the recital.
-
-<sub>Also in: [History in Williamsburg](#history-williamsburg)</sub>
 
 #### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
 
@@ -1300,8 +1282,7 @@ Worth a stop on the drive down or back.
 | [The Peanut Shop of Williamsburg](https://www.merchantssquare.org/merchant/the-peanut-shop-of-williamsburg/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=The+Peanut+Shop+of+Williamsburg+Merchants+Square) | [Shops & Groceries](#shopping) |
 | [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/) | Historic Jamestowne, Jamestown Island (about 15 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne) | [History within 30 minutes](#history-30) |
 | [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Must-See](#must-see) |
-| [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary) | [Music](#music), [History in Williamsburg](#history-williamsburg) |
-| [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Music](#music) |
+| [Sir Christopher Wren Building & Wren Chapel](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Music](#music) |
 | [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) | Shenandoah National Park · [map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Beaches & Outdoors](#beaches) |
 | [Smithfield](https://smithfieldva.gov/297/Visitors) | Isle of Wight County, across the James River (via the ferry or the James River Bridge) · [map](https://www.google.com/maps/search/?api=1&query=Historic+Downtown+Smithfield+VA) | [Day Trips](#day-trips), [History within 2 hours](#history-2h), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
 | [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry) | Surry (across the James River) · [map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Day Trips](#day-trips) |
