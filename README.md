@@ -1,0 +1,999 @@
+# Rachel's Guide to Williamsburg, VA 🇺🇸
+
+My personal tips for visiting Williamsburg and Virginia's Historic Triangle: where to eat, what to see, and who to say hi to. Many places appear in more than one section, so jump to whatever you're in the mood for.
+
+> 💬 Look for the **Tip** lines. Some of my friends will take extra good care of you if you tell them you're my student!
+
+## Sections
+
+- [⭐ Must-See in Williamsburg](#must-see) (7)
+- [🏛️ History](#history) (14)
+- [🎶 Music](#music) (2)
+- [🍽️ Restaurants](#restaurants) (13)
+- [🕯️ Romantic & Fancy](#romantic) (5)
+- [🦪 Seafood & Oysters](#seafood) (6)
+- [🛍️ Shops & Groceries](#shopping) (9)
+- [☕ Coffee](#coffee) (1)
+- [🏖️ Beaches & Outdoors](#beaches) (9)
+- [⛵ Boats & Ferries](#boats) (4)
+- [🎢 Family Fun](#kids) (9)
+- [🎄 Holiday & Winter](#holiday) (3)
+- [🚗 Day Trips](#day-trips) (11)
+- [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
+- [📋 All places A–Z](#all-places)
+
+<a id="must-see"></a>
+
+## ⭐ Must-See in Williamsburg
+
+If you only have a couple of days, start here.
+
+#### [Merchants Square](https://www.merchantssquare.org/)
+
+📍 Downtown Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA)
+
+- Adorable, with elegant shops and cafes. Many of the fancy restaurants are here. You have to visit at least once!
+- The square is blocked off for the Farmers Market 9am–12pm on Saturdays.
+
+<sub>Also in: [Shops & Groceries](#shopping), [Restaurants](#restaurants)</sub>
+
+#### [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/)
+
+📍 Merchants Square, near the Wren Building · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square)
+
+- Every Saturday morning, 9am–12pm, at Merchants Square, just outside the Wren Building end of campus.
+- Check the winter schedule online before you go.
+
+<sub>Also in: [Shops & Groceries](#shopping), [Holiday & Winter](#holiday)</sub>
+
+#### [William & Mary campus](https://www.wm.edu/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA)
+
+- The campus is beautiful. You should definitely walk around for a visit.
+
+<sub>Also in: [History](#history)</sub>
+
+#### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary)
+
+- The oldest academic building still in use in the USA, so you should go see it.
+- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
+- The Saturday Farmers Market is right outside.
+
+<sub>Also in: [History](#history), [Music](#music)</sub>
+
+#### [Mason School of Business](https://mason.wm.edu/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg)
+
+- The fanciest building on campus and definitely worth a visit.
+- Walk behind the building to reach the lake and the amphitheatre by the lake.
+
+#### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center)
+
+- Schedule one whole day for Colonial Williamsburg. It's a must-see!
+
+<sub>Also in: [History](#history), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
+
+#### [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/)
+
+📍 Richmond Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA)
+
+- The best Italian restaurant, run by my former student Nicola's wife, Mirella.
+- They also sell Italian olive oil, wine and cakes, all flown in directly from Italy, because the whole family is 100% Italian!
+- They make their own pasta, and their Sicilian pizza is the best!
+- 💬 **Tip:** Tell them you are my student and they will take good care of you 😉
+
+<sub>Also in: [Restaurants](#restaurants), [Shops & Groceries](#shopping)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="history"></a>
+
+## 🏛️ History
+
+Colonial Williamsburg, Jamestown and Yorktown make up Virginia's Historic Triangle.
+
+#### [William & Mary campus](https://www.wm.edu/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA)
+
+- The campus is beautiful. You should definitely walk around for a visit.
+
+<sub>Also in: [Must-See in Williamsburg](#must-see)</sub>
+
+#### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary)
+
+- The oldest academic building still in use in the USA, so you should go see it.
+- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
+- The Saturday Farmers Market is right outside.
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [Music](#music)</sub>
+
+#### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary)
+
+- Free, every Saturday at 10am, played on an 18th-century English chamber organ.
+- Pairs perfectly with the Farmers Market right after.
+
+<sub>Also in: [Music](#music)</sub>
+
+#### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center)
+
+- Schedule one whole day for Colonial Williamsburg. It's a must-see!
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
+
+#### [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/)
+
+📍 Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA)
+
+- A colonial-themed restaurant with servers in period dress, right in the Historic Area.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/)
+
+📍 Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn)
+
+- Very fancy. Queen Elizabeth II stayed here on both of her visits to Williamsburg.
+
+<sub>Also in: [Romantic & Fancy](#romantic)</sub>
+
+#### [Jamestown](https://historicjamestowne.org/)
+
+📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+
+- Visit for the beach, historical tours and sailboat trips.
+- Jamestown Settlement (the living-history museum) is next door; see below.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
+
+#### [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement)
+
+📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
+
+- Living-history museum with replica ships, a Powhatan village and a fort.
+
+<sub>Also in: [Family Fun](#kids)</sub>
+
+#### [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/)
+
+📍 Historic Jamestowne (Jamestown Island) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne)
+
+- This area is Pocahontas country! Her bronze statue (1922) stands at Historic Jamestowne on Jamestown Island.
+
+#### [Yorktown](https://www.visityorktown.org/)
+
+📍 Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
+
+- Visit for the beach, sailboat tours and sushi on the beach at Umi.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
+
+#### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
+
+📍 Hampton · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
+
+- Beach plus historical sightseeing.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
+
+#### [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing)
+
+📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
+
+- Has a beach and is close to Virginia Beach.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
+
+#### [Charlottesville](https://www.visitcharlottesville.org/)
+
+📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA)
+
+- Stop for more historical sites.
+
+<sub>Also in: [On the Way (DC ↔ Williamsburg)](#road-trip)</sub>
+
+#### [Fredericksburg](https://www.visitfred.com/)
+
+📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA)
+
+- Stop for more historical sites.
+
+<sub>Also in: [On the Way (DC ↔ Williamsburg)](#road-trip)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="music"></a>
+
+## 🎶 Music
+
+Free music in historic places.
+
+#### [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary)
+
+- The oldest academic building still in use in the USA, so you should go see it.
+- Free organ concert in the Wren Chapel every Saturday at 10am (about 30 minutes).
+- The Saturday Farmers Market is right outside.
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [History](#history)</sub>
+
+#### [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/)
+
+📍 William & Mary · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary)
+
+- Free, every Saturday at 10am, played on an 18th-century English chamber organ.
+- Pairs perfectly with the Farmers Market right after.
+
+<sub>Also in: [History](#history)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="restaurants"></a>
+
+## 🍽️ Restaurants
+
+My favorite places to eat, from fancy to family-style.
+
+#### [Merchants Square](https://www.merchantssquare.org/)
+
+📍 Downtown Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA)
+
+- Adorable, with elegant shops and cafes. Many of the fancy restaurants are here. You have to visit at least once!
+- The square is blocked off for the Farmers Market 9am–12pm on Saturdays.
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [Shops & Groceries](#shopping)</sub>
+
+#### [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/)
+
+📍 Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA)
+
+- A colonial-themed restaurant with servers in period dress, right in the Historic Area.
+
+<sub>Also in: [History](#history)</sub>
+
+#### [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg)
+
+📍 High Street, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA)
+
+- French. One of my two picks for a romantic dinner.
+
+<sub>Also in: [Romantic & Fancy](#romantic)</sub>
+
+#### [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/)
+
+📍 Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA)
+
+- My other pick for a romantic dinner. Reservations are highly recommended.
+
+<sub>Also in: [Romantic & Fancy](#romantic)</sub>
+
+#### [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/)
+
+📍 Richmond Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA)
+
+- The best Italian restaurant, run by my former student Nicola's wife, Mirella.
+- They also sell Italian olive oil, wine and cakes, all flown in directly from Italy, because the whole family is 100% Italian!
+- They make their own pasta, and their Sicilian pizza is the best!
+- 💬 **Tip:** Tell them you are my student and they will take good care of you 😉
+
+<sub>Also in: [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see)</sub>
+
+#### [Kephi Greek Kitchen](https://kephigreek.kitchen/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA)
+
+- My favorite Greek restaurant.
+- They have grilled whole fish, and their lamb shank pasta is the most amazing I've ever had!
+- There's a grocery section where you can buy Greek olive oil and sauces.
+
+<sub>Also in: [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping)</sub>
+
+#### [Casa Pearl](https://www.eatcasapearl.com/)
+
+📍 Merrimac Trail, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA)
+
+- The best seafood restaurant. Oysters and tacos!
+- Their grilled whole fish is my favorite.
+
+<sub>Also in: [Seafood & Oysters](#seafood)</sub>
+
+#### [Ichiban](http://ichibannewtown.com/)
+
+📍 New Town · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA)
+
+- My favorite Chinese restaurant in town.
+- It's in New Town, which is very nice to walk around when the weather is nice.
+
+#### [New Town](https://www.newtownwilliamsburg.com/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=New+Town+Williamsburg+VA)
+
+- A very nice area to walk around (when the weather is nice), with shops, restaurants and a movie theater.
+
+<sub>Also in: [Shops & Groceries](#shopping)</sub>
+
+#### [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry)
+
+📍 Surry (across the James River) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA)
+
+- Waterfront lunch after the free Jamestown ferry ride.
+
+<sub>Also in: [Seafood & Oysters](#seafood), [Day Trips](#day-trips)</sub>
+
+#### Umi Sushi
+
+📍 Yorktown waterfront · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA)
+
+- Sushi on the beach!
+
+<sub>Also in: [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches)</sub>
+
+#### Korean restaurants & groceries in Newport News
+
+📍 Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA)
+
+- Newport News has some very authentic Korean restaurants and grocery stores.
+
+<sub>Also in: [Shops & Groceries](#shopping), [Day Trips](#day-trips)</sub>
+
+#### [Hayashi Sushi & Grill](https://www.newport-news.org/visitors/where-to-dine/74/hayashi-sushi-and-grill)
+
+📍 City Center, Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Hayashi+Sushi+%26+Grill+11820+Merchants+Walk+Newport+News+VA)
+
+- Run by my friend Jay.
+- 💬 **Tip:** Tell him you are my student and ask him to give you the best seafood!
+
+<sub>Also in: [Seafood & Oysters](#seafood)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="romantic"></a>
+
+## 🕯️ Romantic & Fancy
+
+For a special dinner or a fancy stay.
+
+#### [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/)
+
+📍 Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn)
+
+- Very fancy. Queen Elizabeth II stayed here on both of her visits to Williamsburg.
+
+<sub>Also in: [History](#history)</sub>
+
+#### [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/)
+
+📍 Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection)
+
+- Also very fancy, and a short walk to the Historic Area, campus and Merchants Square.
+
+#### [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg)
+
+📍 High Street, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA)
+
+- French. One of my two picks for a romantic dinner.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/)
+
+📍 Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA)
+
+- My other pick for a romantic dinner. Reservations are highly recommended.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### [Yorktown Sailing Charters](https://www.sailyorktown.com/)
+
+📍 Riverwalk Landing, Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Sailing+Charters+425+Water+St+Yorktown+VA)
+
+- Schooner cruises on the York River, including sunset sails (seasonal, roughly April–November).
+
+<sub>Also in: [Boats & Ferries](#boats)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="seafood"></a>
+
+## 🦪 Seafood & Oysters
+
+Virginia has the best oysters and crabs, and cold weather is the best time to eat oysters!
+
+#### [Kephi Greek Kitchen](https://kephigreek.kitchen/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA)
+
+- My favorite Greek restaurant.
+- They have grilled whole fish, and their lamb shank pasta is the most amazing I've ever had!
+- There's a grocery section where you can buy Greek olive oil and sauces.
+
+<sub>Also in: [Restaurants](#restaurants), [Shops & Groceries](#shopping)</sub>
+
+#### [Casa Pearl](https://www.eatcasapearl.com/)
+
+📍 Merrimac Trail, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA)
+
+- The best seafood restaurant. Oysters and tacos!
+- Their grilled whole fish is my favorite.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### Carino's Seafood
+
+📍 Ironbound Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA)
+
+- My favorite seafood grocery store.
+- Buy fresh oysters from Jeff Carino. Now, in cold weather, is the best time to eat oysters!
+- 💬 **Tip:** Tell Jeff I say hi!
+
+<sub>Also in: [Shops & Groceries](#shopping)</sub>
+
+#### [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry)
+
+📍 Surry (across the James River) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA)
+
+- Waterfront lunch after the free Jamestown ferry ride.
+
+<sub>Also in: [Restaurants](#restaurants), [Day Trips](#day-trips)</sub>
+
+#### Umi Sushi
+
+📍 Yorktown waterfront · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA)
+
+- Sushi on the beach!
+
+<sub>Also in: [Restaurants](#restaurants), [Beaches & Outdoors](#beaches)</sub>
+
+#### [Hayashi Sushi & Grill](https://www.newport-news.org/visitors/where-to-dine/74/hayashi-sushi-and-grill)
+
+📍 City Center, Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Hayashi+Sushi+%26+Grill+11820+Merchants+Walk+Newport+News+VA)
+
+- Run by my friend Jay.
+- 💬 **Tip:** Tell him you are my student and ask him to give you the best seafood!
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="shopping"></a>
+
+## 🛍️ Shops & Groceries
+
+Where to pick up local treats, imported goodies and souvenirs.
+
+#### [Merchants Square](https://www.merchantssquare.org/)
+
+📍 Downtown Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA)
+
+- Adorable, with elegant shops and cafes. Many of the fancy restaurants are here. You have to visit at least once!
+- The square is blocked off for the Farmers Market 9am–12pm on Saturdays.
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [Restaurants](#restaurants)</sub>
+
+#### [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/)
+
+📍 Merchants Square, near the Wren Building · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square)
+
+- Every Saturday morning, 9am–12pm, at Merchants Square, just outside the Wren Building end of campus.
+- Check the winter schedule online before you go.
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [Holiday & Winter](#holiday)</sub>
+
+#### [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/)
+
+📍 Richmond Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA)
+
+- The best Italian restaurant, run by my former student Nicola's wife, Mirella.
+- They also sell Italian olive oil, wine and cakes, all flown in directly from Italy, because the whole family is 100% Italian!
+- They make their own pasta, and their Sicilian pizza is the best!
+- 💬 **Tip:** Tell them you are my student and they will take good care of you 😉
+
+<sub>Also in: [Restaurants](#restaurants), [Must-See in Williamsburg](#must-see)</sub>
+
+#### [Kephi Greek Kitchen](https://kephigreek.kitchen/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA)
+
+- My favorite Greek restaurant.
+- They have grilled whole fish, and their lamb shank pasta is the most amazing I've ever had!
+- There's a grocery section where you can buy Greek olive oil and sauces.
+
+<sub>Also in: [Restaurants](#restaurants), [Seafood & Oysters](#seafood)</sub>
+
+#### [New Town](https://www.newtownwilliamsburg.com/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=New+Town+Williamsburg+VA)
+
+- A very nice area to walk around (when the weather is nice), with shops, restaurants and a movie theater.
+
+<sub>Also in: [Restaurants](#restaurants)</sub>
+
+#### Carino's Seafood
+
+📍 Ironbound Road, Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA)
+
+- My favorite seafood grocery store.
+- Buy fresh oysters from Jeff Carino. Now, in cold weather, is the best time to eat oysters!
+- 💬 **Tip:** Tell Jeff I say hi!
+
+<sub>Also in: [Seafood & Oysters](#seafood)</sub>
+
+#### [The Peanut Shop of Williamsburg](https://www.merchantssquare.org/merchant/the-peanut-shop-of-williamsburg/)
+
+📍 Merchants Square · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Peanut+Shop+of+Williamsburg+Merchants+Square)
+
+- Virginia's specialty is peanuts! Stop by to get local peanuts (lots of free samples).
+
+#### [Williamsburg Premium Outlets](https://www.premiumoutlets.com/outlet/williamsburg)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Premium+Outlets)
+
+- Tourists love this outlet mall.
+
+#### Korean restaurants & groceries in Newport News
+
+📍 Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA)
+
+- Newport News has some very authentic Korean restaurants and grocery stores.
+
+<sub>Also in: [Restaurants](#restaurants), [Day Trips](#day-trips)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="coffee"></a>
+
+## ☕ Coffee
+
+#### The Coffeehouse
+
+📍 Between Jamestown and Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA)
+
+- My favorite coffee place. A family-owned roaster.
+
+[↑ Back to sections](#sections)
+
+<a id="beaches"></a>
+
+## 🏖️ Beaches & Outdoors
+
+#### [Jamestown](https://historicjamestowne.org/)
+
+📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+
+- Visit for the beach, historical tours and sailboat trips.
+- Jamestown Settlement (the living-history museum) is next door; see below.
+
+<sub>Also in: [History](#history), [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
+
+#### [Yorktown](https://www.visityorktown.org/)
+
+📍 Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
+
+- Visit for the beach, sailboat tours and sushi on the beach at Umi.
+
+<sub>Also in: [History](#history), [Day Trips](#day-trips)</sub>
+
+#### Umi Sushi
+
+📍 Yorktown waterfront · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA)
+
+- Sushi on the beach!
+
+<sub>Also in: [Restaurants](#restaurants), [Seafood & Oysters](#seafood)</sub>
+
+#### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
+
+📍 Hampton · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
+
+- Beach plus historical sightseeing.
+
+<sub>Also in: [History](#history), [Day Trips](#day-trips)</sub>
+
+#### [Virginia Beach](https://www.visitvirginiabeach.com/)
+
+📍 About 1 hour 15 minutes away · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk)
+
+- From here it's about another hour to the Outer Banks.
+
+<sub>Also in: [Day Trips](#day-trips)</sub>
+
+#### [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/)
+
+📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium)
+
+- Connor's favorite ropes course! Treetop trails and ziplines next to the aquarium.
+
+<sub>Also in: [Family Fun](#kids), [Day Trips](#day-trips)</sub>
+
+#### [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing)
+
+📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
+
+- Has a beach and is close to Virginia Beach.
+
+<sub>Also in: [History](#history), [Day Trips](#day-trips)</sub>
+
+#### [Outer Banks](https://www.outerbanks.org/)
+
+📍 North Carolina (about 1 hour past Virginia Beach) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC)
+
+- Keep going from Virginia Beach for another hour.
+
+<sub>Also in: [Day Trips](#day-trips)</sub>
+
+#### [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm)
+
+📍 Shenandoah National Park · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park)
+
+- Try to take Skyline Drive to or from Williamsburg.
+- A 105-mile scenic road running north–south along the crest of the Blue Ridge Mountains through Shenandoah National Park.
+
+<sub>Also in: [On the Way (DC ↔ Williamsburg)](#road-trip)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="boats"></a>
+
+## ⛵ Boats & Ferries
+
+#### [Jamestown](https://historicjamestowne.org/)
+
+📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+
+- Visit for the beach, historical tours and sailboat trips.
+- Jamestown Settlement (the living-history museum) is next door; see below.
+
+<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches), [Family Fun](#kids)</sub>
+
+#### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
+
+📍 Jamestown to Surry · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry)
+
+- Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+
+<sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids)</sub>
+
+#### [Yorktown Sailing Charters](https://www.sailyorktown.com/)
+
+📍 Riverwalk Landing, Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Sailing+Charters+425+Water+St+Yorktown+VA)
+
+- Schooner cruises on the York River, including sunset sails (seasonal, roughly April–November).
+
+<sub>Also in: [Romantic & Fancy](#romantic)</sub>
+
+#### [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/)
+
+📍 Norfolk (about 40 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk)
+
+- The biggest naval base in the world. A great place to see destroyers and other giant ships.
+
+<sub>Also in: [Day Trips](#day-trips), [Family Fun](#kids)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="kids"></a>
+
+## 🎢 Family Fun
+
+Kid-approved (Connor-approved!) things to do.
+
+#### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center)
+
+- Schedule one whole day for Colonial Williamsburg. It's a must-see!
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [History](#history), [Holiday & Winter](#holiday)</sub>
+
+#### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg)
+
+- It will be decorated for Christmas!
+
+<sub>Also in: [Holiday & Winter](#holiday)</sub>
+
+#### [Jamestown](https://historicjamestowne.org/)
+
+📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne)
+
+- Visit for the beach, historical tours and sailboat trips.
+- Jamestown Settlement (the living-history museum) is next door; see below.
+
+<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats)</sub>
+
+#### [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement)
+
+📍 Jamestown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement)
+
+- Living-history museum with replica ships, a Powhatan village and a fort.
+
+<sub>Also in: [History](#history)</sub>
+
+#### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
+
+📍 Jamestown to Surry · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry)
+
+- Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+
+<sub>Also in: [Boats & Ferries](#boats), [Day Trips](#day-trips)</sub>
+
+#### [Virginia Air & Space Science Center](https://vasc.org/)
+
+📍 Hampton (about 36 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA)
+
+- Part of NASA Langley, a little past Newport News.
+- Aircraft and spacecraft exhibits, an IMAX theater, and interactive exhibits for kids and adults.
+
+<sub>Also in: [Day Trips](#day-trips)</sub>
+
+#### [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/)
+
+📍 Norfolk (about 40 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk)
+
+- The biggest naval base in the world. A great place to see destroyers and other giant ships.
+
+<sub>Also in: [Day Trips](#day-trips), [Boats & Ferries](#boats)</sub>
+
+#### [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/)
+
+📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium)
+
+- Connor's favorite ropes course! Treetop trails and ziplines next to the aquarium.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [Day Trips](#day-trips)</sub>
+
+#### [Luray Caverns](https://luraycaverns.com/)
+
+📍 Luray, near Skyline Drive · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns)
+
+- The largest cavern system in the eastern United States.
+
+<sub>Also in: [On the Way (DC ↔ Williamsburg)](#road-trip)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="holiday"></a>
+
+## 🎄 Holiday & Winter
+
+Good to know if you're visiting in the cold months.
+
+#### [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/)
+
+📍 Merchants Square, near the Wren Building · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square)
+
+- Every Saturday morning, 9am–12pm, at Merchants Square, just outside the Wren Building end of campus.
+- Check the winter schedule online before you go.
+
+<sub>Also in: [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see)</sub>
+
+#### [Colonial Williamsburg](https://www.colonialwilliamsburg.org/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center)
+
+- Schedule one whole day for Colonial Williamsburg. It's a must-see!
+
+<sub>Also in: [Must-See in Williamsburg](#must-see), [History](#history), [Family Fun](#kids)</sub>
+
+#### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
+
+📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg)
+
+- It will be decorated for Christmas!
+
+<sub>Also in: [Family Fun](#kids)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="day-trips"></a>
+
+## 🚗 Day Trips
+
+Easy drives from Williamsburg.
+
+#### [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp)
+
+📍 Jamestown to Surry · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry)
+
+- Take the free ferry across the James River to Surry and have lunch at Surry Seafood.
+
+<sub>Also in: [Boats & Ferries](#boats), [Family Fun](#kids)</sub>
+
+#### [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry)
+
+📍 Surry (across the James River) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA)
+
+- Waterfront lunch after the free Jamestown ferry ride.
+
+<sub>Also in: [Restaurants](#restaurants), [Seafood & Oysters](#seafood)</sub>
+
+#### [Yorktown](https://www.visityorktown.org/)
+
+📍 Yorktown · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA)
+
+- Visit for the beach, sailboat tours and sushi on the beach at Umi.
+
+<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches)</sub>
+
+#### [Fort Monroe National Monument](https://www.nps.gov/fomr/)
+
+📍 Hampton · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument)
+
+- Beach plus historical sightseeing.
+
+<sub>Also in: [History](#history), [Beaches & Outdoors](#beaches)</sub>
+
+#### [Virginia Air & Space Science Center](https://vasc.org/)
+
+📍 Hampton (about 36 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA)
+
+- Part of NASA Langley, a little past Newport News.
+- Aircraft and spacecraft exhibits, an IMAX theater, and interactive exhibits for kids and adults.
+
+<sub>Also in: [Family Fun](#kids)</sub>
+
+#### Korean restaurants & groceries in Newport News
+
+📍 Newport News · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA)
+
+- Newport News has some very authentic Korean restaurants and grocery stores.
+
+<sub>Also in: [Restaurants](#restaurants), [Shops & Groceries](#shopping)</sub>
+
+#### [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/)
+
+📍 Norfolk (about 40 minutes away) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk)
+
+- The biggest naval base in the world. A great place to see destroyers and other giant ships.
+
+<sub>Also in: [Family Fun](#kids), [Boats & Ferries](#boats)</sub>
+
+#### [Virginia Beach](https://www.visitvirginiabeach.com/)
+
+📍 About 1 hour 15 minutes away · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk)
+
+- From here it's about another hour to the Outer Banks.
+
+<sub>Also in: [Beaches & Outdoors](#beaches)</sub>
+
+#### [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/)
+
+📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium)
+
+- Connor's favorite ropes course! Treetop trails and ziplines next to the aquarium.
+
+<sub>Also in: [Family Fun](#kids), [Beaches & Outdoors](#beaches)</sub>
+
+#### [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing)
+
+📍 Virginia Beach · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park)
+
+- Has a beach and is close to Virginia Beach.
+
+<sub>Also in: [Beaches & Outdoors](#beaches), [History](#history)</sub>
+
+#### [Outer Banks](https://www.outerbanks.org/)
+
+📍 North Carolina (about 1 hour past Virginia Beach) · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC)
+
+- Keep going from Virginia Beach for another hour.
+
+<sub>Also in: [Beaches & Outdoors](#beaches)</sub>
+
+[↑ Back to sections](#sections)
+
+<a id="road-trip"></a>
+
+## 🛣️ On the Way (DC ↔ Williamsburg)
+
+Worth a stop on the drive down or back.
+
+#### [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm)
+
+📍 Shenandoah National Park · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park)
+
+- Try to take Skyline Drive to or from Williamsburg.
+- A 105-mile scenic road running north–south along the crest of the Blue Ridge Mountains through Shenandoah National Park.
+
+<sub>Also in: [Beaches & Outdoors](#beaches)</sub>
+
+#### [Luray Caverns](https://luraycaverns.com/)
+
+📍 Luray, near Skyline Drive · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns)
+
+- The largest cavern system in the eastern United States.
+
+<sub>Also in: [Family Fun](#kids)</sub>
+
+#### [Charlottesville](https://www.visitcharlottesville.org/)
+
+📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA)
+
+- Stop for more historical sites.
+
+<sub>Also in: [History](#history)</sub>
+
+#### [Fredericksburg](https://www.visitfred.com/)
+
+📍 On the way from DC · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA)
+
+- Stop for more historical sites.
+
+<sub>Also in: [History](#history)</sub>
+
+#### Hagerstown, MD
+
+📍 Maryland · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Hagerstown+MD)
+
+- So glad you stopped by Hagerstown as well! That restaurant looks amazing!
+
+[↑ Back to sections](#sections)
+
+<a id="all-places"></a>
+
+## 📋 All places A–Z
+
+| Place | Where | Sections |
+|---|---|---|
+| [The Adventure Park at Virginia Aquarium](https://myadventurepark.com/location/virginia-beach-va/) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=The+Adventure+Park+at+Virginia+Aquarium) | [Family Fun](#kids), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
+| [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
+| [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History](#history) |
+| The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
+| [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See in Williamsburg](#must-see), [History](#history), [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
+| [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History](#history), [Day Trips](#day-trips) |
+| [Fort Monroe National Monument](https://www.nps.gov/fomr/) | Hampton · [map](https://www.google.com/maps/search/?api=1&query=Fort+Monroe+National+Monument) | [History](#history), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Fredericksburg](https://www.visitfred.com/) | On the way from DC · [map](https://www.google.com/maps/search/?api=1&query=Fredericksburg+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History](#history) |
+| Hagerstown, MD | Maryland · [map](https://www.google.com/maps/search/?api=1&query=Hagerstown+MD) | [On the Way (DC ↔ Williamsburg)](#road-trip) |
+| [Hayashi Sushi & Grill](https://www.newport-news.org/visitors/where-to-dine/74/hayashi-sushi-and-grill) | City Center, Newport News · [map](https://www.google.com/maps/search/?api=1&query=Hayashi+Sushi+%26+Grill+11820+Merchants+Walk+Newport+News+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
+| [Ichiban](http://ichibannewtown.com/) | New Town · [map](https://www.google.com/maps/search/?api=1&query=Ichiban+4905+Courthouse+St+Williamsburg+VA) | [Restaurants](#restaurants) |
+| [Jamestown](https://historicjamestowne.org/) | Jamestown · [map](https://www.google.com/maps/search/?api=1&query=Historic+Jamestowne) | [History](#history), [Beaches & Outdoors](#beaches), [Boats & Ferries](#boats), [Family Fun](#kids) |
+| [Jamestown Settlement](https://www.jyfmuseums.org/visit/jamestown-settlement) | Jamestown · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Settlement) | [History](#history), [Family Fun](#kids) |
+| [Jamestown–Scotland Ferry](https://www.virginiadot.org/travel/ferry-jamestown.asp) | Jamestown to Surry · [map](https://www.google.com/maps/search/?api=1&query=Jamestown+Scotland+Ferry) | [Boats & Ferries](#boats), [Day Trips](#day-trips), [Family Fun](#kids) |
+| [Kephi Greek Kitchen](https://kephigreek.kitchen/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Kephi+Greek+Kitchen+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
+| [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=King%27s+Arms+Tavern+Williamsburg+VA) | [Restaurants](#restaurants), [History](#history) |
+| Korean restaurants & groceries in Newport News | Newport News · [map](https://www.google.com/maps/search/?api=1&query=Korean+restaurants+Newport+News+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Day Trips](#day-trips) |
+| [Le Yaca](https://www.opentable.com/r/le-yaca-williamsburg) | High Street, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Le+Yaca+1430+High+Street+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
+| [Luray Caverns](https://luraycaverns.com/) | Luray, near Skyline Drive · [map](https://www.google.com/maps/search/?api=1&query=Luray+Caverns) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Family Fun](#kids) |
+| [Mason School of Business](https://mason.wm.edu/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Alan+B.+Miller+Hall+Mason+School+of+Business+Williamsburg) | [Must-See in Williamsburg](#must-see) |
+| [Merchants Square](https://www.merchantssquare.org/) | Downtown Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Merchants+Square+Williamsburg+VA) | [Must-See in Williamsburg](#must-see), [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
+| [New Town](https://www.newtownwilliamsburg.com/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=New+Town+Williamsburg+VA) | [Shops & Groceries](#shopping), [Restaurants](#restaurants) |
+| [Norfolk & Naval Station Norfolk](https://www.visitnorfolk.com/) | Norfolk (about 40 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Naval+Station+Norfolk) | [Day Trips](#day-trips), [Family Fun](#kids), [Boats & Ferries](#boats) |
+| [Outer Banks](https://www.outerbanks.org/) | North Carolina (about 1 hour past Virginia Beach) · [map](https://www.google.com/maps/search/?api=1&query=Outer+Banks+NC) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [The Peanut Shop of Williamsburg](https://www.merchantssquare.org/merchant/the-peanut-shop-of-williamsburg/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=The+Peanut+Shop+of+Williamsburg+Merchants+Square) | [Shops & Groceries](#shopping) |
+| [Pocahontas statue](https://historicjamestowne.org/visit/plan-your-visit/monuments-pocahontas/) | Historic Jamestowne (Jamestown Island) · [map](https://www.google.com/maps/search/?api=1&query=Pocahontas+statue+Historic+Jamestowne) | [History](#history) |
+| [Sal's by Victor](https://www.virginia.org/listing/sals-by-victor-italian-restaurant-%26-pizzeria/881/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Sal%27s+by+Victor+1242+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see) |
+| [Saturday organ recital in the Wren Chapel](https://www.wm.edu/sites/historiccampus/visiting/organrecitals/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Chapel+William+%26+Mary) | [Music](#music), [History](#history) |
+| [Sir Christopher Wren Building](https://www.colonialwilliamsburg.org/locations/wren-building/) | William & Mary · [map](https://www.google.com/maps/search/?api=1&query=Wren+Building+William+%26+Mary) | [Must-See in Williamsburg](#must-see), [History](#history), [Music](#music) |
+| [Skyline Drive](https://www.nps.gov/shen/planyourvisit/driving-skyline-drive.htm) | Shenandoah National Park · [map](https://www.google.com/maps/search/?api=1&query=Skyline+Drive+Shenandoah+National+Park) | [On the Way (DC ↔ Williamsburg)](#road-trip), [Beaches & Outdoors](#beaches) |
+| [The Surry Seafood Co.](https://www.opentable.com/r/the-surry-seafood-co-surry) | Surry (across the James River) · [map](https://www.google.com/maps/search/?api=1&query=The+Surry+Seafood+Co+633+Marina+Dr+Surry+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Day Trips](#day-trips) |
+| Umi Sushi | Yorktown waterfront · [map](https://www.google.com/maps/search/?api=1&query=Umi+Sushi+327+Water+St+Yorktown+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood), [Beaches & Outdoors](#beaches) |
+| [Virginia Air & Space Science Center](https://vasc.org/) | Hampton (about 36 minutes away) · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Air+and+Space+Science+Center+Hampton+VA) | [Family Fun](#kids), [Day Trips](#day-trips) |
+| [Virginia Beach](https://www.visitvirginiabeach.com/) | About 1 hour 15 minutes away · [map](https://www.google.com/maps/search/?api=1&query=Virginia+Beach+Boardwalk) | [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [William & Mary campus](https://www.wm.edu/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=College+of+William+%26+Mary+Williamsburg+VA) | [Must-See in Williamsburg](#must-see), [History](#history) |
+| [Williamsburg Farmers Market](https://www.williamsburgfarmersmarket.com/) | Merchants Square, near the Wren Building · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Farmers+Market+Merchants+Square) | [Shops & Groceries](#shopping), [Must-See in Williamsburg](#must-see), [Holiday & Winter](#holiday) |
+| [Williamsburg Inn](https://www.colonialwilliamsburg.org/stay-play/accommodations/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Inn) | [Romantic & Fancy](#romantic), [History](#history) |
+| [Williamsburg Lodge](https://www.marriott.com/en-us/hotels/phfak-williamsburg-lodge-autograph-collection/overview/) | Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Lodge+Autograph+Collection) | [Romantic & Fancy](#romantic) |
+| [Williamsburg Premium Outlets](https://www.premiumoutlets.com/outlet/williamsburg) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Williamsburg+Premium+Outlets) | [Shops & Groceries](#shopping) |
+| [Yorktown](https://www.visityorktown.org/) | Yorktown · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Beach+Yorktown+VA) | [History](#history), [Beaches & Outdoors](#beaches), [Day Trips](#day-trips) |
+| [Yorktown Sailing Charters](https://www.sailyorktown.com/) | Riverwalk Landing, Yorktown · [map](https://www.google.com/maps/search/?api=1&query=Yorktown+Sailing+Charters+425+Water+St+Yorktown+VA) | [Boats & Ferries](#boats), [Romantic & Fancy](#romantic) |
+
+---
+
+<sub>Hours, seasons and schedules change, so check each website before you go. To add or edit a place, update `places.yml` and run `python3 build.py`.</sub>
