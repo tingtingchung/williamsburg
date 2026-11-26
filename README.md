@@ -7,10 +7,10 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 ## Sections
 
 - [⭐ Must-See](#must-see) (7)
-- [🏛️ History in Williamsburg](#history-williamsburg) (5)
+- [🏛️ History in Williamsburg](#history-williamsburg) (6)
 - [🏛️ History within 30 minutes](#history-30) (4)
 - [🏛️ History within 2 hours](#history-2h) (7)
-- [🎶 Music](#music) (3)
+- [🎶 Music](#music) (4)
 - [🍽️ Restaurants](#restaurants) (16)
 - [🕯️ Romantic & Fancy](#romantic) (5)
 - [🦪 Seafood & Oysters](#seafood) (7)
@@ -18,7 +18,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (11)
 - [⛵ Boats & Ferries](#boats) (4)
-- [🎢 Family Fun](#kids) (15)
+- [🎢 Family Fun](#kids) (16)
 - [🎄 Holiday & Winter](#holiday) (7)
 - [🚗 Day Trips](#day-trips) (17)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
@@ -126,6 +126,16 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 - Schedule one whole day for Colonial Williamsburg. It's a must-see!
 
 <sub>Also in: [Must-See](#must-see), [Family Fun](#kids), [Holiday & Winter](#holiday)</sub>
+
+#### [Colonial Williamsburg Fifes & Drums](https://www.colonialwilliamsburg.org/events/music-fife-drum-march/)
+
+📍 Duke of Gloucester Street, Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Duke+of+Gloucester+Street+Colonial+Williamsburg)
+
+- Hear Revolutionary War field music as the Fifes & Drums march down Duke of Gloucester Street. It's a must on any Colonial Williamsburg day!
+- They perform in the Historic Area from mid-February through December. March times change day to day, so check the schedule link (or the Colonial Williamsburg events calendar) for today's march.
+- In May, Drummer's Call weekend brings fife and drum corps from around the country for a Grand March and a torch-lit evening Military Tattoo.
+
+<sub>Also in: [Music](#music), [Family Fun](#kids)</sub>
 
 #### [King's Arms Tavern](https://www.colonialwilliamsburg.org/stay-play/dining/historic-taverns/kings-arms-tavern/)
 
@@ -275,6 +285,16 @@ Free music in historic places.
 
 - Every year the Virginia Symphony Orchestra plays a free "Symphony Under the Stars" concert at William & Mary's outdoor amphitheatre by the lake, usually in late summer or early September.
 - Free, but you need a wristband, handed out at the gate before the concert. Go early, because once the wristbands run out the concert is full.
+
+#### [Colonial Williamsburg Fifes & Drums](https://www.colonialwilliamsburg.org/events/music-fife-drum-march/)
+
+📍 Duke of Gloucester Street, Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Duke+of+Gloucester+Street+Colonial+Williamsburg)
+
+- Hear Revolutionary War field music as the Fifes & Drums march down Duke of Gloucester Street. It's a must on any Colonial Williamsburg day!
+- They perform in the Historic Area from mid-February through December. March times change day to day, so check the schedule link (or the Colonial Williamsburg events calendar) for today's march.
+- In May, Drummer's Call weekend brings fife and drum corps from around the country for a Grand March and a torch-lit evening Military Tattoo.
+
+<sub>Also in: [History in Williamsburg](#history-williamsburg), [Family Fun](#kids)</sub>
 
 #### [Yorktown Beach & summer festivals](https://www.visityorktown.org/)
 
@@ -844,6 +864,16 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Holiday & Winter](#holiday)</sub>
 
+#### [Colonial Williamsburg Fifes & Drums](https://www.colonialwilliamsburg.org/events/music-fife-drum-march/)
+
+📍 Duke of Gloucester Street, Colonial Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Duke+of+Gloucester+Street+Colonial+Williamsburg)
+
+- Hear Revolutionary War field music as the Fifes & Drums march down Duke of Gloucester Street. It's a must on any Colonial Williamsburg day!
+- They perform in the Historic Area from mid-February through December. March times change day to day, so check the schedule link (or the Colonial Williamsburg events calendar) for today's march.
+- In May, Drummer's Call weekend brings fife and drum corps from around the country for a Grand March and a torch-lit evening Military Tattoo.
+
+<sub>Also in: [Music](#music), [History in Williamsburg](#history-williamsburg)</sub>
+
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
 📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg)
@@ -1265,6 +1295,7 @@ Worth a stop on the drive down or back.
 | [Chrysler Museum of Art](https://chrysler.org/) | Norfolk (about 40 minutes) · [map](https://www.google.com/maps/search/?api=1&query=Chrysler+Museum+of+Art+Norfolk+VA) | [Day Trips](#day-trips), [Family Fun](#kids) |
 | The Coffeehouse | Between Jamestown and Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=The+Coffeehouse+5251+John+Tyler+Hwy+Williamsburg+VA) | [Coffee](#coffee) |
 | [Colonial Williamsburg](https://www.colonialwilliamsburg.org/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Colonial+Williamsburg+Visitor+Center) | [Must-See](#must-see), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| [Colonial Williamsburg Fifes & Drums](https://www.colonialwilliamsburg.org/events/music-fife-drum-march/) | Duke of Gloucester Street, Colonial Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Duke+of+Gloucester+Street+Colonial+Williamsburg) | [Music](#music), [History in Williamsburg](#history-williamsburg), [Family Fun](#kids) |
 | [Fat Canary](https://www.merchantssquare.org/merchant/fat-canary/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Fat+Canary+Williamsburg+VA) | [Restaurants](#restaurants), [Romantic & Fancy](#romantic) |
 | [Fat Tuna Grill & Oyster House](http://www.fattunagrill.com/) | Richmond Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Fat+Tuna+Grill+and+Oyster+House+1433+Richmond+Rd+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [First Landing State Park](https://www.dcr.virginia.gov/state-parks/first-landing) | Virginia Beach (about 1 hour 10 minutes) · [map](https://www.google.com/maps/search/?api=1&query=First+Landing+State+Park) | [Beaches & Outdoors](#beaches), [History within 2 hours](#history-2h), [Day Trips](#day-trips) |
