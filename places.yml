@@ -179,6 +179,16 @@ places:
       - Free admission, every day of the year!
       - Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
 
+  - name: Campbell Archaeology Center
+    url: https://www.colonialwilliamsburg.org/discover/historic-area/campbell-archaeology-center/
+    map: Campbell Archaeology Center 326 W Francis St Williamsburg VA
+    area: 326 W. Francis St, across Nassau St from the Art Museums
+    tags: [rainy-day, kids, history-williamsburg]
+    notes:
+      - Colonial Williamsburg's brand-new archaeology center (opened April 2026), and it's free!
+      - Watch archaeologists clean and study real artifacts in the labs, see the "Wall of Wonder" with more than 80 finds, and try hands-on activities in the Discovery Lab.
+      - Open Tuesday–Saturday, 10am–5pm. Pair it with the free Art Museums right across the street.
+
   - name: Colonial Williamsburg Visitor Center
     url: https://www.colonialwilliamsburg.org/visit/know-before-you-go/
     map: Colonial Williamsburg Visitor Center 101 Visitor Center Dr Williamsburg VA

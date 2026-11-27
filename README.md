@@ -9,7 +9,7 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 ## Sections
 
 - [⭐ Must-See](#must-see) (9)
-- [🏛️ History in Williamsburg](#history-williamsburg) (8)
+- [🏛️ History in Williamsburg](#history-williamsburg) (9)
 - [📜 History within 30 minutes](#history-30) (6)
 - [🧭 History within 2 hours](#history-2h) (7)
 - [🎶 Music](#music) (4)
@@ -20,9 +20,9 @@ My personal tips for visiting Williamsburg and Virginia's Historic Triangle: whe
 - [☕ Coffee](#coffee) (4)
 - [🏖️ Beaches & Outdoors](#beaches) (12)
 - [⛵ Boats & Ferries](#boats) (5)
-- [🎢 Family Fun](#kids) (20)
+- [🎢 Family Fun](#kids) (21)
 - [🎄 Holiday & Winter](#holiday) (7)
-- [☔ Rainy Day](#rainy-day) (10)
+- [☔ Rainy Day](#rainy-day) (11)
 - [🚗 Day Trips](#day-trips) (19)
 - [🛣️ On the Way (DC ↔ Williamsburg)](#road-trip) (5)
 - [📋 All places A–Z](#all-places)
@@ -172,6 +172,16 @@ Colonial Williamsburg and the William & Mary campus, all within walking distance
 
 - Free admission, every day of the year!
 - Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
+
+<sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids)</sub>
+
+#### [Campbell Archaeology Center](https://www.colonialwilliamsburg.org/discover/historic-area/campbell-archaeology-center/)
+
+📍 326 W. Francis St, across Nassau St from the Art Museums · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Campbell+Archaeology+Center+326+W+Francis+St+Williamsburg+VA)
+
+- Colonial Williamsburg's brand-new archaeology center (opened April 2026), and it's free!
+- Watch archaeologists clean and study real artifacts in the labs, see the "Wall of Wonder" with more than 80 finds, and try hands-on activities in the Discovery Lab.
+- Open Tuesday–Saturday, 10am–5pm. Pair it with the free Art Museums right across the street.
 
 <sub>Also in: [Rainy Day](#rainy-day), [Family Fun](#kids)</sub>
 
@@ -1003,6 +1013,16 @@ Kid-approved (Connor-approved!) things to do.
 
 <sub>Also in: [Rainy Day](#rainy-day), [History in Williamsburg](#history-williamsburg)</sub>
 
+#### [Campbell Archaeology Center](https://www.colonialwilliamsburg.org/discover/historic-area/campbell-archaeology-center/)
+
+📍 326 W. Francis St, across Nassau St from the Art Museums · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Campbell+Archaeology+Center+326+W+Francis+St+Williamsburg+VA)
+
+- Colonial Williamsburg's brand-new archaeology center (opened April 2026), and it's free!
+- Watch archaeologists clean and study real artifacts in the labs, see the "Wall of Wonder" with more than 80 finds, and try hands-on activities in the Discovery Lab.
+- Open Tuesday–Saturday, 10am–5pm. Pair it with the free Art Museums right across the street.
+
+<sub>Also in: [Rainy Day](#rainy-day), [History in Williamsburg](#history-williamsburg)</sub>
+
 #### [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/)
 
 📍 Williamsburg · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg)
@@ -1251,6 +1271,16 @@ Indoor ideas for a wet day.
 - Two museums under one roof, the DeWitt Wallace Decorative Arts Museum and the Abby Aldrich Rockefeller Folk Art Museum, with activities for kids.
 
 <sub>Also in: [History in Williamsburg](#history-williamsburg), [Family Fun](#kids)</sub>
+
+#### [Campbell Archaeology Center](https://www.colonialwilliamsburg.org/discover/historic-area/campbell-archaeology-center/)
+
+📍 326 W. Francis St, across Nassau St from the Art Museums · [🗺️ Map](https://www.google.com/maps/search/?api=1&query=Campbell+Archaeology+Center+326+W+Francis+St+Williamsburg+VA)
+
+- Colonial Williamsburg's brand-new archaeology center (opened April 2026), and it's free!
+- Watch archaeologists clean and study real artifacts in the labs, see the "Wall of Wonder" with more than 80 finds, and try hands-on activities in the Discovery Lab.
+- Open Tuesday–Saturday, 10am–5pm. Pair it with the free Art Museums right across the street.
+
+<sub>Also in: [Family Fun](#kids), [History in Williamsburg](#history-williamsburg)</sub>
 
 #### [Colonial Williamsburg Visitor Center](https://www.colonialwilliamsburg.org/visit/know-before-you-go/)
 
@@ -1568,6 +1598,7 @@ Worth a stop on the drive down or back.
 | [Berret's Seafood Restaurant & Taphouse Grill](https://www.merchantssquare.org/dine/) | Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Berret%27s+Seafood+Restaurant+199+S+Boundary+St+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Blue Talon Bistro](https://bluetalonbistro.com/) | Prince George St, next to Merchants Square · [map](https://www.google.com/maps/search/?api=1&query=Blue+Talon+Bistro+420+Prince+George+St+Williamsburg+VA) | [Restaurants](#restaurants) |
 | [Busch Gardens Williamsburg](https://buschgardens.com/williamsburg/) | Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Busch+Gardens+Williamsburg) | [Family Fun](#kids), [Holiday & Winter](#holiday) |
+| [Campbell Archaeology Center](https://www.colonialwilliamsburg.org/discover/historic-area/campbell-archaeology-center/) | 326 W. Francis St, across Nassau St from the Art Museums · [map](https://www.google.com/maps/search/?api=1&query=Campbell+Archaeology+Center+326+W+Francis+St+Williamsburg+VA) | [Rainy Day](#rainy-day), [Family Fun](#kids), [History in Williamsburg](#history-williamsburg) |
 | Carino's Seafood | Ironbound Road, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Carino%27s+Seafood+4391+Ironbound+Rd+Williamsburg+VA) | [Seafood & Oysters](#seafood), [Shops & Groceries](#shopping) |
 | [Casa Pearl](https://www.eatcasapearl.com/) | Merrimac Trail, Williamsburg · [map](https://www.google.com/maps/search/?api=1&query=Casa+Pearl+722+Merrimac+Trail+Williamsburg+VA) | [Restaurants](#restaurants), [Seafood & Oysters](#seafood) |
 | [Charlottesville](https://www.visitcharlottesville.org/) | On the way from DC (about 2 hours) · [map](https://www.google.com/maps/search/?api=1&query=Charlottesville+VA) | [On the Way (DC ↔ Williamsburg)](#road-trip), [History within 2 hours](#history-2h) |
