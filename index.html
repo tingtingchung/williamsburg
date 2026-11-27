@@ -38,6 +38,7 @@
 --wren:#9b3a24;--wrend:#6f2615}
 :root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
 *{box-sizing:border-box;min-width:0}
+[hidden]{display:none!important}
 html{scroll-padding-top:170px}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Work Sans",system-ui,sans-serif;overflow-x:clip}
 a{color:var(--bay)}
@@ -184,10 +185,12 @@ const card = (p, cur) => {
     (p.area ? '<p class="area">' + esc(p.area) + '</p>' : '') +
     '<ul>' + p.notes.map(n => '<li>' + esc(n) + '</li>').join('') + '</ul>' +
     (p.tip ? '<p class="tip"><strong>Tip:</strong> ' + esc(p.tip) + '</p>' : '') +
-    '<div class="foot"><a class="map" href="' + mapUrl(p) + '">Map</a>' + (also ? '<span>Also in</span>' + also : '') + '</div></article>';
+    '<div class="foot"><a class="map" href="' + mapUrl(p) + '">Map</a>' + (also ? '<span>' + (cur ? 'Also in' : 'In') + '</span>' + also : '') + '</div></article>';
 };
 
-main.innerHTML = D.sections.map(s => {
+const textOf = p => [p.name, p.area, ...p.notes, p.tip, ...p.tags.map(t => strip(byKey[t].title))].join(' ').toLowerCase();
+const searchText = D.places.map(textOf);
+main.innerHTML = '<section class="sec" id="results" hidden><header><h2>Search results</h2><p id="rcount"></p></header><div class="grid" id="rgrid"></div></section>' + D.sections.map(s => {
   const ps = D.places.filter(p => p.tags.includes(s.key));
   return '<section class="sec" id="' + esc(s.key) + '" data-k="' + esc(s.key) + '"><header><h2>' + esc(strip(s.title)) + '</h2>' +
     (s.intro ? '<p>' + esc(s.intro) + '</p>' : '') + '</header><div class="grid">' + ps.map(p => card(p, s.key)).join('') + '</div></section>';
@@ -196,26 +199,30 @@ main.innerHTML = D.sections.map(s => {
 const sat = document.getElementById('saturday');
 main.querySelector('#must-see header')?.after(sat);
 
+const results = document.getElementById('results');
+const rgrid = document.getElementById('rgrid');
+const rcount = document.getElementById('rcount');
+const empty = document.getElementById('empty');
 const apply = () => {
   const h = location.hash.slice(1);
   const k = byKey[h] ? h : 'all';
   const term = q.value.trim().toLowerCase();
-  for (const a of chips.querySelectorAll('a')) a.setAttribute('aria-current', a.dataset.k === k ? 'true' : 'false');
-  let shown = 0;
-  for (const sec of main.querySelectorAll('.sec')) {
-    let n = 0;
-    for (const c of sec.querySelectorAll('.card')) {
-      const ok = !term || c.dataset.text.includes(term);
-      c.hidden = !ok; if (ok) n++;
-    }
-    const vis = (k === 'all' || sec.dataset.k === k) && n > 0;
-    sec.hidden = !vis; if (vis) shown++;
+  for (const a of chips.querySelectorAll('a')) a.setAttribute('aria-current', !term && a.dataset.k === k ? 'true' : 'false');
+  if (term) {
+    const hits = D.places.filter((p, i) => searchText[i].includes(term));
+    rgrid.innerHTML = hits.map(p => card(p, null)).join('');
+    rcount.textContent = hits.length === 1 ? '1 place' : hits.length + ' places';
+    for (const sec of main.querySelectorAll('.sec')) sec.hidden = sec !== results || hits.length === 0;
+    empty.hidden = hits.length > 0;
+    return;
   }
-  document.getElementById('empty').hidden = shown > 0;
-  sat.hidden = !!term;
+  results.hidden = true;
+  empty.hidden = true;
+  for (const sec of main.querySelectorAll('.sec')) if (sec !== results) sec.hidden = !(k === 'all' || sec.dataset.k === k);
 };
 const go = () => { apply(); const h = location.hash.slice(1); if (byKey[h]) document.getElementById('chips').querySelector('[data-k="' + h + '"]')?.scrollIntoView({block:'nearest', inline:'center'}); };
-window.addEventListener('hashchange', () => { go(); if (byKey[location.hash.slice(1)]) document.querySelector('.bar').scrollIntoView(); });
+window.addEventListener('hashchange', () => { q.value = ''; go(); if (byKey[location.hash.slice(1)]) document.querySelector('.bar').scrollIntoView(); });
+chips.addEventListener('click', e => { if (q.value && e.target.closest('a')) { q.value = ''; setTimeout(go, 0); } });
 q.addEventListener('input', apply);
 go();
 }
